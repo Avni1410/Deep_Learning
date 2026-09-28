@@ -1,0 +1,1862 @@
+category,split,query_id,candidate,target,caption_1,caption_2
+dress,val,dress_val_00000,B005X4PL1G,B0084Y8XIU,is shiny and silver with shorter sleeves,fit and flare
+dress,val,dress_val_00001,B008XODTD0,B00AKLK08G,is grey with black design,is a light printed short dress
+dress,val,dress_val_00002,B00BPYP69K,B00CMPE0C0,is a solid red color,shorter and tighter with more blue and white
+dress,val,dress_val_00003,B000QSGNOI,B004UO3XYC,is a plain white feminine t shirt,is a tan shirt.
+dress,val,dress_val_00004,B00FQANLX2,B007U6KROG,has thin straps and different pattern,more autumn colored and longer
+dress,val,dress_val_00005,B00CL14N3Q,B004KHOPDW,is longer and more sculptural,rushed solid green
+dress,val,dress_val_00006,B009CMY4BS,B0091PLEKA,is gold and strapless, button front longer sleeves
+dress,val,dress_val_00007,B00896JPTE,B004P7TNIY,is longer and less casual and sleeveless,is a sleeveless black dress
+dress,val,dress_val_00009,B000WIRE54,B007UYY43I,has longer sleeves and a different color,has longer sleeves and is more casual
+dress,val,dress_val_00010,B009KQVCAM,B00A0I6GSC,its blue with higher neckline,is more blue and higher at the neckline
+dress,val,dress_val_00011,B00FHFMMMW,B00F5DPMIM,is softly colored,has no shoulder straps and looser skirt
+dress,val,dress_val_00012,B00DH06JSW,B00C0X5FG4,is white with black polka dots,is not see through
+dress,val,dress_val_00013,B008YIZM80,B005OOUCLE,has more black designs,has a paint pattern
+dress,val,dress_val_00014,B009DI5YSS,B008MNM7Y4,Is more black and elegant,is solid black and has shorter sleeves
+dress,val,dress_val_00015,B007GB2BZI,B009S5XX0M,is blue print with short sleeves,is a blue print
+dress,val,dress_val_00016,B005GYSR64,B004JU0AF2,is a solid color with square neckline,the dress is brown with straps
+dress,val,dress_val_00017,B00CW6HT7W,B00DVH1QS4,is off the shoulder with one shorter sleeve,has longer sleeves
+dress,val,dress_val_00018,B004VJ217Q,B00DC6UJ0K,has more flair and smaller print,is shorter
+dress,val,dress_val_00019,B007B6WEA0,B007H3JJHI,Is longer and fun,is white and green
+dress,val,dress_val_00020,B0061IXDTU,B008P3DTZC,Is light colored with shorter sleeves,leopard print with deeper neck
+dress,val,dress_val_00021,B00B67ELUG,B009OJFHGA,has more pattern and longer sleeves,has sleeves and is a print
+dress,val,dress_val_00022,B00BFGBJ3K,B006ZKN7UY,is white in color with short sleeves,is more plain
+dress,val,dress_val_00023,B008UEW5RO,B00AIBYV1K,is more transparent,is more solid colored
+dress,val,dress_val_00024,B006CR1XG0,B0089CNC92,Is lighter with a floral pattern.,is blue with straps
+dress,val,dress_val_00025,B00499DHK8,B003ZUWZ3M,has longer sleeves and has stripes,has a higher neckline with sleeves
+dress,val,dress_val_00026,B005AQCKBQ,B008CPJIWG,has more contrast,Is sleeveless and lighter in color.
+dress,val,dress_val_00027,B008BHSG82,B007WA2VB2,Has a darker long skirt and lighter top.,is gray and fitted at waist
+dress,val,dress_val_00028,B007G6BODI,B008PZ0Y62,Is darker and shorter in length.,is sleeveless
+dress,val,dress_val_00029,B00BQVAVRY,B005SMZW7Q,is shorter with longer sleeves,is shorter has three quarter length sleeves
+dress,val,dress_val_00030,B00AHHR22A,B00A846WGO,is black and two straps,has gold top half and black bottom half
+dress,val,dress_val_00031,B00466ICP4,B00A0TSV2U,is black with no straps and red designs,shorter
+dress,val,dress_val_00032,B00EXMSRW4,B001VZ6H5U,is sleeveless and white with dark printed design,has a pattern
+dress,val,dress_val_00033,B0080N9HNU,B006ZO5GC2,is shorter and has animal print,the dress has cheetah print and more revealing
+dress,val,dress_val_00034,B00B7WGMXE,B0097JDP3Y,is light blue in color,has more blue
+dress,val,dress_val_00035,B005QYY5W4,B005KMQQFQ,is red and longer,is red and is much longer
+dress,val,dress_val_00036,B00G6TRZE8,B003ZJ6GCO,a low cut black gown,is in solid black and a lot longer.
+dress,val,dress_val_00037,B0054DKVWK,B0076ZYQ6G,is a black dress,the dress is black and not a shoe
+dress,val,dress_val_00039,B00B53A556,B008N2O3NW,is brighter and longer,is pink and longer
+dress,val,dress_val_00040,B005DWYMPO,B005H6XSQA,has one shoulder strap and grey,has one shoulder strap
+dress,val,dress_val_00041,B00FXZX2I4,B00997L4QE,is solid red,is red.
+dress,val,dress_val_00042,B00DOS53RA,B00B59UOBU,is longer darker,Is longer and simplier
+dress,val,dress_val_00044,B00B923WCQ,B005GQPE4K,one shouldered grey dress,Is more blue and has a slit
+dress,val,dress_val_00045,B00DU6GJJC,B00CFYDMM2,has a u shaped neck with sleeves,is black and patterned
+dress,val,dress_val_00046,B009PXRLIW,B00C93VT5G,is orange with thinner straps,is not patterned and orange
+dress,val,dress_val_00047,B000S5FE7G,B00AXDA432,Is black with higher sleeves.,has more above shoulder straps
+dress,val,dress_val_00048,B0082BBVI4,B008A1X87S,is pink and strapless,is bright pink colored
+dress,val,dress_val_00049,B007ZDYK2E,B00BFPGAGM, shorter skirt,na
+dress,val,dress_val_00050,B00BOPQZ86,B006XZAOR0,needs navy blue dress with shoulder straps,is blue with straps
+dress,val,dress_val_00051,B00967AMPG,B00AWM67OE,less full skirt with slit to thigh,has a slit and is more form fitting
+dress,val,dress_val_00052,B002XUY8SA,B006330SY6,this white maxi looks long and casual,is longer white and has floral
+dress,val,dress_val_00053,B002OEYH3Q,B008YIGWOS,Has long sleeves and patterned,is in brownish coloring.
+dress,val,dress_val_00054,B0043D2HME,B00CFEVLBQ,is strapless,is blue and more revealing
+dress,val,dress_val_00055,B00AOJVGYQ,B00AAOD3LO,is brighter in color,is a light floral pattern
+dress,val,dress_val_00056,B00AWKKHOC,B0087YZPJ2,is darker and longer,is plain black with waterfall hem and is more dressy
+dress,val,dress_val_00057,B00BAHX7Z2,B008E7IA0I, with a black,is longer and blue and black
+dress,val,dress_val_00058,B00CL0VWTA,B00CF2X97M,is poka dots and tighter fitting,is blue with sleeves and dots
+dress,val,dress_val_00060,B0092QK9AY,B007ORZ1PG,is solid nude color,has straps instead of long sleeves and has two colors
+dress,val,dress_val_00061,B00CH8U9BI,B009NXZXDO,Is strapless with black stripes.,has no shoulder straps
+dress,val,dress_val_00062,B0081JJ9FO,B0097C8UAO,is a black dress with a shade of grey,is similar in black
+dress,val,dress_val_00064,B00FZ00I7U,B0091WZCE2,is gold and shiny,is more ombre and less geometric
+dress,val,dress_val_00065,B008VIR88U,B0052B66GY,is solid black,is long
+dress,val,dress_val_00066,B0094QX5SK,B00B1AVTWG,is offwhite with black belt and longer seethrough skirt,is white with a black belr
+dress,val,dress_val_00067,B001HK23KM,B002TKJL40, and black,the shoulder straps more resemble a crop top.
+dress,val,dress_val_00068,B0066NI17E,B00DC0XN0O,is longer and has more pink,is pink with sleeves
+dress,val,dress_val_00069,B005DRAVT0,B007RB7J4K,Is lighter and has shorter sleeves,is black and less revealing
+dress,val,dress_val_00070,B007B98014,B004SIUT1A, black with red belt,It is less black and has a shoulder off
+dress,val,dress_val_00071,B007MLVQ1C,B005J92XW0,is grey with vertical designs,is darker in color
+dress,val,dress_val_00072,B00B2JJ15S,B00ASIH0ZC,has shorter sleeves and is straight,is grey and belt-less
+dress,val,dress_val_00073,B004OLGO24,B002FOR462,is shorter with thin straps,is black and more wide
+dress,val,dress_val_00074,B004VLI08S,B007PAD51E,is less party like,has a white bodice and grey skirt
+dress,val,dress_val_00076,B00E00SG7K,B00AHFXVUO,has green top and multi-colored striped bottom,is strapless
+dress,val,dress_val_00077,B007FKA7E2,B0029XKWKO,plain black and sleeveless,is darker in color and solid colored
+dress,val,dress_val_00078,B006UCQYMA,B00AHOY6VS,is short and black with short sleeves,Is black and not two pieces.
+dress,val,dress_val_00079,B00B08494E,B00CVTMGTG,has no sleeves with slim straps floral dress,is longer and has a circular pattern
+dress,val,dress_val_00080,B006361YUA,B0095JQU2E,is white and strapless,Is white
+dress,val,dress_val_00081,B002Z7FONO,B00B5P4VG8,is a formal v necked gown,is v neck and longer
+dress,val,dress_val_00082,B0054N0S6E,B0095WSNZ8,is darker and has shorter sleeves,does not cover the sholders
+dress,val,dress_val_00083,B008596XXG,B0094GWN38,is white and less revealing,is white and same length all around bottom
+dress,val,dress_val_00084,B0047MEZNK,B00DS1XAXM,is more of headwear,is a zebra head and not a dress
+dress,val,dress_val_00085,B00A8CDCD2,B006ZUSYN4,is darker and has no sleeves,is black and white and has an empire waist
+dress,val,dress_val_00086,B007W9ZSEA,B00BU5GGXE,has more color contrast,is pink and black
+dress,val,dress_val_00087,B00B5KMPA2,B00B1G5SPY,is longer with no straps,is much longer and dark
+dress,val,dress_val_00088,B002TKJL40,B0038HFFXY,has longer sleeves,is short sleeved and shorter
+dress,val,dress_val_00089,B00BT8N1DK,B00DVG348U,is below the knee and darker, and long
+dress,val,dress_val_00090,B007Y37P22,B006ZR2U8W,more revealing and shorter in length,is more strappy and emerald
+dress,val,dress_val_00091,B008LTJG3E,B00D4JNBC8,has a brighter color and is more of a boot with shorter heels,is a shoe
+dress,val,dress_val_00092,B004OHYU4M,B0033VBAKC,is gray and shorter,is shorter and ruffled
+dress,val,dress_val_00093,B00DQHXEO8,B00DV3WRA4,shorter sleeves and chevron striped,has chevron pattern
+dress,val,dress_val_00094,B002EAJ79E,B002XW6XZE,is green with flowers,is longer and more colorful
+dress,val,dress_val_00095,B003XQG930,B001BFYXZG,has collars,empire waist
+dress,val,dress_val_00096,B007SOULGY,B009SPZ72E,has short sleeves,has a peasant neckline and short sleeves
+dress,val,dress_val_00097,B00D75WT4U,B00CII5YD0,is more revealing,has a more open top.
+dress,val,dress_val_00098,B008BHCS2C,B0097BCW4U,Is more casual and pink,pink empire waist
+dress,val,dress_val_00099,B00740W2VY,B000RL3V58,Is longer and more Asian-inspired,is longer and shiny black
+dress,val,dress_val_00100,B008RMIF5A,B006R3CSGS, and handkerchief hemline,is more blue and longer
+dress,val,dress_val_00101,B00AWKKHOC,B0091GR192,is lighter, orange and sleeveless
+dress,val,dress_val_00102,B008E7IA12,B00BGK4I3S,is green pattern and lightly pleated,has a floral print that is harder to see.
+dress,val,dress_val_00103,B00BJ1NFNI,B005FVRJMQ,has a shiny print with straps,is more shiny
+dress,val,dress_val_00104,B005FLWZCA,B0087PLHB6,is a lighter color,is solid white
+dress,val,dress_val_00105,B0030IMZ1G,B001FWNNC4,has longer sleeves and lighter in color,is solid colors with short sleeves.
+dress,val,dress_val_00106,B006U07GW4,B005OBAGD6,Is a short blue v neck sleeveless dress,has sleeves and is a solid brighter color blue
+dress,val,dress_val_00107,B004QL3YBG,B00BG5R3KS,is pink,is darker in color and doesn't have tulle
+dress,val,dress_val_00108,B008LTJG3E,B0096MMWXG,has a multi-colored pattern,is printed and shorter
+dress,val,dress_val_00109,B009SI9OTS,B00730ZGCM,is dark blue and has silky looks,It is more gleaming and white
+dress,val,dress_val_00110,B006330SY6,B002EANP9W,brown and flowers thin scrapes and look very casual,is darker and shorter
+dress,val,dress_val_00111,B00EBZUV0Y,B00EODXN1W,Is a long red sleeveless dress.,is red and spaghetti strapped
+dress,val,dress_val_00112,B00DRB9XJS,B002UD5URS, strapless,has longer sleeves and a logo
+dress,val,dress_val_00113,B006G35WJY,B008583TT8,has longer sleeves and is shorter,is shorter and less fitted
+dress,val,dress_val_00114,B0095QLSJW,B00A16VH28,is dark colored and longer sleeves,is shorter and red with sleeves
+dress,val,dress_val_00115,B00AAD6KOM,B0094KQ1NC,is white with dots and a black belt,Is white
+dress,val,dress_val_00116,B00FP87XX4,B009IE33SU,is orange and has longer sleeves,is orange and has longer sleeves
+dress,val,dress_val_00117,B00AKB3VPA,B005DN88YY,has longer sleeves,has black and brown patterns
+dress,val,dress_val_00118,B008OKGFF2,B00ETGEI1I,is longer sleeved with black skirt,is long sleeve and darker pattern with black skirt
+dress,val,dress_val_00119,B002DI8HQG,B00A7DWWAQ,is shorter with black belt,is shorter
+dress,val,dress_val_00120,B008B2OOQK,B004LKRWGA,is over one shoulder and pink,has a strap on online on side and is pink
+dress,val,dress_val_00121,B007XATMYA,B00ABF01BM,is a shorter wrap around dress,has longer sleeves
+dress,val,dress_val_00122,B0097J0RVC,B0091QSKHE,is a white dress with a short jacket,one shouldered
+dress,val,dress_val_00123,B004YHIH28,B0096L8FL0,is white in color, all white and long
+dress,val,dress_val_00124,B003U6Y7SC,B008VO44X6,is orange and less revealing,is orange and ruffled.
+dress,val,dress_val_00125,B0016LHFE6,B009LIHN3O,is sexier and more revealing,it has no collar and has a shorter sleeve
+dress,val,dress_val_00126,B00EOW7882,B00D61ZCGW,is more revealing and longer,It is longer and has no sleeves
+dress,val,dress_val_00127,B007SVFCAW,B008ODSK5M,is light in color and stripped shoulder., and has one strap
+dress,val,dress_val_00128,B00E00SG7K,B00DESMJKE,is shorter and has less cleavage exposure,is floral patterned  and shorter
+dress,val,dress_val_00129,B001NJ5LZG,B0046Q4K6E,the red color looks more attractive and party wear,is red with a higher neckline
+dress,val,dress_val_00131,B007EGKM5G,B00AHTJVCC,Has a shiny fabric and is longer.,is longer
+dress,val,dress_val_00132,B007SV9A5A,B005EOD18K,is more floral print and less striped, white
+dress,val,dress_val_00133,B00CAMMV5S,B00CAMJMRS,Is more purple and elegant,is darker purple in colour
+dress,val,dress_val_00134,B00CY8S8P0,B00DJZM0Z6,is white with more open shoulder on sleeve, purple embellished dress
+dress,val,dress_val_00135,B007TDELU6,B00AA95P56,has longer sleeves and a shorter skirt,it shorter and has longer sleeves
+dress,val,dress_val_00136,B00AZE7306,B00686DR00,id darker with no sraps,is a black ruffles design.
+dress,val,dress_val_00137,B00C7BSFX4,B004R9PFGE,is more colorful and striped,More colorful and more casual
+dress,val,dress_val_00138,B00B79JOJG,B00B90O740,I want something less revealing and brighter.,It is red
+dress,val,dress_val_00139,B00BOPQZ86,B00EFE9MII,is white and larger,Solid white and much longer.
+dress,val,dress_val_00140,B00GMIQG34,B00A36LLR2,is  black classy dress with white collar,is more formal
+dress,val,dress_val_00142,B006361ONM,B00DCCJBKS,is black in color and sexy dress,is black and more fitted
+dress,val,dress_val_00143,B006C4GIS6,B00AEEFOYO,is shorter,is off one shoulder and shorter
+dress,val,dress_val_00144,B007PPHY70,B00662GT3I,is more colorful and looser,mover chest coverage and wider skirt
+dress,val,dress_val_00145,B00B6PTBX0,B00BPBCKQK,has spaghetti straps and is red,is sleeveless and denim
+dress,val,dress_val_00146,B00CF3BFWM,B00A64SMJQ,Is brighter and longer in length.,is longer and more formal
+dress,val,dress_val_00147,B0069IWITS,B0054O6FI8,is a darker color,has more red and more designs
+dress,val,dress_val_00148,B00BUVJTSC,B00845SFV4, and red pattern. With short sleeves,More yellow and thinner strap
+dress,val,dress_val_00149,B00AYLAFOG,B007Y2BWO0,has longer sleeves and has a different pattern,Is lighter in color and longer sleeves
+dress,val,dress_val_00150,B001DXL1WY,B00575VVGU,Is less revealing and has a pattern,less of a V-neck
+dress,val,dress_val_00151,B00F150ZXQ,B00BOXD234,is solid white and high low,is slightly shorter and more colorful.
+dress,val,dress_val_00152,B009CQNT6U,B00D8CY56W,has a more modest neck line and is solid black,Shows less skin and has more black
+dress,val,dress_val_00153,B007TUE48S,B0092PKPKE,more dark black dress,is dark colored
+dress,val,dress_val_00154,B00AD11FFU,B00BJGW386,is darker purple and strapless,is shorter and more formal
+dress,val,dress_val_00156,B00BJS2MS0,B00CFUEL3K,is longer and has orange pink and blue,has brighter colors and is longer in back
+dress,val,dress_val_00157,B002N8CDA2,B00CLJWXQ2,is darker,is more flowing and blue
+dress,val,dress_val_00158,B00B2FEFNU,B009C6OO8C,is darker and less sheer,is solid black
+dress,val,dress_val_00159,B00BXK91FG,B0070YINNK,Is dark grey and longer sleeves,is black colored with patterns
+dress,val,dress_val_00160,B00DQ686X8,B0058JXYYW,is solid black with loose a tophalf,has long sleeves and is less form-fitting
+dress,val,dress_val_00162,B005MN4RLS,B005GMTBPC,is a short black skirt with blue blouse,Has more blue and is shorter
+dress,val,dress_val_00163,B007Q39QB8,B00E9O5JWM,about the same but less revealing chest, no patterns
+dress,val,dress_val_00164,B00F4O129A,B007G6BODI,is more free and brighter,is off one sholder and fuller
+dress,val,dress_val_00165,B00DDX15TG,B007NLX7SQ,is longer and darker,is a darker color print design.
+dress,val,dress_val_00166,B009CPQZ12,B00DMZAHL2,is solid pink,is pink and longer
+dress,val,dress_val_00167,B00C2G1HCA,B00AYR2L4M,is solid pale green with cap sleeves,is short sleeved and scooped neck
+dress,val,dress_val_00168,B007IGI8D0,B002TYZD02,has open shoulders straps and fitted with no belt,light color
+dress,val,dress_val_00169,B00AFK163A,B0061RGQEU,is more purple with black designs,is darker and more uniform patterned
+dress,val,dress_val_00170,B005JDB3UO,B00EOXSEN4,has a high-low hem and no words,is pink and flowing
+dress,val,dress_val_00172,B00D7ISRPC,B00E808KYQ,is an orange,is red and white with sleeves
+dress,val,dress_val_00173,B0058XPHQG,B0085U9J5E,is more patterned with shorter sleeves, blue and has sleeves
+dress,val,dress_val_00174,B004EHON6W,B0093K54X6,is red more loose fittiing dress,is orange and has shorter sleeves
+dress,val,dress_val_00175,B00AFDH25I,B00EZW2J8A,Black and white with striped patterns,black and white with sleeves
+dress,val,dress_val_00176,B004FPYVO2,B004FPYW7I,has long sleeves and a shorter hemline,is a red and black floral pattern
+dress,val,dress_val_00177,B0061IXDTU,B009PL4RH2,is more loose fitting,is darker and more conservative
+dress,val,dress_val_00178,B002TKJL40,B001HK23TS, a solid,is much shorter
+dress,val,dress_val_00179,B00967AMPG,B0097JITVM,is more princess like,is a lot shorter and pure white with straps.
+dress,val,dress_val_00180,B009FEMH76,B007WASVRK,more vintage styled and sleeveless,Is darker in color and sleeveless
+dress,val,dress_val_00181,B007SX36PI,B008B5AU1A,Is blue with a belted waist.,longer drop waist pink patterned
+dress,val,dress_val_00182,B009MB17B4,B007C7JGSG,has spaghetti straps and is blue,is blue with thin straps
+dress,val,dress_val_00183,B00E0OSMS4,B00AELHLFC,has floral design,has flowers and is blue
+dress,val,dress_val_00184,B009X6E9E0,B003ILG26E,is more casual with a tank top,Is less revealing
+dress,val,dress_val_00185,B003M4Z9OS,B009XHND2I,patterned dress with zig zags,chevron patern
+dress,val,dress_val_00186,B001QUX9KQ,B00AQOH8XW,is more black,is black with one strap
+dress,val,dress_val_00187,B0092QWVQO,B007XVBUZI,is shorter with thick straps,is a shorter dress
+dress,val,dress_val_00188,B00CFUEHAW,B00BPYQ25M,bodycon with darker color,is dark in color and more fitted
+dress,val,dress_val_00189,B00BIJGMD6,B00CCC0B1C,has more polka dots,is darker with polka dots
+dress,val,dress_val_00190,B001157SXU,B001PDM4E6,is pink and shiny with a defined bust,is a vibrant magenta
+dress,val,dress_val_00191,B0095QLSJW,B0059BGIG0,is solid black and one shouldered,is solid dark with one shoulder
+dress,val,dress_val_00192,B00DDHA7YQ,B00EBZUV0Y,is lighter,is lighter in color on bottom half
+dress,val,dress_val_00193,B0068Z9QUQ,B00C3GDHK4,is orange and solid color and has longer sleeves,Is more orange and is longer
+dress,val,dress_val_00194,B00BY3GCD6,B002MW1W6K,is gold and has a satin texture,is gold and less casual
+dress,val,dress_val_00195,B00G49G488,B007WATKGG,is long green sleeves and open wide neck,has long sleeves and is more penciled
+dress,val,dress_val_00196,B005HEJCDK,B0042ETEHK,is a combination of red and grey,is black with long sleeves
+dress,val,dress_val_00197,B008AKNE3W,B001NJ5LZG,is blue,is shorter and more revealing
+dress,val,dress_val_00198,B008VPX9BS,B00B804Y3K,is lighter,has a deep V neck and a belt
+dress,val,dress_val_00199,B00C5168K8,B0087D7OJ2,is a lighter color and is more concealing,is more patterned
+dress,val,dress_val_00200,B0060JO9BG,B007P1M3OI,is yellow in color with shorter sleeves,much more colorful and striped
+dress,val,dress_val_00201,B0073HKUWG,B00FXZX2I4,is more revealing,is a lighter color
+dress,val,dress_val_00202,B0076RQLLW,B004JLU6DM,longer and dark colored,is more black and longer
+dress,val,dress_val_00203,B0084DJQ6O,B00BJ1NFNI,is pink in color,is sleeveless and pink
+dress,val,dress_val_00204,B007SOUNSU,B0073WBRYQ,Green and shorter,is green and striped
+dress,val,dress_val_00206,B00AOWQJZ4,B00DB147AE, shinier and brighter colored,is aqua colored without a slit.
+dress,val,dress_val_00207,B00GCR5OPG,B008TS39QC,is lighter,is coral and less revealing
+dress,val,dress_val_00208,B00DR8ZWAU,B00C1ITU6Y,is more flowery and with short sleeves,is black with floral patterns
+dress,val,dress_val_00209,B0060JO9BG,B006ZIN6S4,is longer,is long with straps
+dress,val,dress_val_00210,B00BTT3R0Q,B00CCBVN1K,is no sleeves and darker color,has markings in black and red flowers.
+dress,val,dress_val_00211,B00AW7ZRM2,B0083QFSRS,has no sleeves,Is more patterned and shorter
+dress,val,dress_val_00212,B008S0HK3Y,B0062OUFZ8,is a lighter color, black
+dress,val,dress_val_00213,B007L9UQRA,B003M4Z9OS,is purple colored and sleeveless,has straps and is more navy in colour
+dress,val,dress_val_00214,B006C4GIS6,B00999J7Q6,is black and has one strap,is darker and more sexy
+dress,val,dress_val_00215,B007WPHD92,B00AFR9YH8,has longer sleeves,Longer sleeves and broader neck
+dress,val,dress_val_00216,B006TAM4CW,B0047Y0K0U,is long sleeves and biggest black striped,is darker and more striped and has longer sleeves
+dress,val,dress_val_00217,B008QVZT3I,B005DRAVT0,Is black with longer sleeves,is darker and has longer sleeves
+dress,val,dress_val_00218,B003VXVGRY,B004CZ7WUU,is shorter in length, one stripe down middle
+dress,val,dress_val_00219,B00E3HDPMQ,B0036Z2T3C,is dark blue with no sleeves,is shorter in length
+dress,val,dress_val_00220,B008BHCS2C,B0083F70SY,has a more colorful floral pattern, bleted
+dress,val,dress_val_00221,B004T20EFG,B009YZPL7O, and is solid colored,is solid blue and is shorter with straps
+dress,val,dress_val_00222,B009NCHBBW,B0075AW63M,is more revealing,is shorter
+dress,val,dress_val_00223,B00CY8T80Y,B00CQSPPLS,is more flirty and lighter,is yellow with no sleeves
+dress,val,dress_val_00224,B008E6CKVY,B004HD4V0G,is much brighter in color,More hugging and satin
+dress,val,dress_val_00225,B004DCAVT6,B004VQBUS0,has a  black and white print, only straps and comes in reflective red.
+dress,val,dress_val_00226,B00726H26K,B007IWO80Q,is similar,is lighter and more pastel
+dress,val,dress_val_00227,B0056F25J8,B004VSDS2Y,has short sleeves and is brighter,is striped and has longer sleeves
+dress,val,dress_val_00228,B0087PLHB6,B004HX2DYW,various colors stockings with holes,is a sexy leg cover
+dress,val,dress_val_00229,B004MMFVQ0,B004ECLRO8,is more metallic with a tighter fit,is a fitted grey and black mini dress with pockets.
+dress,val,dress_val_00230,B0036DE0R2,B00A16DXWK,has less sleeves with red and gray,is blue with a higher neckline and black belt
+dress,val,dress_val_00231,B008OVO8BY,B005HQ42E2,is floral printed and less striped,is white patterned and not striped
+dress,val,dress_val_00232,B001PKTT7E,B004X0VYKI,is solid colored with straps,is darker and has straps
+dress,val,dress_val_00233,B008O8MESQ,B0048C7MMU,is shorter knee length and airy,is black with straps
+dress,val,dress_val_00234,B004VM5W1K,B004VERF8Q,is black and strapless,does not cover shoulders
+dress,val,dress_val_00235,B007WA3RBK,B008BHSSMG,has more print work,is pink and less strappy
+dress,val,dress_val_00236,B00E1ZTATW,B00BUKL1IY,is solid white and longer,is black and form fitted with a v-neck
+dress,val,dress_val_00237,B0030IMZ1G,B00B95R792,is more revealing with faux leather,has a white skirt and more revealing top
+dress,val,dress_val_00238,B00G1ZZDL4,B0030CY6DW,is shorter with brighter pink shade,is more sexual
+dress,val,dress_val_00239,B008UWENTO,B0058XRPQQ,is more modest with sweetheart top and blue,is dark blue and strapless
+dress,val,dress_val_00240,B007WAT0S4,B007WATTX0,cheetah print long maxi dress,Is longer and has a different neckline.
+dress,val,dress_val_00241,B00D9E1SSW,B00CZW8P5I,v shaped neck with short sleeves,is tan and pink striped
+dress,val,dress_val_00242,B007MLM38C,B00711V8Y8,is lighter with no stripes and lots of pleats,is ivory with a layered top
+dress,val,dress_val_00243,B005ENHHZO,B00GNU62GM,has longer sleeves and is sexier,is black and more dressy
+dress,val,dress_val_00244,B00C7Z4VGU,B00BTMWMYU,is blue and strapless,is blue and strapless
+dress,val,dress_val_00245,B006MPVW4U,B007UZSPC8,is short,more purple with shorter skirt
+dress,val,dress_val_00246,B006J66U2G,B005FOPNUI,has no straps,is green and strapless
+dress,val,dress_val_00247,B00D3KBI3M,B00801W1H6,is green and has a big bow, solid black and more flared
+dress,val,dress_val_00249,B0091C68MW,B0016LHFE6,short sleeved black dress with collar,has short sleeves and a collar
+dress,val,dress_val_00250,B00CWSNY24,B00DHD7YK6,is black in color,black and sheer
+dress,val,dress_val_00251,B008BA7MPW,B009D52X44,is white colored with black floral print, sweetheart neckline
+dress,val,dress_val_00252,B0009T5VWY,B00E00GL86,is blue and shorter with no sleeves,is shorter in the front
+dress,val,dress_val_00253,B00BEJ34Q8,B00AWKKHOC,is clack in color with white boxes at the tits,the dress is black and white and shorter
+dress,val,dress_val_00254,B007F7PAOC,B005NXMECQ,is maroon in color,is purple and lacy and chic
+dress,val,dress_val_00255,B0072QV4V4,B009S3GXWY,Has lace and is short and red.,is more red and shorter
+dress,val,dress_val_00256,B00C7N0BRU,B00BM82UCK,is solid black in color,is black and long
+dress,val,dress_val_00257,B00BTT3R0Q,B008RSU56G,is a dark turquoise color with long sleeves,is a darker color and has longer sleeves
+dress,val,dress_val_00258,B0091WZCE2,B00FZ00I7U,has a colorful print,Is more whimsical
+dress,val,dress_val_00259,B0043D2HME,B009Q25IYG,Brighter and longer,is red and white with straps
+dress,val,dress_val_00260,B00CJTWWA6,B00CFMLTCY,has straps and small sleeves,A solid navy blue with belt
+dress,val,dress_val_00261,B003VQQZM2,B00BC8OO5G,is longer with no sleeves and printed,has a brown bottom and is longer
+dress,val,dress_val_00262,B00CEO4ETI,B0091QUWCK,Has a layered bottom,is white and more puffy
+dress,val,dress_val_00263,B00H2FUGOQ,B00D3KBI3M,is lighter blue with red trim,is bluer
+dress,val,dress_val_00264,B002NVCPQ6,B003VTQA1K,is blue in color,A solid blue dress
+dress,val,dress_val_00265,B006PAT5EQ,B008EOZ1SU,is more fashionable,is black and white with blue lines
+dress,val,dress_val_00266,B008LTJG3E,B004EHYFLK,is grey,Shows less skin and has material on the hips
+dress,val,dress_val_00268,B00857SPA2,B007WAT1H4,is redder with shorter sleeves,is more colordul
+dress,val,dress_val_00269,B0075AV660,B0075BUES0,is longer and more patterned,is longer and more red
+dress,val,dress_val_00270,B0095FP7VI,B007C3MKYC,Is a shimmery long sleeve short dress,sweetheart neckline
+dress,val,dress_val_00271,B00CQ9U2UQ,B008FPXR3Y,is strapless and solid black,is black with no sleeves
+dress,val,dress_val_00272,B00CFYDMM2,B00BPCXXIS,is blue with long sleeves,is lighter
+dress,val,dress_val_00273,B0055OGJLU,B004VLI08S,has a tighter fit and is pink,pink.
+dress,val,dress_val_00275,B0054N0S6E,B00DSI8WYW,has floral and long sleeves,has longer sleeves and a lighter pattern
+dress,val,dress_val_00276,B006G3YVBE,B00B3EHWYO,Is younger and more printed.,is shorter in color
+dress,val,dress_val_00277,B005D9IGMM,B008BFR8PQ,Is more revealing and fitted,has more cutouts
+dress,val,dress_val_00278,B004EHON6W,B00AV4VOX2,is longer with a floral pattern,is longer and has thin strap sleeves
+dress,val,dress_val_00279,B00BNVAH6M,B00BU9S4V2,has longer sleeves and is black,is black
+dress,val,dress_val_00280,B0067PFCXM,B00B5MK7N2,is yeloow with zipper in front,is blue and shorter sleeved
+dress,val,dress_val_00281,B00CFYDMM2,B00DRB9XJS,has more lace and no sleeves,is sleeveless with a lacy neck
+dress,val,dress_val_00282,B00C6PP5CA,B00AHOY8H0,is shorter and has a little design,dark and short
+dress,val,dress_val_00283,B00FZVANC4,B00428LYOM,is body suit in solid color,is black and less revealing
+dress,val,dress_val_00284,B0074H8I6K,B007FPDWDU,has a single strap on the right shoulder and is long,has black and white explosion pattern
+dress,val,dress_val_00285,B00405RUWC,B0085JAH88,has longer sleeves, white
+dress,val,dress_val_00286,B00595TNMM,B008MZS5Y8,is shorter and darker,is shorter
+dress,val,dress_val_00289,B00A16KWZ6,B009LGQ9EA, and is a lighter color,is sleeveless
+dress,val,dress_val_00290,B002UD64NW,B009EMNLOC,is silky and bright,is silver
+dress,val,dress_val_00291,B00C7Z4VGU,B00AWGHWFS,is longer and more clolorful,is more colorful and sleeveless
+dress,val,dress_val_00292,B008BWOCGC,B008BDJDE2,is a halter and solid color,Light & Dark color
+dress,val,dress_val_00293,B008006FK6,B009MIRC6Q,is shorter length and darker,is black with three quarter length sleeves
+dress,val,dress_val_00295,B009SPZ72E,B0049LG51E,is plus-sized and long.,is purple and has long sleeve
+dress,val,dress_val_00296,B007RTTKA8,B00E9LE61K,is black and less revealing.,is tigher and two-toned
+dress,val,dress_val_00297,B009PKDTEA,B00BM0R2K8,is black and is shorter and more dressy,It is more black and has a short sleeve
+dress,val,dress_val_00298,B002N8CDA2,B009SK85S2,Is dark purple with straps.,is longer and is purple
+dress,val,dress_val_00299,B0070IN282,B00G1ZZDL4,is pink and floor lenght with glitter belt,is much longer and lighter in color
+dress,val,dress_val_00300,B008D5GUJY,B001QCXH4W, patterned and much longer,is a faded yellow
+dress,val,dress_val_00301,B004OHYU4M,B008NHSU3G,is black colored and has floral pattern,is darker and longer
+dress,val,dress_val_00302,B00DUL8IWS,B00CFT03IS,is more casual,is peach with a black belt
+dress,val,dress_val_00303,B00383UG6E,B0085TUWRO,is blue in color and has stripe pattern of black,is lighter colored and strappy
+dress,val,dress_val_00305,B003A84EOM,B0049R7YVI,Is more colorful.,is pink and has straps
+dress,val,dress_val_00306,B0036SHD1W,B0079EIXI6,is white with red floral print,is pink and more flowing
+dress,val,dress_val_00307,B0007WIZYE,B00B6PT8EW,Is a darker color with no sleeves.,is darker and has no sleeves
+dress,val,dress_val_00308,B0037PVUW2,B007NG77PU,black satin ribbon belt in front and lace top,is shorter and fluffier
+dress,val,dress_val_00309,B008D6LE3A,B008D5B2HO,is solid black with shorter sleeves,is black and more revealing
+dress,val,dress_val_00310,B0084Y2V6A,B009OB2OJ6,Is solid black with a hemline above the knees,is shorter and darker in color
+dress,val,dress_val_00312,B0030CY6DW,B002VNFKTU, and strapless,is darker and printed
+dress,val,dress_val_00313,B007TUE48S,B00655A1TE,has more fringes and more sleeves, red and black dress
+dress,val,dress_val_00314,B0045EPT8A,B003ILRVZU,is more revealing and shiny and gold,is more revealing and shiny
+dress,val,dress_val_00315,B007RBIRK0,B004MMFVQ0,is shorter,shorter
+dress,val,dress_val_00316,B00BG4M4BM,B00A16KWZ6,A black dress that has long lacy sleeves,N/A second picture is not a fashion product
+dress,val,dress_val_00317,B005GMTBPC,B00CZ6G09C, and thin fitting,Sleeveless purple ruffle dress
+dress,val,dress_val_00318,B0071UPNJ0,B007AAP4TK,has longer sleeves with darker color,is black and shinier
+dress,val,dress_val_00319,B007C7JGSG,B00CTKTIQ6,is white colored with British flag,is a t shirt with the British flag in the background and a phone booth in the front.
+dress,val,dress_val_00320,B008UPM3SO,B00CHS9KTA,is blue with short sleeves,belted and sleeved
+dress,val,dress_val_00321,B007Y0UKN6,B00CSQ15KS,has no sleeves and a print,is black
+dress,val,dress_val_00322,B0099DCINQ,B009AG55Q4,is shorter with a peplum sytle,more sexy
+dress,val,dress_val_00323,B00ASPCIF2,B004QF0KO6,is more plain and has tank top sleeves,is shorter and souped neck
+dress,val,dress_val_00324,B00AXX86TG,B007OZSURE,navy and more casual,is one toned
+dress,val,dress_val_00325,B0072QV4V4,B0072QWBDE,is yellow with thin straps,yellow with thin straps
+dress,val,dress_val_00326,B00BXNNZ64,B00B50Y9CO,is pink-gray striped,is pink and  grey striped
+dress,val,dress_val_00327,B00AWM67OE,B00967AMPG,is less revealing and better design,has a wider skirt and no side split
+dress,val,dress_val_00328,B00DONTLP0,B008J25Y20,black color dress looks too bold,Is shorter and sexier
+dress,val,dress_val_00329,B005GMT86Y,B005MN4RLS,has long sleeves and has more coverage,is a little thinner
+dress,val,dress_val_00330,B0032FOQUU,B008B845AO,is a black dress with longer sleeves,The desired product is slightly longer and is less textured.
+dress,val,dress_val_00331,B00A16KWZ6,B00CAKLNY0,is blue and has a belt,is blue with shorter sleeves
+dress,val,dress_val_00332,B00DVPO5VQ,B006R1FJOS,has a square neckline and sleeves,is shorter and polka dotted with sleeves
+dress,val,dress_val_00333,B008YIG3DI,B005LC303G,is lighter,is lighter in color
+dress,val,dress_val_00334,B00CA38COQ,B006YTLWLM,is white in color with thicker straps,is shorter
+dress,val,dress_val_00335,B008FD9MG2,B00AEMHDIG,longer sleeves and grey,has longer sleeves
+dress,val,dress_val_00336,B008GRR6II,B008A4RNR6,is brown and more shiny,is brow
+dress,val,dress_val_00337,B004RJ8IHW,B00F9AJ5Y8,is sexier and slim fit,is more form-fitting
+dress,val,dress_val_00338,B00ABSUHMC,B00DNJ6ALS,is more flowing and muted,has a psychedelic print and is longer
+dress,val,dress_val_00339,B0015SKXG2,B0094E3HDU,has stipes and has less sleeves,is black and white striped
+dress,val,dress_val_00340,B0097IX9NQ,B0097J2E2M,has no sleeves and more gathering on skirt,is sleeveless
+dress,val,dress_val_00341,B004UJHMKS,B007LA4RZQ,is black with a flower,is longer and a darker color
+dress,val,dress_val_00342,B00C2LPWCQ,B00BT8N1DK,is plain white with transparent sleeves,is white with less sheer.
+dress,val,dress_val_00343,B006TALF54,B0073DLNE4,is sleeveless and stripes horizontally,striped
+dress,val,dress_val_00344,B00DUL8IWS,B00AFDJ0HG,is a white short sleeved dress. With lace shoulders., cap sleeves
+dress,val,dress_val_00345,B0083QEJL4,B0058BWBJY,has slightly longer sleeves,is in solid black.
+dress,val,dress_val_00346,B007RB7IJG,B0077SLOJE,has longer sleeves and is all black,straighter skirt in green color
+dress,val,dress_val_00347,B007ZDYK2E,B005XW1D4M,is longer with a white and black pattern,is printed and has short sleeves
+dress,val,dress_val_00348,B008ATH59C,B005N4L15G, is more revealing,has a vneck with long sleeves and is a mini dress
+dress,val,dress_val_00349,B00A13GLG8,B008KCUXLQ,is tan and black in color,is tan with black piping
+dress,val,dress_val_00350,B0091QSKHE,B0097J0RVC,os less detailed,is more white and strapless
+dress,val,dress_val_00351,B0061IQ32E,B00DB9POOY, with a white chest portion, shorter
+dress,val,dress_val_00352,B00598QDJK,B007RTTKA8,is satinier and has shorter sleeves,is less revealing and has longer sleeves
+dress,val,dress_val_00353,B0079G1GL0,B0092PHFIY,is short,is knee length with long sleeves and no flowers
+dress,val,dress_val_00354,B0060RMLPO,B00E6RATRW,is shorter and more fitted,has a lower cut heart shaped neckline and is more form fitting
+dress,val,dress_val_00355,B007ZDYK2E,B00BZTBYQO,has cap sleeves and is longer,has shoulders flow
+dress,val,dress_val_00356,B007SX36PI,B00AKCGNP4,is not as shiny,is pink and has longer sleeves
+dress,val,dress_val_00357,B009AMQ2WY,B0030EHJCU,has longer sleeves and less fitted,is bolder
+dress,val,dress_val_00358,B0084OEYX8,B0076IN1MI,has no sleeves and is green, and black
+dress,val,dress_val_00360,B002VLK54C,B0032SBJWK,has different prints of roses,is just a pattern
+dress,val,dress_val_00361,B009LJ8W4W,B008D5AYOG,has two long sleeves and more ruffles,is pink and ruffly
+dress,val,dress_val_00362,B0084DJQ6O,B004FPYVO2,is longer and off the shoulder print,is much lighter in color
+dress,val,dress_val_00363,B008E7IA12,B00BVGHQKO,is light blue in color,is blue and flowy
+dress,val,dress_val_00364,B00AEW4384,B00BQMJP6Q,is strapless and fitted,is a blue and black pattern
+dress,val,dress_val_00365,B005X4RMW2,B00APYBFPK,is london times,no comparisoin to words
+dress,val,dress_val_00366,B00ATFWVKI,B006WVGYAG,Has a cold shoulder top and is red.,longer
+dress,val,dress_val_00367,B008596V88,B007WAETMG, white,is long with black and white stripes
+dress,val,dress_val_00368,B007M8PCAQ,B0085U94ZO,Is more fitted and striped,is shorter and black with red stripes
+dress,val,dress_val_00369,B0095JQQZK,B0022T0W82,is white and has longer sleeves,is white and has short sleeves
+dress,val,dress_val_00370,B007LTUAUS,B007B6WEA0,is black and white with one strap,has more white
+dress,val,dress_val_00372,B005FLWZCA,B00J2UZLNU,its a dark red and not as shiny,is darker in color
+dress,val,dress_val_00373,B007XD6AMO,B008OVNLDU,a darker long sleeved dress,black with stockings
+dress,val,dress_val_00374,B007U3P8PC,B00CD9LXD4,is white colored and have thicker straps,has straps and more varied pattern
+dress,val,dress_val_00375,B007L9UQRA,B0080DKT9G,is orange and has straps,Is orange and more revealing
+dress,val,dress_val_00376,B008E6CKVY,B004E9SNTS,is longer and open cleavage,is longer and blue patterned
+dress,val,dress_val_00377,B008CB707K,B0082BCNZY,is yellow and one shouldered floral print,is brighter colored and less flowy
+dress,val,dress_val_00378,B0070TYH1M,B009LLG8BE,Is more black and simple, darker and has green
+dress,val,dress_val_00379,B007TUECJ4,B009OCNXE0,is more poofy and less prefessional,is strapless
+dress,val,dress_val_00380,B007G1015U,B0076R8552,is blue with dots,is strapless and patterned
+dress,val,dress_val_00381,B00A3EZC4M,B00CTTJCUY,is bed with some rhinestones,sexier and bright purple
+dress,val,dress_val_00382,B00A3UUE76,B006UT2TPY,is form fitted,is leather and fitted
+dress,val,dress_val_00384,B00EYSAIPG,B008LCUUEK,is open shouldered and a shorter lenght,is shorter and strapless
+dress,val,dress_val_00385,B00CLF5ZFC,B003YKZ42W,is strapless with a blue pattern,is strapless and blue printed
+dress,val,dress_val_00386,B00F55FSWK,B00AY30MJM, with pale green trim and pale green belt,is less black
+dress,val,dress_val_00387,B00297BG7I,B007Y37P22,This dress is longer,is darker and sleeveless
+dress,val,dress_val_00388,B009ERW1KW,B008BHHSAY,sleeveless and black lace,is black with straps
+dress,val,dress_val_00389,B00DBCUIJM,B0072IL71E,is less revealing,is darker and has a web design
+dress,val,dress_val_00390,B00897AQ9G,B002Z7FP1A,is sleeveless with polka dotted skirt,is sleeveless and white and black
+dress,val,dress_val_00391,B004EHON6W,B00775SIPA,is white short sleeved button dress,white with shorter sleeves
+dress,val,dress_val_00392,B00DERHT5A,B00CORDX4W,is lighter,is shinier and more ruffled
+dress,val,dress_val_00393,B0085TUWRO,B00383UG6E,has thicker straps and black colored,is darker colored with dots and covers shoulders
+dress,val,dress_val_00394,B00FZ00I7U,B00CGY6RJ6,Is brighter with longer hemline.,is more flowing and one colored
+dress,val,dress_val_00395,B008MWER8E,B007XW7BVY, orange,is longer and more formal.
+dress,val,dress_val_00396,B0092PKYNM,B009NDC59O,is teal colored and sleeveless,more colorfol and big belt
+dress,val,dress_val_00397,B00DM0REWC,B00EYSAIPG,is longer and more attractive,is longer
+dress,val,dress_val_00398,B00AVV833O,B0091SFTVC,has capped sleeves and is black with flaired bottom,is all black
+dress,val,dress_val_00399,B006W20H0I,B00C6PP5CA,is long,is darker and longer
+dress,val,dress_val_00400,B007R1YUI8,B004MDL8KW,has no straps and has prints,is sleeveless and strapless with pale blue panel
+dress,val,dress_val_00401,B0096C2UVA,B009DMCMNO,is black colored with longer sleeves,black and white.
+dress,val,dress_val_00402,B002YQ47SE,B00C62EKDS,is bright white,is white in color and less flattering
+dress,val,dress_val_00403,B002HCNMTU,B008NW1PGU,has a deep neck cut and flowy sleeves,is blue and brown with a v neck and short sleeves
+dress,val,dress_val_00404,B0097B5S8C,B00H15C73K,has short sleeves,is more traditional and short sleeves
+dress,val,dress_val_00405,B007XD6RYK,B00AIIQLNO,is a tighter fit and a lighter color with a waistband,It is shorter and more tight
+dress,val,dress_val_00406,B007CU5A7E,B007ZIRHQA,is longer and lighter,has a white top with a black waist
+dress,val,dress_val_00407,B00AODC7BS,B00FXAC5SM,has shorter sleeves and is tighter,is sleeveless and fitted
+dress,val,dress_val_00408,B009G0RL4I,B00B9BFL4E, longer with short sleeves and buttons up front,is black
+dress,val,dress_val_00409,B008YIG3DI,B009AMLLVG,Is a sporty cream and blue short dress,lighter and thinner straps
+dress,val,dress_val_00410,B003BT62A4,B004LKRWRY,in more white and flowing,is light in color and shorter in length
+dress,val,dress_val_00412,B007G4ZTTK,B00A772MCU,is more pink and patterned,is darker
+dress,val,dress_val_00413,B00DR3TRJ2,B00DU6GMRG,Is green and more revealing,has a green color and no sleeves
+dress,val,dress_val_00414,B00BY3GO0C,B00ARLIDF6,Has long-sleeves and is more complex,White almost see-through long-sleeved zig zagged design
+dress,val,dress_val_00415,B008HSGOKC,B005FSIX5G,has spagetti straps,is shorter and has spaghetti straps.
+dress,val,dress_val_00417,B0083UY0LY,B003ILC99S,tube top grey dress,shows cleavage and is longer
+dress,val,dress_val_00418,B00ATGT8IK,B006VVMOTC,is printed all over and long sleeved,is more animal print and has long sleeves.
+dress,val,dress_val_00419,B004ECLRO8,B004GBAUBS,Blue and doesn't have animal like print,is shorter and more blue
+dress,val,dress_val_00420,B00CH8U9BI,B007VZ30FO,is black and tight,is black with thin straps
+dress,val,dress_val_00421,B00BTUULCC,B00CHHL10M,is more casual,is peach with no sleeves
+dress,val,dress_val_00422,B00498CQ9M,B009LEFR4A,has graphics and is more loud,also contains white and has short sleeves
+dress,val,dress_val_00423,B00B72LAS6,B00D79OJHQ,is long and white,is lighter and longer with no sleeves
+dress,val,dress_val_00424,B00E00SG7K,B00BPYWKO4,is more edy,is a floral print and fitted
+dress,val,dress_val_00425,B008596PSY,B007WADW7E,has longer sleeves and is shorter length, more geometric print and shinier
+dress,val,dress_val_00426,B00ATFWVKI,B005FMSW3U,is lighter with a floral print,is in a floral print design.
+dress,val,dress_val_00427,B007ZDYK2E,B00C3CUNT6, shorter skirt,na
+dress,val,dress_val_00428,B00B2UEOEK,B00BMAPIB8,is black and mint green,is more see through
+dress,val,dress_val_00429,B008UH8MY6,B00715FFX4,is sleeveless with an orange and tan  print,is floral and stapless
+dress,val,dress_val_00431,B004S0O8HO,B005JSTILA,is more floral,is more strappy and colorful
+dress,val,dress_val_00433,B0009T8KS6,B00FS3EAOQ,is darker and sleeveless,is strapless
+dress,val,dress_val_00434,B0084DJQ6O,B005GNVV5Y,has shorter sleeves and a v-neck,Is wider and longer
+dress,val,dress_val_00435,B007ZPXMXA,B0067IDDF8,is shorter,is lime green
+dress,val,dress_val_00436,B008X0KHCU,B00E0IXSKC,is white and gray and more professional, mat black and red geometric pattern
+dress,val,dress_val_00437,B008006CXG,B00B2OFP0I,has thinner straps with a scoop neck and is black,has thin straps and is in all black.
+dress,val,dress_val_00438,B008BRLWA6,B0069IWITS,is a black and white dress,is strapless
+dress,val,dress_val_00439,B00AOWQJZ4,B008AKNE3W,has thin straps and no slit,has spaghetti straps and no slit
+dress,val,dress_val_00440,B007PMBZ00,B007TMBT5M,has a floral print and is less fitted,is very light and more flowing
+dress,val,dress_val_00441,B007NG6V6Q,B004RJ8IHW,has longer sleeves,has a pattern and longer sleeves
+dress,val,dress_val_00442,B006UR05S4,B007PPHY70,is longer,has red and white v stripes
+dress,val,dress_val_00443,B00F4N004Y,B007GSG3U0,is a cream dress with an open bottom with no sleeves,more revealing and more plain
+dress,val,dress_val_00444,B007GSG3U0,B0038KR31I,has smaller straps,is darker
+dress,val,dress_val_00445,B004S0O8HO,B00B5MHQCW,is very stylish and long,is black and longer
+dress,val,dress_val_00446,B004DVT2SI,B0064J5JPC,has stripes and more grren,is shorter in length and multicolored
+dress,val,dress_val_00447,B00C17P8W0,B004A15UO6,is short and beige,is short and pink
+dress,val,dress_val_00449,B002NVCPQ6,B007XTIENG,has a neck strap and is darker,is solid blue with silver highlights
+dress,val,dress_val_00451,B005IFCASW,B00CIL95XW,is an off white with short sleeves,shorter
+dress,val,dress_val_00452,B0048C7MMU,B00CFY2ZWA,is a turquoise color dress. It's longer,is blue and long
+dress,val,dress_val_00453,B002Z7FONO,B00BV3WNCI,is more formal,is longer
+dress,val,dress_val_00454,B002DI8HQG,B005T4G0F6,is a blue short dress,is sleeveless
+dress,val,dress_val_00455,B00ANR3LEM,B00DLKEQGK,has sleeves and is solid white,It has sleeves and it is more white
+dress,val,dress_val_00456,B004L2L9X0,B00C3M1IAO,has short sleeves and a v shaped neck,is dark and flowing
+dress,val,dress_val_00458,B00D178PQK,B0080E53WI,white,It is shorted and with sleeves
+dress,val,dress_val_00459,B0097J2PVM,B00B7WGMXE,is more lacy and less shiney,is less form fitting in the middle
+dress,val,dress_val_00460,B0033UVILO,B009P1MYNQ,is black and red,Is more colorful
+dress,val,dress_val_00461,B00DW61O90,B00AG3Y2JG,has long sleeves and is shortrer,is in a lighter brown and tan with slits in the midrift.
+dress,val,dress_val_00462,B005RUNC3K,B00B7DONTI,is cream and a shiny top,is tan with sleeves
+dress,val,dress_val_00463,B003ILG26E,B009X6E9E0,is sexy and navy blue and more revealing,is more revealing and flowing
+dress,val,dress_val_00464,B00CTT41D2,B00D9SL7JI,has a looser fitting skirt and darker stripes,Is less colorful and has short sleeves
+dress,val,dress_val_00465,B00B71U376,B00438RWVU,is more revealing and royal,is blue and shiny
+dress,val,dress_val_00466,B008UH8MY6,B009ES4PFA,is a black halter dress,is black and is shorter and more fitted
+dress,val,dress_val_00468,B005YUC6B2,B009817FR8,is more body fitting,Is shorter and more revealing
+dress,val,dress_val_00469,B00C5168K8,B007678MDM,is a pink casual dress,is more red
+dress,val,dress_val_00472,B008R8BFFG,B00C9OICDM, with a black matching belt,is more blue
+dress,val,dress_val_00473,B0009VT6MI,B000Z4OH0U,is shorter and wine colored,Is more colorful
+dress,val,dress_val_00474,B007IWOBBC,B0052IGRDO,is black with v neck and sleeves,is longer sleeves and darker
+dress,val,dress_val_00475,B003TJA7YI,B005278U3U,Is more belted and red,is red and belted
+dress,val,dress_val_00476,B0076QKN76,B004XJI4I4,is brown with long sleeves and a u neck,has more red
+dress,val,dress_val_00477,B0097BCW4U,B008X0ARIY,is black and more revealing,is black and short.
+dress,val,dress_val_00478,B008KPIBWQ,B008J3LWG6,has thin straps and is printed,has straps and more colors
+dress,val,dress_val_00479,B005FUMMGU,B00D2ON1H0,is white with long sleeves,is more revealing
+dress,val,dress_val_00480,B007MLM38C,B008UH8MY6,is lighter and longer,is longer and colored red
+dress,val,dress_val_00481,B00A3EZC4M,B008XODTD0,is pink,is pink
+dress,val,dress_val_00482,B004JXVQD4,B004JU1ULU,is lighter and has shorter sleeves,is white with no sleeves
+dress,val,dress_val_00483,B009NBVQ5A,B007SVFCAW,has more v neck with chevron print,Is gray and has no sleeves
+dress,val,dress_val_00484,B005GPQLO8,B004BUW6DO,has long and Vneck red color,is white with red flowers and has a halterneck
+dress,val,dress_val_00485,B007678MDM,B009YKCIIY,short yellow and blue design dress,is sleeveless with white on the top 3/4 and yellow and blue on the bottom
+dress,val,dress_val_00486,B00DO9M2VE,B008HSX5ZO,is white baby doll dress,is strapless with higher waste
+dress,val,dress_val_00487,B004A7XTUC,B005Z1XEBG, long sleeved and longer,is white with spaghetti straps
+dress,val,dress_val_00488,B00A3PEX7S,B00BNXTOGY,is longer and has a bare bak,longer and slimmer
+dress,val,dress_val_00489,B008MN5HU0,B008595HNS,has no sleeves and is solid burgandy,is in reds with ruffled fabric.
+dress,val,dress_val_00490,B00E0ORPVY,B00DOJ28UY,has a shorter hem length and smaller print,is more red and shorter
+dress,val,dress_val_00491,B005N4L15G,B007HZJE08,Grey and looser,is white with short sleeves
+dress,val,dress_val_00492,B005UX57P0,B0070L9U6M,short blue dress, and textured
+dress,val,dress_val_00493,B00EDQ7QZE,B00B4GG33W,is black capped sleeved v-necked fitted dress for evening,is more revealing
+dress,val,dress_val_00494,B00AEW4384,B00A6GCXA8,is tight fitting and shiny, white
+dress,val,dress_val_00495,B005VTKJWO,B007XCS81G,is a darker color,is more see through
+dress,val,dress_val_00496,B008LFKSF8,B00C3NG8RQ,Pink and thicker shoulder straps,has a lighter coloring.
+dress,val,dress_val_00497,B00B1G5SPY,B007TDELU6,shows less shoulder and has a deeper neckline,is black with capped sleeves and is more fitted
+dress,val,dress_val_00498,B008FPXR3Y,B00CQ9U2UQ,is more red and has sleeves,is more colorful with sleeves
+dress,val,dress_val_00499,B00726H26K,B00DJHSWI8,The other product looks more like a flapper dress,tan and salsa like
+dress,val,dress_val_00500,B00G9WJ09A,B00DG7SOTS,has a darker color and a belt,is darker with shorter sleeves
+dress,val,dress_val_00501,B00C12LOZU,B00CIEPROU,is darker,is orange
+dress,val,dress_val_00502,B004RKM1YW,B00AWP99H8,is solid red and has a high-low skirt,is bright salmon with a belt
+dress,val,dress_val_00503,B0099DC5Z2,B006VNFCNK,Is darker and more simple, has long sleeves and a lower belt
+dress,val,dress_val_00504,B003XFLQVG,B000RZSA8M,is large purple with short sleeves and a u neck,It is more plus sized and longer
+dress,val,dress_val_00505,B00EIQK2XM,B007CTLUP6,is blue in color,An orange pattern longer dress
+dress,val,dress_val_00506,B00BM82UCK,B00GMIQG34,has a see through sleeve,is shorter and elegant
+dress,val,dress_val_00507,B00BNRBLIE,B0092QK1W0,is a black knee high dress,is darker
+dress,val,dress_val_00508,B00FQANLX2,B005GA9D7K,is printed and shorter with sleeves,has short sleeves and is above the knee
+dress,val,dress_val_00509,B0058T1JNA,B005FOPWOK,has long sleeves,is more solid colored
+dress,val,dress_val_00510,B00ATPE8CW,B00BBW9YWQ,has longer sleeves and solid black,is a black mini dress with short sleeves
+dress,val,dress_val_00511,B00CIAE21S,B00EIQK2XM,black and grey stripped dress,striped and short sleeved
+dress,val,dress_val_00512,B0085U9J5E,B003Z2TRN6,has a longer hem with no lace,is longer and more colourful
+dress,val,dress_val_00513,B00C1BSDBO,B00C9K0JQY,black and white with vertical stripes and is much shorter,is striped and not as flowing
+dress,val,dress_val_00514,B00AKCGNP4,B007FO27IW,a strapless yellow bubble dress,is yellow with strappy sleeves
+dress,val,dress_val_00515,B007UZSPC8,B006QSEC4K,has a v shaped neck with no sleeves,The dress has more colors and more chest shown
+dress,val,dress_val_00516,B00D8RZKMU,B00AE4C2LC,is more floral,full dress with floral pattern
+dress,val,dress_val_00517,B00D68DXCA,B00FIZWNSY,Is more black and belted,is black and short sleeves
+dress,val,dress_val_00518,B00AYR2L4M,B005FOC9Z0,cowl neck brown dress with black belt,is brown with a dark brown belt
+dress,val,dress_val_00519,B005FOLSE8,B009SI9OTS,is blue with a large slit,is blue and more revealing
+dress,val,dress_val_00520,B009S3I7EG,B007314UDM,is dark blue colored and two straps,is black and not off the shoulder
+dress,val,dress_val_00521,B007HZAFSI,B007E66P9I,has longer sleeves and plain white,is white with longer sleeves
+dress,val,dress_val_00522,B003XRKA9I,B004PZHXZG,is white and plain pattern,is all white
+dress,val,dress_val_00525,B006ZO6A0O,B007C3S564, and pink skirt. It's tighter around the waist,has no sleeves and design
+dress,val,dress_val_00526,B002Z7FWB8,B009E2E3QM,is solid black with a v-neck and longer sleeves,is darker and has long sleeces
+dress,val,dress_val_00527,B0087YZPJ2,B00C6NLM5G,is white and black with a flared skirt,puffier skirt with a belt
+dress,val,dress_val_00528,B00CY2BD1M,B008583T7A,is shorter and darker,is darker in color
+dress,val,dress_val_00529,B0070IN282,B004NAW3HQ,is brighter in color, with a strap around the foot.
+dress,val,dress_val_00530,B00FN4A7QA,B0081JNTYG,is darker in color and more loose,is black and solid
+dress,val,dress_val_00531,B004W4YR4K,B00AO1VRF2,is a logo of a company,is a brand name
+dress,val,dress_val_00532,B0094DGGR0,B0072C7PG6,is all black with long lace sleeves,Is black and chic
+dress,val,dress_val_00533,B008Z1TX2M,B00DTWDHWO,is more open at the cleavage area,has thin straps and a pattern
+dress,val,dress_val_00534,B007B6WEA0,B007UDBI3S,has half sleeves with a tie in the back belt,is more sexual
+dress,val,dress_val_00536,B0043RSVPM,B004XBCBWM,This dress has a better mix of colorsthis dress,the dress is purple and blue with no straps
+dress,val,dress_val_00537,B004ZY06UQ,B004T20EFG,is more free and casual,has sleeves and a floral pattern
+dress,val,dress_val_00538,B00AAD6KOM,B007FWGBRW,has no sleeves and is gauzier,is longer
+dress,val,dress_val_00539,B006330SY6,B002XUY8SA,Is solid,is darker and more revealing
+dress,val,dress_val_00540,B004X0VYKI,B0098XU33E, is plain black and is shorter,is black and has a halter top.
+dress,val,dress_val_00541,B00EZK1EQK,B008OY9QUE,is longer with ruffles,Is navy and longer
+dress,val,dress_val_00542,B00CAAADZU,B00CRNS11I,Pink,is pink and less revealing
+dress,val,dress_val_00543,B006ZO6A0O,B007IWO6JO,is flirtier with shorter sleeves,is shorter and fluffy with pink bottom
+dress,val,dress_val_00544,B00499DHK8,B00763VKX0,has a yellow belt,is more fitting
+dress,val,dress_val_00545,B008MNM7Y4,B002Z7ETL2,is light pink with no sleeves,has a collar and is lighter colored
+dress,val,dress_val_00546,B00EKY4UEY,B0059BS4O4,is one color and long,has a print and is shorter
+dress,val,dress_val_00547,B00CZC6JIS,B00559SS32,Is longer with a paisley print.,has no shoulder straps and a longer skirt
+dress,val,dress_val_00549,B006WM4LYG,B003BNYA04,has a round strap along the neck,has a polka dot print
+dress,val,dress_val_00550,B005278U3U,B005GLSA0A,is longer and open at the chest,is longer with grey markings
+dress,val,dress_val_00551,B005VZ8MWC,B0058T1JNA,its longer and not so revealing,is longer and has a fuller top in all black.
+dress,val,dress_val_00552,B007JS1Y7Y,B00B5KEVPY,has more random colors and patterns,comes in separate design in four quarters in blues
+dress,val,dress_val_00553,B008RDI8MO,B008RCU9X6,has thicker straps,is grey and longer
+dress,val,dress_val_00554,B0043D2HME,B00AAL49CO,is longer and more fitting around the waist, fitted
+dress,val,dress_val_00555,B009E739Q2,B007N0B248,is yellow colored,is long and dark yellow
+dress,val,dress_val_00556,B009IFOBF8,B007IAHLOS,is shorter and darker,is shorter and more flora
+dress,val,dress_val_00557,B000BL6VJM,B007HIL16U,doesn't have embellishments,has no sleeves and is dark colored
+dress,val,dress_val_00558,B0091GQUE4,B00CVTM6XC,is a long print with tiny straps,is longer and small straps
+dress,val,dress_val_00559,B007EGKM5G,B007HSSKMI,is green with a belt and longer,is longer
+dress,val,dress_val_00560,B00EY93064,B00CJTARFI,Is more blue and  floral,has short sleeves and is multicolored
+dress,val,dress_val_00561,B004ZWG4UE,B007NCIGQ8,Has a belted waist and is lighter,Has longer sleeves and is grey in color
+dress,val,dress_val_00563,B002W77AY8,B009LV9UGO,has longer sleeves and is shorter,IS ABOVE THE KNEE AND FITTED
+dress,val,dress_val_00564,B0060RMLPO,B007WA3RBK,is shorter and all white,is white with a bow
+dress,val,dress_val_00565,B007GSGKOO,B0027CTRNK,is a blue and black dress and is less tighter,is more frilly
+dress,val,dress_val_00566,B008AIKMD4,B00BVX94NO,is a cream blouse and purple skirt,is a two-toned flowing purple
+dress,val,dress_val_00567,B0072QWT2M,B00AFR9G2Q,is shorter,more fluffy and costumey
+dress,val,dress_val_00568,B007G1015U,B0076R88V8,is strapless and pink colored,doesn't have sleeves and is printed
+dress,val,dress_val_00569,B0087YZVNC,B006ZVRIQM,is longer and darker,is longer and more patterned
+dress,val,dress_val_00570,B006362580,B0095JQTLQ,has buttons on the front,is more of a casual dress
+dress,val,dress_val_00571,B005PHZN7I,B005CNVKCC,is less shiner,is less silky looking
+dress,val,dress_val_00572,B00B2JHXOE,B007ZDYK2E,is sleeveless and belted,is sleeveless and fitted waistline
+dress,val,dress_val_00573,B009ND97G8,B008D5A9W8,long sleeved black dress,is black with longer sleeves
+dress,val,dress_val_00574,B008L7Z1B2,B00G64FYHI,is darker and has longer sleeves,is solid black.
+dress,val,dress_val_00575,B00CII41EI,B008U4K4T0, white black belt and knee length.,It is more tight and not belted
+dress,val,dress_val_00576,B00D8RZKMU,B00BEZTESO,is straight and more fitting,is more fitted and is black and gold
+dress,val,dress_val_00577,B0084YMCBY,B0084YMBQK,Has long sleeves and is navy blue,is blue
+dress,val,dress_val_00578,B001EA86KQ,B005JWELJU,is solid red and has longer sleeves,Is more solid of a red color
+dress,val,dress_val_00579,B005GMT86Y,B00DN7KGRO,is a short pink dress with short sleeve,is pink shorter and cinched waist
+dress,val,dress_val_00580,B002WV0S6G,B0036ME5BE,is shorter and more casual,is a lot shorter in tan coloring and the straps aren't similar.
+dress,val,dress_val_00581,B008CO7MGQ,B00CO9MVT8,is teal colored and longer with sleeves.,Longer and with sleeves
+dress,val,dress_val_00582,B0047MEZNK,B00DEWU6AU,is less colorful and less blousey,is black
+dress,val,dress_val_00583,B006UCPPZ2,B00AA6F0GI,Is a colorful boho dress.,is much more flowing and long
+dress,val,dress_val_00584,B0055TBJL0,B003VQRQ66,is purple and shiny,is more purple and more loose
+dress,val,dress_val_00585,B007WATI18,B008PHQ8II,is shorter and light pink,is pink and short
+dress,val,dress_val_00586,B0055OGQ7W,B0051N2MMA,has no straps with more ruffles,Is belted and draped
+dress,val,dress_val_00587,B009S0IT7E,B00CH3BZVG,is longer and is colorful,has a bright striped pattern
+dress,val,dress_val_00588,B00DDX15TG,B00DCC9ZJK,is purple colored, and a darker green.
+dress,val,dress_val_00589,B00559SS32,B00EVLIQIM,has more style,is black with stripes
+dress,val,dress_val_00590,B006WY8INO,B0075BEF4O,is more colorful and has fewer sleeves,is more of a summer dress with spaghetti strap sleeves
+dress,val,dress_val_00591,B0084Y2V6A,B008AIKMD4,is gray and sleeveless,is shorter and fitted
+dress,val,dress_val_00592,B004L0XCUK,B004NAU396,has a floral print on the skirt, pale pink and less patterned
+dress,val,dress_val_00593,B004748I22,B006MPQO2A,is shorter and has no sleeves,sleeveless and no opening at chest
+dress,val,dress_val_00594,B0081TP5FM,B007FKA7E2,has thinner straps with solid black skirt,darker with no sleeves
+dress,val,dress_val_00595,B001PKTT7E,B00CY8S5WG,no sleeves and a different pattern,Is shorter and has a longer train
+dress,val,dress_val_00596,B0090F42VY,B0038JE7LI,less flared and more green,is more comfortable and lighter
+dress,val,dress_val_00597,B008OXYAKG,B00332FXRW,is more body fitting and has long sleeves,is a blue long sleeved top with jeans
+dress,val,dress_val_00598,B004UE9940,B007G3N9CU,has blue and white stripes and straps, and is more purple.
+dress,val,dress_val_00599,B007FHD0FI,B007FHE5IY,is grey with a wider plaid pattern,is darker colored
+dress,val,dress_val_00600,B00BG4M4BM,B007H12PCG,is more of a dress,is an actual dress
+dress,val,dress_val_00601,B0071TUI7S,B004DPAV0W,is more orange,is more coral looking
+dress,val,dress_val_00602,B00FZ00I7U,B00AKGN67S,has shorter sleeves and more ruffles,is in solid white.
+dress,val,dress_val_00603,B00BJ1NFNI,B00936I6J4, a v neck and is much shorter,no comparison to words
+dress,val,dress_val_00604,B00BAHX7Z2,B00EZSOR2U,is dark blue floor lenght and sleeves,has more dark blue
+dress,val,dress_val_00605,B00CTRI7D4,B00E00IM92,has a print that covers the chest, side rushed sweetheart
+dress,val,dress_val_00606,B00CTLJ1TY,B00BNRBJFY,is white,is white and a little tighter
+dress,val,dress_val_00607,B008SOOLGE,B008596PSY,is more yellow in color and longer,is beige and long
+dress,val,dress_val_00608,B008OY9QUE,B00BNCH1RO,is black and white patterned,is lighter colored
+dress,val,dress_val_00609,B0091QSWH2,B009N8Z2T4,Is more colorful  and flowing,is less flowy and strapless
+dress,val,dress_val_00610,B004NAU4G8,B004ECLRKC,is black wit thin straps,Has straps and is black
+dress,val,dress_val_00612,B009COQRZW,B00BY6HLDI,has a ruffled bottome,has frills
+dress,val,dress_val_00613,B00BXB7LRA,B00BXB755S, with an elastic waste and thicker straps,It is more plain and with not strap
+dress,val,dress_val_00614,B009NXZXDO,B00ARMNY1I,is solid yellow with sweetheart neckline,is more bright
+dress,val,dress_val_00615,B009A97XVG,B005TDLRRS,is lighter, has thinner straps and is shorter
+dress,val,dress_val_00616,B004U4R8IE,B0070TYNAM,Is shorter and more casual,is multi-colored patterned
+dress,val,dress_val_00617,B007FHD0FI,B00ALGUAOO,is more a floral pattern with spaghetti straps,is blue with patterns
+dress,val,dress_val_00618,B007OX0MXG,B008VY5C0A,is more sporty with a halter top,Is more revealing and fitted
+dress,val,dress_val_00619,B00BUVAI5K,B00AQ8PVXW,is black with long sleeves and tight,is darker in color and less revealing
+dress,val,dress_val_00620,B0083FTUI2,B002HEWD7A,is shorter with a collar on it,has more colors
+dress,val,dress_val_00621,B002DI8HQG,B008RC9NQ0,is white and slightly longer,It is more corporate and stripped
+dress,val,dress_val_00622,B009LIFAV6,B002Z7FWB8,is a black belted dress,is longer and has no sleeves
+dress,val,dress_val_00623,B00B7DONTI,B004DTTRA8,has slim straps and is black,is sleeveless and darker
+dress,val,dress_val_00624,B005O0PARY,B004T6S8ZK,is darker,Is more ruched and black
+dress,val,dress_val_00625,B007HY9O5O,B007WA3E8Q,is darker and sexier,is black and red
+dress,val,dress_val_00627,B003ILIR4E,B0045EPT8A,has a darker color is more of a loose fit and is less revealing,is black and has straps
+dress,val,dress_val_00628,B006WM49XE,B007CDX3AW,is solid orange,Is orange and more plain
+dress,val,dress_val_00629,B002FOR462,B005644KAG, not patterned with longer sleeves,has a halter top and is more fitted
+dress,val,dress_val_00630,B00F4N004Y,B005ZLS51K,pink and black dress with Paris written on it,is more multi colored
+dress,val,dress_val_00631,B008OVCJ0Q,B009AEQD3A,is a long maxi dress,is floor lengthed
+dress,val,dress_val_00632,B00AFOMEMI,B0097B86M2,is light grey with black sleeves,has a gray bodice and zipper on the side
+dress,val,dress_val_00633,B00D68DXCA,B00E1ZTATW,has a different patter and wider straps,comes in olive green with design on it.
+dress,val,dress_val_00634,B000NB1FAU,B009DMLERE,is shorter and tighter,is blue with long sleeves
+dress,val,dress_val_00635,B00B1YKB26,B0071GD9D6,has a different style at the neckline,contains black and blue and isn't sleeveless
+dress,val,dress_val_00636,B00E0ORPVY,B00E3XBZOA,is sleeveless,has less sleeves
+dress,val,dress_val_00637,B007M8PCAQ,B008QXCMWW,is shorter,has black bordering lines around the sides.
+dress,val,dress_val_00639,B007GP6PME,B0067LPEFW,is black with spaghetti straps,It has thin straps and more tight
+dress,val,dress_val_00640,B004VM5W1K,B00CA38COQ,Is bright green with an empire waist.,Has a tight belt right in the center.
+dress,val,dress_val_00641,B00ASIH0ZC,B00B2JJ15S,in blue and flowered,has longer sleeves and is more blue
+dress,val,dress_val_00642,B00DUL8IWS,B00C97IILK,is black with color pattern,sleeveless
+dress,val,dress_val_00643,B0094KQ1NC,B009QMD6UY,has no belt but buttons and is darker,is dark and polkadots
+dress,val,dress_val_00644,B00EWOQ16M,B00385IQY6,is royal blue in color,is blue with a V neck
+dress,val,dress_val_00646,B00AWAZPS0,B00CXO1ULE,has visible thicker straps and is grayer,has v neck shape
+dress,val,dress_val_00647,B008BHSSMG,B008AEEMYS,has a brown belt,is strapless and is belted
+dress,val,dress_val_00649,B004E0ZEBW,B005LC87SO,short grey dress,the dress is grey and shorter
+dress,val,dress_val_00650,B008F48SN4,B009JY5GIY,is solid gray and has short sleeves,is more solid
+dress,val,dress_val_00651,B007FHE5IY,B005VCC2MQ,is black with longer sleeves,is black with long sleeves
+dress,val,dress_val_00652,B007FG0Y8U,B00CLF9APS,is a multicolored blue strapless dress,is in blues and purples.
+dress,val,dress_val_00653,B00BWKXOS2,B007Y0T5T6,has no sleeves and black and white,shorter black skirt and geormetric pattern
+dress,val,dress_val_00654,B00DQ686X8,B00DVFJ2UK,has less pattern at the waist,Sleevless black dress
+dress,val,dress_val_00655,B009A97XVG,B001MZ264K,is longer and lighter,is a darker pattern
+dress,val,dress_val_00656,B009IFOBF8,B003B00592,shorter length,is darker in color and shorter in length
+dress,val,dress_val_00657,B002Y2X7NE,B002Y2RC8A,has white buttons,has smaller straps
+dress,val,dress_val_00658,B00AKB3VPA,B0087COXNS,one that has lighter colors,is grey with a belt
+dress,val,dress_val_00659,B007W9ZC3W,B006C4GIS6,has a more revealing neckline,more like a night-gown
+dress,val,dress_val_00660,B00GTNC0G4,B00CHS82BC,has a tighter fit and blue patterns,is white with a floaty skirt
+dress,val,dress_val_00661,B00CFUEHAW,B00BYF3GVA,has straps and is black,is black with spaghetti straps
+dress,val,dress_val_00662,B00CTSFCE0,B0085SJZUK,is black with image of skull,is black and less revealing
+dress,val,dress_val_00663,B002Z7ETL2,B00CGTBWEG,Is shorter and has a design with sleeves.,is white and red with long sleeves
+dress,val,dress_val_00664,B00C2BIUXO,B009ND8UKC,is darker in color with a shinier skirt and a plainer top,is darker with long sleeves
+dress,val,dress_val_00665,B008LRQUW6,B00AXVFMYA,is a long armed dress,is more pink and has longer sleeves
+dress,val,dress_val_00666,B009YKCIIY,B006057XVS,Has a darker color.,is solid colored and sleeveless
+dress,val,dress_val_00667,B00FE0G1OU,B00COB4DF6,is less sexy and shorter,is sleeveless with polka dots
+dress,val,dress_val_00668,B00DTWDHWO,B00BXMPQZI,has longer sleeves and a different pattern,is a slightly darker blue
+dress,val,dress_val_00669,B007WAT0S4,B007XD6GHS,is black and shiny,is black and shorter
+dress,val,dress_val_00670,B0088D21Y4,B008QW7GOW,half sleeved short blue dress,is in all blue.
+dress,val,dress_val_00671,B007RBIRK0,B008MA8UJI,has sleeves and a more plunging neckline,is all black with a deep V neck
+dress,val,dress_val_00672,B007XD18IK,B00CJTWWA6,is high low and black and blue,has a blue bottom and white and black top.
+dress,val,dress_val_00673,B00DJTS67S,B00BLZGJ1W,Is a black cold shoulder short dress.,not as form fitting and has a sleeve
+dress,val,dress_val_00674,B0055TBPNC,B008R9FAD8,is purple with one strap,is lilac and more loose fitting
+dress,val,dress_val_00675,B00BYFESVM,B00BY3R17W,is longer and less revealing,has no sleeves and is a pink colored dress
+dress,val,dress_val_00676,B00B90O740,B00CBY97SE,black with a tighter fit around the hips,is tighter and darker
+dress,val,dress_val_00677,B00AXDA432,B00E1ALO0K,is beige with a high neck,is a tan color with a belted waist
+dress,val,dress_val_00678,B008K3SX7G,B006PA7Q4M,is light purple with three-quarter length sleeves,is lavender and has short sleeves
+dress,val,dress_val_00679,B008ZB39FY,B008HQYFB4,is dark red,is red with elbow length sleeves
+dress,val,dress_val_00680,B00CTT4N7G,B004MAR55C,is a short black tank dress,is above thigh in length and is more sporty
+dress,val,dress_val_00681,B006QSEC4K,B0090U5OHK,is darker and longer,is longer and darker
+dress,val,dress_val_00683,B00E8AUR2O,B007FG0Y8U,is red colored and strapless,A solid red long dress with no sleeves
+dress,val,dress_val_00684,B00A3PEX7S,B00C5TA8F6,Is darker with a bright floral pattern.,is darker with skinny straps
+dress,val,dress_val_00685,B009QW3VSQ,B00EJVX38C,is more official and less blousey,is two toned
+dress,val,dress_val_00686,B005QYY8F8,B007B86AF8,is short mini and shiny yellow, white
+dress,val,dress_val_00687,B0081CXJ4I,B00854663S,is shorter and darker,longer and darker
+dress,val,dress_val_00689,B00CIEPROU,B005H7G65O,is longer sleeved and white,is white and belted and shorter and trendy
+dress,val,dress_val_00690,B0059BCNOG,B00BRBYOLC,has no sleeves and is solid black,has more belt aspects
+dress,val,dress_val_00691,B00508YRGU,B003DIWQNA,plant print short black dress,is shorter and has a different pattertn
+dress,val,dress_val_00692,B00C6PP5CA,B0099DCINQ,is strapless with lighter colors,is lighter and blue and sleeveless
+dress,val,dress_val_00693,B000YXD4R4,B00BYTETAS,is longer and lighter in color,has no sleeves and beige color
+dress,val,dress_val_00694,B004AM5K4K,B007G693H2,is off one shoulder,is fancier looking
+dress,val,dress_val_00695,B000X4TNTM,B00A2G31AS,is black,It is more black and more pleated
+dress,val,dress_val_00696,B008AEEHA2,B008596V88,is light but less sexy,Covers some of the arms and is beige
+dress,val,dress_val_00697,B007FNGLZI,B00AG41UFY,Is darker with longer length.,is darker and has straps
+dress,val,dress_val_00699,B002AQSPL8,B003BT62A4,has no sleeves and is sexier,is much darker in color
+dress,val,dress_val_00700,B00DYFK9N6,B00DM0REWC,is darker and has longer sleeves, and teal stripes
+dress,val,dress_val_00701,B009ND97G8,B00CIBN6H8,Is lighter with scoop neck.,is sleeveless and pink
+dress,val,dress_val_00703,B00CQAJI7S,B00F9KUL8W,has long sleeves and is short,is shorter with sleeves
+dress,val,dress_val_00704,B00B53A556,B008MC8438,has longer sleeves,is grey and has 3/4 length sleeves
+dress,val,dress_val_00705,B006FRRQLS,B004UDYSDS,is assymetrical with pattern,Is a white/black print dress with one-sided sleeve
+dress,val,dress_val_00706,B00A13GLG8,B00CD8K1W4,Is a solid color.,is solid black
+dress,val,dress_val_00707,B0096C2UVA,B007W3ZADK,is darker and has longer sleeves,is black and more shiny
+dress,val,dress_val_00709,B00DSSIGXO,B00EGJHGVW,has more design,the dress is grey and white and more revealing
+dress,val,dress_val_00710,B005HP3HL2,B00BWPEAP8,light pink long dress with a bow,is solid pink with a bow
+dress,val,dress_val_00711,B0032FOQUU,B0082C616K,has straps and royal blue colored,is a form fitting blue sleeveless sheath
+dress,val,dress_val_00712,B008MNM7Y4,B0076ODGBS,is navy blue with subtle print,is lighter and patterned
+dress,val,dress_val_00713,B00BPF5X4M,B008UC9MGS,is greener with a different pattern,is green and longer
+dress,val,dress_val_00714,B007Y0UKN6,B0052WU704,has a rounder neckline,has a higher neckline and is more black
+dress,val,dress_val_00715,B009C6OMMK,B0071UXLDK,is brighter in color,is lighter colored and more frilly
+dress,val,dress_val_00717,B007FG0Y8U,B009CPQZ12,is sleeveless long loose dress and white,is white and less fitted
+dress,val,dress_val_00718,B00BISLTIK,B00B5KMPA2,looks like jeans,has a ruffled skirt
+dress,val,dress_val_00719,B0074H8I6K,B000JL47FE,has no sleeves and brighter colors,is white green
+dress,val,dress_val_00720,B00EQ1PPEK,B00C18EV0E,is longer,Is longer and more elega
+dress,val,dress_val_00721,B0094QXCKQ,B00870UVRC,short striped red and blue red,has a tank top and a red
+dress,val,dress_val_00723,B005JDB3UO,B008BHSFOW,is solid black,is black and slender
+dress,val,dress_val_00724,B00F9AJ5Y8,B005ENHHZO,is white,has a blazer and is beige
+dress,val,dress_val_00725,B004Z56IPC,B009401NI0, patterned, grey
+dress,val,dress_val_00726,B00D7ISRPC,B00EKY53XQ,Has darker colors.,is more revealing and less colorful
+dress,val,dress_val_00727,B005UX57P0,B00DOS9HN6,is black and sleeveless,is more kinky
+dress,val,dress_val_00728,B005WY5LAS,B00AYE3UIG,has print of miss sixty,is not a dress or clothing
+dress,val,dress_val_00729,B003YKZ42W,B006QKKVZM,is visually aesthetic,has a flowered pattern
+dress,val,dress_val_00730,B0059BCNOG,B0058YU4AE,is shorter and has a tube top,shows more cleavage and more blue
+dress,val,dress_val_00731,B0033UVILO,B0084Y6UQC, tie dye, and is longer
+dress,val,dress_val_00732,B00CII5YD0,B00D75WT4U,has a lace detail,has a lacey top and flouncy bottom
+dress,val,dress_val_00733,B004ZRUT96,B007E9Y26S,is a belted dress,has a more solid color
+dress,val,dress_val_00734,B00C9K0JQY,B00455GK1E,short black dress with 3 buttons on belt,has a belt
+dress,val,dress_val_00736,B00CBYFJ3Q,B005NVQAUA,has sleeves and is less shiny,is less sexy
+dress,val,dress_val_00737,B002GU7D5M,B0083QFE0Y,is a line  no sleeves and slight print,is red and a line shaped
+dress,val,dress_val_00738,B0039ITJ84,B00CD8JJ7M,is more sexy,is sexy and bold
+dress,val,dress_val_00740,B009Z31KZM,B009YJEIXS,has longer sleeves and is short,is shorter and red with sleeves
+dress,val,dress_val_00741,B00EJN90W8,B0097IX9NQ,is longer and more bridal,the dress is cream and much longer
+dress,val,dress_val_00742,B007ZOGQIO,B007KJ2M5K,is shorter and has shorter sleeves,is printed and sleeveless
+dress,val,dress_val_00743,B00AEYZ35E,B006VVMYPQ,is all black and is more revealing,is black and longer
+dress,val,dress_val_00746,B008LFKSF8,B00DQAKVT6, much longer and is orange,is purple
+dress,val,dress_val_00747,B00E62NUTG,B00D6IVL6K,Is darker with an empire waist.,is one color and classy
+dress,val,dress_val_00748,B008NHSU3G,B002DI8HQG,Is a white strapless gown.,is white and form fitted
+dress,val,dress_val_00749,B005UASDM2,B009E739Q2,is a ling dress with no sleeves,is longer
+dress,val,dress_val_00750,B002NVCPQ6,B00D6D8EL0,Is a ruffled black short grey dress,purple
+dress,val,dress_val_00751,B009C6OMMK,B007PYJLRC,has a more modest neck and a different pattern,is cream colored with a higher neckline
+dress,val,dress_val_00752,B006ZO54SI,B007PKECMA,has a bubble skirt and white,white and more frivolous
+dress,val,dress_val_00753,B007FDYS62,B003L13FTI,has straps with blue floral print,has blue and yellow pattern
+dress,val,dress_val_00754,B00AO9RH30,B00DQAL0XW,is whiter,white with big cross design
+dress,val,dress_val_00755,B00AO1VVB2,B004VQBVOI,n/a,is longer and darker
+dress,val,dress_val_00756,B0070L9U6M,B006MWMNRS,is black with longer sleeves,black longer sleeves with cut outs
+dress,val,dress_val_00757,B00BL9EE4C,B00CO6KDDM,is shorter and sexier,is turquoise and more revealing
+dress,val,dress_val_00758,B00BSN0JOA,B008UWENTO,is black with gold accents,is more sexy
+dress,val,dress_val_00760,B00C9796UC,B00AT9JFQC,long white wedding gown with ruffles, flared and floral
+dress,val,dress_val_00761,B005KMQQFQ,B005BU8MG8,is gray with a gray belt,It is less red and have both shoulder
+dress,val,dress_val_00762,B00F4MXLRI,B00DW8GVIW,Is a green sleeveless dress with a medallion.,is similar without sleeves
+dress,val,dress_val_00763,B005JDB3UO,B007P0Q6PQ,is a navy maxi dress,solid blue
+dress,val,dress_val_00764,B005DRATG0,B005JU13OS,has no sleeves and is lighter,has thinner straps
+dress,val,dress_val_00766,B0082BCNZY,B008CB707K,has a plain design at the front,is darker and has shorter sleeves
+dress,val,dress_val_00767,B00CTSFCE0,B00ED49C12,is purple with patterns on it,is shorter and has sleeves and is purple
+dress,val,dress_val_00768,B007W9ZC3W,B00BWJ9R2A,is light pinked with even sides,is colourfull
+dress,val,dress_val_00769,B00GP5TL6I,B007VU22WQ,is light and darker red sleevless dress,is salmon colored and sleeveless
+dress,val,dress_val_00770,B007JS1Y7Y,B007G6JZV6,is shorter and bright zigzag stripes that are red and white,more red and longer skirt
+dress,val,dress_val_00771,B00DCC9ZJK,B00DDX15TG,is a long green maxi dress,has more green
+dress,val,dress_val_00772,B00CE66AQG,B009Z31FXY,is solid blue with a v-neck, black and white
+dress,val,dress_val_00774,B000AY2892,B000XTPPYO,is shiny green with longer length,is full length and shiny
+dress,val,dress_val_00775,B007RM21BU,B00A4MST0C,is black and shinier,is black with sequins
+dress,val,dress_val_00776,B008596XXG,B008P5453U,is shorter and green in color,is shorter and green.
+dress,val,dress_val_00777,B0069TD8DW,B002UD64NW,has thinner straps,is darker
+dress,val,dress_val_00778,B005WQCHPI,B0080E6RN2,is shorter and solid black,is black and thin straps
+dress,val,dress_val_00779,B009C6OO8C,B009C6OMMK,is a solid,has a halter neckline and is a lighter color
+dress,val,dress_val_00780,B009S3GIV0,B00595TNMM,is more red and is a solid color,is more red
+dress,val,dress_val_00782,B00CW6HT7W,B00A76OJHW,is a black laced dress with both shoulders covered,is shorter and lighter
+dress,val,dress_val_00783,B0071MSFCU,B00D6QTRRC,is a blue dress,is a longer length and a brighter color
+dress,val,dress_val_00784,B007FO27IW,B00342VIKW,is shorter,is blue and sexy
+dress,val,dress_val_00785,B007HZJE08,B0069U00N2,has longer sleeves and more blue,has striped top
+dress,val,dress_val_00786,B0096C2UVA,B005FW6A4S,is black and has half sleeves,is black with longer sleeves
+dress,val,dress_val_00787,B00BEZTESO,B00D8RZKMU,has a chiffon skirt and is less fitted, so is not as revealing
+dress,val,dress_val_00788,B007HI6KPM,B005CT9ZJG,is black and much shorter,more modern and less sexy
+dress,val,dress_val_00789,B0046Q4K6E,B002N8CDA2,has a long slit,Is lighter and more revealing.
+dress,val,dress_val_00790,B00B1OKIRO,B00CK2LIXY,is longer with one strap and pink,is more formal
+dress,val,dress_val_00791,B008GRR6II,B004MKNOJ8,is a one sleeved mini black evening dress,has one strap
+dress,val,dress_val_00792,B007SOUELG,B007SOUD26,is a darker shade,is a darker and more casual
+dress,val,dress_val_00793,B00801W1H6,B00CFL3FDQ,is red with black buttons,has longer sleeves
+dress,val,dress_val_00794,B00ANC7JCW,B00ANR3NSQ,is darker pink and shiny, fitted
+dress,val,dress_val_00795,B0089DLVNA,B007ZT13QE,is above knee and three quarter sleeve,is blue with long sleeves
+dress,val,dress_val_00796,B004IZRBDW,B005LMZ2KU,has longer sleeves and is a solid color,has longer sleeves and more revealing
+dress,val,dress_val_00797,B002VLK54C,B002VLDSRS,is red,comes in colors with white floral designs.
+dress,val,dress_val_00798,B00C62EUBA,B009QOHBUI,is a t shirt with short sleeves,is white with a collar
+dress,val,dress_val_00799,B00A8VHMRK,B009VUUMBW,is transparent and blue,is flowing and blue
+dress,val,dress_val_00800,B00CY8T80Y,B00F4N004Y,is less shiny with a longer skirt,is dark a more fitted
+dress,val,dress_val_00802,B0059817JQ,B008UD2EAS,has three colors,has more colors
+dress,val,dress_val_00803,B00A16VH28,B009FEMH76,is lighter,Is red and more plain
+dress,val,dress_val_00804,B0029YQQYE,B004OLGO24,more purple,is longer and more maroon
+dress,val,dress_val_00805,B004OHYU4M,B006O39V3Y,has no straps. It's solid black with ruffles,ruffled and darker
+dress,val,dress_val_00806,B007TMBT5M,B006M49D42,is bluer with shorter sleeves,has a wider neck line and is blue.
+dress,val,dress_val_00807,B005FUMMGU,B0077G77OW,a lace black dress with long sleeves,has lace
+dress,val,dress_val_00808,B005MGDYK0,B00EASZKQW,has halter top and is bright white,is holter top and more revealing
+dress,val,dress_val_00809,B0045EPT8A,B008RXA5IO,is off the shoulder and red,is much more pink
+dress,val,dress_val_00810,B0073WBRYQ,B007SOUELG,Is a green paisley print v neck dress,has a floral design and is longer.
+dress,val,dress_val_00811,B00BXB7LRA,B00CGYK5K8,is black and shorter,is darker ad has buttons
+dress,val,dress_val_00812,B005KMQQFQ,B007KANUK0,Is more charcoal and less satin,is blacker
+dress,val,dress_val_00813,B00BSN0JOA,B00E1SQHY0,has a blue top and multi-colored bottom,has a blue top and a multicolored skirt
+dress,val,dress_val_00814,B00FBRGJKM,B00FTA0HUE,is tighter and fancier,tighter skirt and v neck
+dress,val,dress_val_00815,B00BPCXTVE,B003I62TM0,is floral with sleeves,is a twin pack
+dress,val,dress_val_00816,B005X4PL1G,B0084DJQ6O,is more darker and minimal,is black
+dress,val,dress_val_00817,B009D3M86O,B00B4YXHF6,is pink with a low neck,is more colorful and has two straps
+dress,val,dress_val_00818,B004MMF00W,B00C17P8W0,is longer and a solid plum color,is much longer
+dress,val,dress_val_00819,B00AAOD3LO,B007W9ZC3W,is cream colored with one side longer,is white and more revealing
+dress,val,dress_val_00820,B005ZXS03G,B00DV6C0Y4,has longer sleeves and is short,is tan with sleeves and a belt
+dress,val,dress_val_00822,B009NW4TW6,B008DH1ZEM,is white and longer,is longer and lighter
+dress,val,dress_val_00823,B00B1YKB26,B00BUVAI5K, has a  u shaped neck with red heels, black and gray with no shoulder straps
+dress,val,dress_val_00824,B00D3A3HRC,B00E0XEJRI,is lighter,is in all white.
+dress,val,dress_val_00826,B007HZAFSI,B008MLXYYS,has summery straps and wild print, patterned and much darker in colour
+dress,val,dress_val_00827,B00B5859Z2,B00CC9QFN8,is denim with a brown belt,is more bright
+dress,val,dress_val_00828,B004Q9T840,B004T90LFM,is plain,more plain and flowing
+dress,val,dress_val_00831,B004VJS5QC,B004F9PJEE,Is lighter with a loose fit top,Is white and shorter
+dress,val,dress_val_00832,B006ZWEMWE,B00CE4GUC2,is more colorful and longer,is more colorful and printed
+dress,val,dress_val_00833,B0088AAXUG,B009LDY5S0,is light white and less shiny with close neck design.,the dress is  white and less revealing
+dress,val,dress_val_00834,B00B4GJODI,B004L2L9X0,is more tailored and and less ruffled,is more professional work attire
+dress,val,dress_val_00835,B008BHHSAY,B00BM1IJ18,is white colored and longer sleeves,is more conservative
+dress,val,dress_val_00836,B00B89H8NO,B00DR8ZWAU,has two on the shoulder sleeves.,has two straps on the shoulders.
+dress,val,dress_val_00837,B00CLV8QQ6,B00CLF5ZFC,has a different patern and thin straps,Is more colorful and tan
+dress,val,dress_val_00838,B00EODXN1W,B00655AJCS,is shorter with long sleeves and a belt, orange with ruffled hem
+dress,val,dress_val_00839,B00F4N004Y,B007GSFG76,No sleeves and white,is white and short
+dress,val,dress_val_00840,B005HEJCDK,B00ASPCIF2,is satin pink with uneven ruffles,Light & Dark color
+dress,val,dress_val_00841,B005AQCKBQ,B008VTFOJ4,is more covering around neck and belted,has a smaller collar and is not se through
+dress,val,dress_val_00842,B00CR02CF2,B00C45XM6S,has stripes and is without sleeves,is plain black
+dress,val,dress_val_00843,B004YADUVS,B0033UVILO,is a shiny blue color,is blue satin
+dress,val,dress_val_00844,B008VFX1IE,B008YSFCK8,has a peekaboo cutout and a fitted waist,is dark green and belted
+dress,val,dress_val_00845,B00E8157H8,B005DNQB9I,looks more formal `,is darker with a deeper neckline
+dress,val,dress_val_00846,B008E6CKVY,B00A9T9N6O,is a v shaped neck dress,has more of a red chinese design and up top has short sleeves in a v shape.
+dress,val,dress_val_00847,B006UCPRSC,B007WPHD92,is black with a more v neck,is black and is more fitted
+dress,val,dress_val_00848,B00CL0VWTA,B00BQX461E,Is dark blue with a belted waist.,is solid blue without sleeves.
+dress,val,dress_val_00849,B00BXB7LRA,B00CGYK1MU,has a polka dot pattern,is white
+dress,val,dress_val_00850,B007KANUK0,B0050JBVQS,is a short brown skirt,is short and shinier
+dress,val,dress_val_00851,B008IGRUCE,B007XD6JWA,is lighter and has shorter sleeves,has shorter sleeves
+dress,val,dress_val_00852,B005N4L15G,B0088B30TG,is more feminine,Dark Color
+dress,val,dress_val_00853,B00AG3Y2JG,B004AY7K1Y,its black with waist covered,is black with seperated straps
+dress,val,dress_val_00856,B007WAT0S4,B00CQBL6NG,is purple with a rope belt,has a pink and purple print and is looser
+dress,val,dress_val_00857,B0009T5VWY,B005QSQX52,is black and shorter,is shorter and has no sleeves
+dress,val,dress_val_00858,B006YOU8HG,B0072BCICS,has no sleeves and is lighter grey,has striped bottom
+dress,val,dress_val_00859,B00B1VG358,B008H62ENA,Has lace colvering the shoulders,has a black and white print instead of red.
+dress,val,dress_val_00860,B000Z4OH0U,B00CBYG6VA,is black with a white belt,is darker with a collar
+dress,val,dress_val_00861,B002FLMMY4,B00DHN4WDS, with no straps,is more see through
+dress,val,dress_val_00862,B006GV3N56,B008NBYR2A,is longer and lighter,is white with straps
+dress,val,dress_val_00864,B00DR3TRJ2,B00DU6GQ5O,is red with a low neck,is red
+dress,val,dress_val_00865,B008DS1E6K,B008AEELZS,is more white and has a pattern,has a different color pattern
+dress,val,dress_val_00866,B005ZG5MQG,B00D9SATFG,has a ruffle on neck and light green,is long and gray with a black lace up front
+dress,val,dress_val_00867,B008LQU49W,B007X5IFVQ,is neutral color trench coat top with belt,coat with ruffled hem and buttons
+dress,val,dress_val_00868,B002SNAIWC,B0036MEL4U,Is brighter colored and sleeveless.,is brighter
+dress,val,dress_val_00869,B00COB4356,B00GCI8KRE,has longer sleeves with floral design,is in floral print with peach and green.
+dress,val,dress_val_00870,B0090NZVZC,B0065U2ZPW,is brighter blue,is sleeveless
+dress,val,dress_val_00871,B00BXX6PM0,B008DS1E6K,Is a pink long sleeved shirt,has flutter sleeves
+dress,val,dress_val_00872,B009DMCMNO,B00AFX3FQ8,is solid white is short sleeves,all white and has one sleeve
+dress,val,dress_val_00873,B0095QLSJW,B0084ZS2YO,is a darker color,is a solid darker color
+dress,val,dress_val_00874,B0072QWT2M,B0029YQQYE,is fancier with a defined bust,is a long burgundy dress
+dress,val,dress_val_00875,B0095FP9B6,B006ZWE2Y2,is more country in a lighter color,is coral and has a belt.
+dress,val,dress_val_00876,B0048C7MMU,B003XRKA9I,is shorter white color and has floral, is orange and more casual
+dress,val,dress_val_00877,B007HC3J1G,B007R1Q9M8,dark colored and more revealing,A solid black short dress
+dress,val,dress_val_00880,B00FM7EAQQ,B009NQUQBA,is pink mid-sleeved and a black jacket,is pink with black overcoat
+dress,val,dress_val_00881,B0036MEL0O,B002SNAIWC,is more stylish,is darker and looser
+dress,val,dress_val_00882,B00GAMZJF8,B00BH9KMO2,is yellow in colour and has less straps,is yellow with one strap
+dress,val,dress_val_00883,B00CIEPROU,B0098BV7YK,is blue and white and shorter,as white and blue
+dress,val,dress_val_00884,B007WA2VB2,B008596SUO,Is more striped and more short,is shorter
+dress,val,dress_val_00885,B00997L4QE,B00DZUQHSQ, higher skirt,is pinkand open
+dress,val,dress_val_00886,B006TALF54,B001Q3KW9Y,is sleeveless,yellow and flowy
+dress,val,dress_val_00887,B008S4C8JG,B00CGY6SV8,has no sleeves with blue and white horizontal stripes, tighter
+dress,val,dress_val_00888,B0094QXCKQ,B002DMJQTE,is more revealing with a design,Is more whimsical
+dress,val,dress_val_00889,B00BTHR98E,B00DYP24AM,is red in color,is pink without patterns
+dress,val,dress_val_00890,B00741MP7O,B005XW1C70,has short sleeves with prints,has a more subtle print
+dress,val,dress_val_00891,B004VSDS2Y,B0059JPHP0,is v-necked printed wrap dress with mid sleeves, shorter sleeves
+dress,val,dress_val_00892,B008D6LE3A,B00GDSPIYQ,has longer sleeves and an animal print pattern,is darker and has thicker straps
+dress,val,dress_val_00893,B007VZ35MM,B004QVUU2M,short sleeved,is 3/4 sleeves and solid pink
+dress,val,dress_val_00894,B0096C2UVA,B006DYG6PA,is darker and a different pattern,wider straps and darker
+dress,val,dress_val_00895,B003ZLIWEW,B003ILEHQG,is black with long sleeves,Is darker in color and less revealing
+dress,val,dress_val_00896,B0058XPHQG,B008A5ZXZO,is stripped,has longer sleeves
+dress,val,dress_val_00897,B00BXX6XBS,B00BTUXSYA,is shorter and solid red,is red
+dress,val,dress_val_00898,B00AD11VKO,B008D5IQFU,Is lighter with a ruffle hemline.,is beige and has sleeves
+dress,val,dress_val_00899,B007MLVQ1C,B004NSUIUW,has a pink tone with spagetti straps,is pink and white
+dress,val,dress_val_00900,B008DSN0BW,B0074H8CXE,has a fitted waist and belt and s blue with square necklne,is solid and more fitted
+dress,val,dress_val_00901,B006P044VU,B004XBD0JK,is beige and has ruffles,has a lower cut neckline with a ruffle
+dress,val,dress_val_00902,B00DO9M2VE,B005TM7S68,is longer,is long with a floral print
+dress,val,dress_val_00903,B00B72LAS6,B008RCSALO,is darker and has a shorted hemline,is dark colored with longer sleeves
+dress,val,dress_val_00904,B007XATMYA,B004S0O8HO,is short with no sleeves,is tighter with more black
+dress,val,dress_val_00905,B00B3P7MVG,B002PEXJD4,is gold and black,is pink and has floral
+dress,val,dress_val_00906,B009COQELY,B00E1Q8HMM,v neck short grey dress,is more slimming and curvier
+dress,val,dress_val_00907,B00BXB755S,B0017RAI9S,has spaghetti straps and short front long back,is multicolored
+dress,val,dress_val_00908,B007SYWDWO,B008VY0EIU,is longer with red white and blue strips,is striped and longer
+dress,val,dress_val_00909,B00AEMHDIG,B006BQAHTG,is solid black with long sleeves,is dark colored and long sleeves
+dress,val,dress_val_00911,B0080E53WI,B007WAELCO,is a longer fitted solid black,is darker and longer
+dress,val,dress_val_00912,B008368ZQY,B007UN64Q4,has short sleeves and is less fitted,is solid black with white accents
+dress,val,dress_val_00913,B003Z59PYE,B0027RAAUE,is just about the same with a slightly different design,It is more pink and less tight
+dress,val,dress_val_00914,B00B9D3JOG,B0069TD8DW,v neck and lighter colored,Has V-neck and pockets in light color.
+dress,val,dress_val_00915,B00BPU0D7E,B00BPTPJ38,is about the same design but cream in color,is lighter in color and less flowy
+dress,val,dress_val_00916,B002HCNMTU,B004HLHVKA,is fancier with shorter sleeves,is teal and purple and has a long train and short in front and short sleeves
+dress,val,dress_val_00917,B004WYVJNC,B004XY62ZQ,A long grey belted dress,is more formal and darker colors
+dress,val,dress_val_00920,B008DSN0BW,B0087YZMHW,is shorter and darker,is more black and fitted
+dress,val,dress_val_00921,B00EZSOR2U,B003AM8B8S,is short and a lighter blue,is shorter in size with no arms.
+dress,val,dress_val_00922,B004EHON6W,B008GSMCEA,is black and white striped,has black and tan stripes
+dress,val,dress_val_00923,B007457CVE,B00EDS3BRO,is green with a u shaped neck,is light green and has short sleeves
+dress,val,dress_val_00924,B008NBYR2A,B005XC79VS,is darker with wider shoulder straps,more revealing and thicker sleevs
+dress,val,dress_val_00925,B00711V8Y8,B00858IL8C,is shorter with more print work,is shorter and has a floral pattern
+dress,val,dress_val_00926,B00DERHT5A,B00B513RKS,is patterned with no belt,the dress is gray and pink and shorter
+dress,val,dress_val_00927,B00G6TRZE8,B00ECLMIKS,dark colored and less fitted,has shorter sleeves
+dress,val,dress_val_00928,B00D61ZCGW,B00CLGW2W0,is a solid black color. It's also shorter an tighter fitting,is black and more skimpy
+dress,val,dress_val_00929,B0052B66GY,B008KYNQBI,is short and blue in color, and with no sleeves
+dress,val,dress_val_00930,B007P5H6HS,B007SOULGY,is black colored and shorter length,not as long
+dress,val,dress_val_00931,B006362580,B00462QU3Y,is darker\,more formal
+dress,val,dress_val_00932,B006UCPPZ2,B006W573YI,Is a vintage print 3/4 sleeve dress.,is in floral blue and reds.
+dress,val,dress_val_00933,B004HD4V1K,B00405RUW2,is black,is farker and more open
+dress,val,dress_val_00934,B004HSQXPM,B005GLSFJ6,is purple and blue and shorter,has a deeper purple print.
+dress,val,dress_val_00935,B00EFE9MII,B00APFDIYK,is pink colored,is pink and elegant
+dress,val,dress_val_00936,B0022BF5Q4,B00B2OIJJM,has straps and a u shaped neck,has palm trees in the pattern and is sleeveless instead of straps
+dress,val,dress_val_00937,B005LC87SO,B006HTLHY6,is white in color and more longer,is more conservative
+dress,val,dress_val_00938,B008MN5HU0,B007XD5XH2,has spaghetti straps and is solid color,is shorter and has a sweetheart neckline
+dress,val,dress_val_00939,B00BWKXOS2,B008E4O7OO,is cinched in the middle and pink.,is red and black and more revealing
+dress,val,dress_val_00940,B00DM03I72,B00BSMGUPI,Is shorter and sexier.,is shorter and a shiny silver color
+dress,val,dress_val_00941,B00D3A3HRC,B005UASDM2,longer sleeved and longer skirt,More plain and with sleeves
+dress,val,dress_val_00942,B0046Q2FCK,B008L7Z1B2,Is a pillow.,is a pillow not a gown
+dress,val,dress_val_00943,B00CJQI0I2,B00FN4A7QA,is more striped and shorter,is light in color and fitted
+dress,val,dress_val_00944,B008E7IA0I,B00COADNNU,is blue with spaghetti straps,It is more plain and less longer
+dress,val,dress_val_00945,B007WATF2U,B007W9ZSEA,has shorter sleeves,has short sleeves
+dress,val,dress_val_00946,B007GSGKOO,B00AOK25MC,is longer and solid colored,light color
+dress,val,dress_val_00947,B005F0NOYO,B008368ZQY,is darker,Has 2 shoulders and is darker
+dress,val,dress_val_00948,B00CTSFCE0,B00FFL98LG,Is shorter with an a line cut,is red with frills
+dress,val,dress_val_00949,B004Q9T840,B00BB92J9E,has a red belt and less revealing,has more black and white
+dress,val,dress_val_00950,B00CY8T80Y,B00BAHV7K4,Is more stylish and preppy,Is more chic and less flashy
+dress,val,dress_val_00951,B00AAD6KOM,B00DQHXEO8,Is more sexy and whimsical,is longer and more casual.
+dress,val,dress_val_00952,B007FG0AAM,B004TOPB98,is green,is lighter and has longer sleeves
+dress,val,dress_val_00953,B00EP49AYY,B007NKXANE,Is shorter,is shorter and more monotoned
+dress,val,dress_val_00954,B009S3H54Y,B009S3I9A8,less elegant warm,is tighter and light blue
+dress,val,dress_val_00955,B00B5KOBPY,B00A7HP3HQ,its darker and less print,Shiny black and white zebra print with zipper-end front
+dress,val,dress_val_00956,B006WARFS2,B008PF2EHE,is darker,is patterned and much darker
+dress,val,dress_val_00957,B008VIR88U,B002QQ9BEC,blue black and pink long v neck dress, is patterned
+dress,val,dress_val_00958,B009MB17B4,B005917FDA,is solid black with small design,is black
+dress,val,dress_val_00959,B009CC9GUC,B00DBDXEHY,is long with black spots,no sleeves and longer bottom
+dress,val,dress_val_00960,B005WNQOQ4,B007W9YZ9O, off-shoulder and tighter fit,is solid light brown
+dress,val,dress_val_00961,B008CUM27O,B008ATJYUU,is shorter with sleeves,is blue with sleeves
+dress,val,dress_val_00962,B007TYKJ42,B009XHO7NW,has more contrasting colors,is darker in color and less fitted
+dress,val,dress_val_00963,B00CFMMG8K,B007XD18IK,is red and knee length,is red and shorter
+dress,val,dress_val_00964,B005OOR6BI,B005PL4BTU,Is a long sleeve short black dress.,is more form fitting
+dress,val,dress_val_00965,B00332FXRW,B00BSKHRDO,has longer sleeves, is black and more shiny
+dress,val,dress_val_00966,B008GS79VG,B00C5168K8,is black and a little loose,has drop sleeves
+dress,val,dress_val_00967,B008N2O3NW,B00A4FRDUQ,is a white strapless dress. Shorter than the other.,has no sleeves and green color
+dress,val,dress_val_00968,B00FS3EAOQ,B004L10OU0,is shorter and thin straps and more revealing,is yellow and more revealing
+dress,val,dress_val_00969,B002XUY8SA,B005PP424A, form fitted,is blue and lacy
+dress,val,dress_val_00970,B008OVRK0U,B00D83ENMC,has more stripes and is lighter,yellow and white stripes with angled skirt cut
+dress,val,dress_val_00971,B00C2D4XA6,B008IGSFKK,Is a white silk,has denim
+dress,val,dress_val_00972,B00CD8JJ7M,B00EPDRYQG,is more free and skater,has a flared bottom and is belted
+dress,val,dress_val_00973,B0097IWC3Y,B005FOLK78,a strapless long white bride dress,is white with no straps
+dress,val,dress_val_00975,B009UJ3NTW,B0094M3I9A,longer and has a u shaped neck,is blue with a longer skirt
+dress,val,dress_val_00976,B008E6CKVY,B005QYY5W4,has shorter sleeves,Is  more sexy and elegant
+dress,val,dress_val_00977,B008RXA5IO,B004TPRPNM,is gray with straps,is light grey with spaghetti straps
+dress,val,dress_val_00978,B0017RAI9S,B004I3UEXS,has longer sleeves and a different pattern, with a white and pink stripe and strapless
+dress,val,dress_val_00979,B009CC9GUC,B00DBDVI7W,is black with large colorful flowers,has floral patterns and is darker
+dress,val,dress_val_00980,B007FPDWDU,B007TUPWAC,is shorter and shorter sleeved,Shorter and more colorful
+dress,val,dress_val_00981,B008YDEB6E,B00DURATI8, half sleeved sweater dress, black and white
+dress,val,dress_val_00982,B00DRIKVDI,B00D4BURP0,is purple and white striped and longer,is longer and striped
+dress,val,dress_val_00983,B008006FK6,B00BL9DCM2,is solid black,is black with thinner straps
+dress,val,dress_val_00984,B0091QSKHE,B00ASIUGVC,is more open at the chest,is white with straps
+dress,val,dress_val_00985,B00A3PEX7S,B008W02KVC,is less casual with thinner straps,is a rose pattern with no sleeves
+dress,val,dress_val_00987,B00CD8JJ7M,B008HRLQ60,has more stripes,has white and black stripes.
+dress,val,dress_val_00989,B008AEELZS,B009YLJWUK,is gray with flowy sleeves,is more solid colored
+dress,val,dress_val_00990,B00ENCGGZY,B00B89IP36,is a long blue maxi dress, tie waist
+dress,val,dress_val_00991,B005UX57P0,B0076IK8OC,is more official,is white with black patterns
+dress,val,dress_val_00992,B006AN491W,B00B7DOJOC,Is shorter and strapless.,is more sexual
+dress,val,dress_val_00993,B00APKHEMC,B00BUTRK62,Is lighter pink and longer,Is longer in length
+dress,val,dress_val_00994,B00A4A8PRQ,B006J42TFU,is shiner,Yellow
+dress,val,dress_val_00995,B007OX0MXG,B007W9ZK66,is tighter and is more grey,has ruffled gray in a different pattern.
+dress,val,dress_val_00996,B004U88SW0,B008QZEOWG,is more patterned,has more designs on it
+dress,val,dress_val_00997,B004PKZWNG,B009LGLIIC,is blue in color,Has long sleeves and a blue pattern
+dress,val,dress_val_00998,B003A84EOM,B00749W6HA,has both straps,is babydoll style and sassy
+dress,val,dress_val_00999,B008HQKK1S,B00BLNL7G6,has shorter sleeves and is lighter,is green with shorter sleeves
+dress,val,dress_val_01000,B004FPYVO2,B007RUZ66E,is shorter and a darker color,is shorter and in black.
+dress,val,dress_val_01001,B00AEB8OQ2,B00GCR5OPG,blue and black and does not have sequins,is less shiny
+dress,val,dress_val_01002,B00CAMMV5S,B00E3HDPMQ,is less flattering with short sleeves,has sleeves and is a darker color
+dress,val,dress_val_01003,B00D9BZR4Q,B00B5GRUR4,is more colorful and lengthier,is purple and long
+dress,val,dress_val_01004,B007GSGKOO,B00ARHO3ZY,high low red and brown dress, has a shorter skirt and a lighter tan color.
+dress,val,dress_val_01005,B008YIG3DI,B002OEYH3Q,Is a dark blue baby doll dress.,is solid bluish purple
+dress,val,dress_val_01006,B004VM5W1K,B007FDYS62,Is more feminine with shorter sleeves,is strapless and looser
+dress,val,dress_val_01007,B0071KR3QG,B0027BDMB4,is patterned with more blues,It is less flowery and less pink
+dress,val,dress_val_01008,B004JXVQD4,B0070SSWKK,is a solid color and is sleeveless,is more colorful
+dress,val,dress_val_01009,B005KMQPS4,B00FB7N4I2,is longer and dark velvet,is purple and is much longer
+dress,val,dress_val_01010,B007CL8W1O,B00F150ZXQ,is a long dress with no straps,is white and loose
+dress,val,dress_val_01011,B00DHVW5N4,B00EY93064,has shorter sleeves and different pattern,a bit brighter and longer
+dress,val,dress_val_01012,B00BUVAI5K,B00DWGMTHQ,has a v shaped neckline and is plain red,is just orange with a V neck
+dress,val,dress_val_01013,B0063ASXFA,B00A17JXDC,closed shoulder sleeves and dark in color,is solid brown and covered neck line
+dress,val,dress_val_01014,B00DSSIGXO,B0077M7ZUM,has longer sleeves and black and blue,is blue and striped
+dress,val,dress_val_01015,B0071ALNLC,B00B6ETQIG,is a darker shade of blue,is a darker color
+dress,val,dress_val_01017,B00A846WGO,B008N0MM8W,is more green,is red with latex
+dress,val,dress_val_01018,B00499DHK8,B00AIL3OAO,is red and white striped,is red with white striped
+dress,val,dress_val_01019,B005FLWZCA,B004YADUVS,has a more symmetric neckline with a tan hue,is a bronze color with capped sleeves
+dress,val,dress_val_01020,B009S3GIV0,B007WPH9BY,colorful one shouldered maxi dress,is much brighter in color
+dress,val,dress_val_01021,B0091EGPXW,B00BIJGMD6,has more of a flared skirt with bow tie belt,lighter blue and more flowing
+dress,val,dress_val_01022,B008MNM7Y4,B008VIQTZS,is black and slightly shorter,is longer and white with a different neckline
+dress,val,dress_val_01023,B005FSIX5G,B005JDB3UO,the desired prdouct patten is diffrent and the colur is RED  comapre to privided product,has large soda graphic and plunging neckline
+dress,val,dress_val_01024,B004Z56IPC,B009401L6O,is tighter and has a leopard print.,leopard pattern and tighter
+dress,val,dress_val_01025,B005QN9ET4,B004VJS5QC,is shorter with stripes,is a white and green v pattern
+dress,val,dress_val_01026,B005VTJH4K,B0058XV3BY,has long sleeves and is a darker color,has longer sleeves and two stripes
+dress,val,dress_val_01027,B009C6OO8C,B00B2FEFNU,is the same compared to provided product,is more white
+dress,val,dress_val_01028,B00C5168K8,B0067M3VO2,is longer and more elegant,is printed and is longer
+dress,val,dress_val_01031,B006ZO5GC2,B0080N9HNU,is mustard colour and longer.,is yellow and longer
+dress,val,dress_val_01032,B004748I22,B00466IEVG,Tighter and more exposed neck area,has a shorter tighter skirt.
+dress,val,dress_val_01033,B005QVUUR6,B00DWFEPEC,has longer sleeves and shorter skirt,is shorter in length
+dress,val,dress_val_01034,B00C45XM6S,B00BNH31AU,is more blue and has more sleeves,is in solid blue with yellow lining.
+dress,val,dress_val_01035,B005QN9ET4,B00BRE2YD4, shorter and has shorter sleeves,is more black and white striped and shorter
+dress,val,dress_val_01036,B0073M5RKG,B009AZRPRM,is dark green with a lower neck,has two straps
+dress,val,dress_val_01037,B0061IXDTU,B007WA4020,is a lighter color and has cold shoulder sleeves,lighter and more forgiving
+dress,val,dress_val_01038,B007XCS81G,B008PC5DGG,Checked and brighter,u shaped neckline
+dress,val,dress_val_01039,B0094PFE4E,B00336ESI8,is darker and has longer sleeves,is black and white and less revealing at top
+dress,val,dress_val_01040,B006U07GW4,B00AEMHQU6,is brighter and belted,is light blue and shorter
+dress,val,dress_val_01041,B004L0XCUK,B004NAU4G8,is purple,is black with long sleeves
+dress,val,dress_val_01042,B007TWJCBA,B005UX57P0,is tighter and shorter,is shorter and lighter in color
+dress,val,dress_val_01045,B005NXMDTU,B0088N3HGU,is red with a high neck,is a red patterned dress
+dress,val,dress_val_01046,B005QN26TE,B0041553AW,is shorter and yellow,is yellow and shorter
+dress,val,dress_val_01047,B00AEW4384,B00F8LGGKE,is sleeveless with blue,is white with straps
+dress,val,dress_val_01048,B00E6RBFFC,B008VIV02K,is long and is red with thicker straps,is much longer
+dress,val,dress_val_01049,B00C1RQBBM,B00B2UEOEK,is more colorful,is lighter in color and is looser fitted
+dress,val,dress_val_01050,B006TALRY8,B005VTJH4K,is shorter and has no sleeves,light pink and sleeves
+dress,val,dress_val_01051,B008YIG3DI,B009AMQ2WY,is pink,It is more red and has a wider strap
+dress,val,dress_val_01052,B00405RUW2,B0043M5UR4,is more colorful and shiny,has a collar and multicolored top
+dress,val,dress_val_01053,B00BTMWMYU,B0045R3SUI,is darker and has longer sleeves,resembles more closely a long jacket instead of a dress.
+dress,val,dress_val_01054,B0071MSFCU,B009JY687M,is teal and has pockets,is in a teal blue.
+dress,val,dress_val_01055,B00BPBCKQK,B00F8KXFHW,Is shorter and light blue.,has sleeves and a v-neck
+dress,val,dress_val_01057,B00DQHXEO8,B00CL0VWTA,is shorter and more casual,Has a shorter skirt and longer sleeves
+dress,val,dress_val_01058,B002GU7D5M,B0030IMZ1G,is black and grey in color and thicker straps,more black
+dress,val,dress_val_01059,B00BSNJOS2,B008UBRJPU,is darker with more sleeves,is navy blue with tan flowers
+dress,val,dress_val_01060,B002YX0KZ6,B005I1NJPY,has no sleeves and shorter,has long sleeves
+dress,val,dress_val_01061,B00BVX94NO,B008ZAD996,is black with sleeves,is solid black
+dress,val,dress_val_01062,B0059817JQ,B005SFZ6VU,is lighter grey,grey cotton
+dress,val,dress_val_01064,B00BDGMRGA,B0060VUQ0C,is long with beige stripes,has a striped print in white and black with longer skirt.
+dress,val,dress_val_01065,B00BH9R3US,B005JW6JRM,Is shorter and more white,is shorter above the knees with a full top.
+dress,val,dress_val_01066,B00BG4M4BM,B00B2JIFRS,is identical,na
+dress,val,dress_val_01067,B009KQVCAM,B007VP2C7Q,is tan with a halter top,is tan and haltered
+dress,val,dress_val_01068,B009YKCYZ6,B008GS79VG,is dark blue but the same design,It is a bit longer and still above knee
+dress,val,dress_val_01069,B008B2OOQK,B0010VH27C,is black and grey, darker and strapless
+dress,val,dress_val_01070,B005QYY8F8,B005FMSUQ4,has a blet belt,is more revealing and is lighter colored
+dress,val,dress_val_01071,B005DRAVT0,B005DRATG0,is brown and sleeveless,is not as dark and has one sleeve
+dress,val,dress_val_01072,B00B7Q9ZDO,B00C5TOAQO,is black red yellow and green,is rasta colored and strapless
+dress,val,dress_val_01073,B00BI3CY4S,B00DB9S5B8,is peach with a longer hemline,has more pink and is more frilly
+dress,val,dress_val_01074,B008KKNM4S,B009PKDTEA,longer dress with long sleeves,is longer and has longer sleeves
+dress,val,dress_val_01075,B008D5IQFU,B005T8EO6O,Black dress is more shiny,has more polka dots and is less conservative
+dress,val,dress_val_01076,B003N17E7U,B006J3YCOC,is gold in color and is shinier, Less Loose
+dress,val,dress_val_01077,B00B2JHXOE,B00BI3DRHG,is Jones New York,cannot see the desired product.
+dress,val,dress_val_01078,B00BMAPIB8,B005GA9DEI,less revealing with a turtle neck and long sleeves,has longer sleeves and is more solid colored
+dress,val,dress_val_01079,B005UASDM2,B009GY7K4A,is off the shoulders and fitted, has sleeves and is a darker red
+dress,val,dress_val_01080,B00ANC7JCW,B00BNMJRDA,Is more fitted and has long-sleeves,is black and blue with sleeves
+dress,val,dress_val_01082,B0043D2HME,B00DV9636M,More revealing and more color,is more white
+dress,val,dress_val_01083,B009ANVEHG,B00598QDJK,is plain black and longer,is black and reveals more chest
+dress,val,dress_val_01084,B00BBU6R46,B0098SKOQK,is bright colored and asymmetrical hemmed,Is all pink material
+dress,val,dress_val_01085,B007WA38BY,B00BW7Z49M,is black in colour and has less straps,is black and off the shoulder
+dress,val,dress_val_01086,B008PG0SOO,B004DUM060,is brown with halter straps,is more revealing
+dress,val,dress_val_01087,B0092QK1W0,B007R0TNBI,longer and strappier sleeves,is loger and see through
+dress,val,dress_val_01088,B00E9QQU46,B0091QSRCM,has more ruffles with no straps,has no sleeves and more texture
+dress,val,dress_val_01089,B00AJ1P6XQ,B00B907L9S,is pink in color with  ruffles,is sleeveless and frilly
+dress,val,dress_val_01090,B00ASWY2GI,B0091QSWH2,has a less poofy skirt,is very similar without as much puff to the shirt.
+dress,val,dress_val_01091,B00FQANLX2,B00CBMO7JA,is patterned,has darker colors and more sheer
+dress,val,dress_val_01093,B00DAU8VIA,B00BWRLQUS,is blue with light trim,is blue with tan trim
+dress,val,dress_val_01094,B0076R88V8,B007G1015U,tight fit and dark in color,has longer sleeves and is gray colored
+dress,val,dress_val_01095,B007JS1Y7Y,B004J3492O,is dark colored and flowy and strapless,is strapless with a print
+dress,val,dress_val_01096,B00AZE6UV4,B00B8QSAY8,is longer and lighter,has white and is longer
+dress,val,dress_val_01097,B004W88GB6,B0077967DG,is longer and open at the chest,is long floor length and lighter floral design
+dress,val,dress_val_01098,B009D3M86O,B008OKGFF2,is pink with a right strap,is pink and belted
+dress,val,dress_val_01099,B004HD4V1K,B003TJA7YI, pink on bottom with smaller straps,is darker
+dress,val,dress_val_01100,B008E6CKVY,B004HD55X8,has a pattern and is a v-neck,has no sleeves and dark colored
+dress,val,dress_val_01101,B00EVODFJE,B00EVODFOE,none,is exactly the same
+dress,val,dress_val_01102,B00ATPE8CW,B00CELOWN4,Is a halter dress with polka dots.,has dots
+dress,val,dress_val_01103,B009G0RL4I,B00B5J8HNW,is a long purple maxi dress,is longer
+dress,val,dress_val_01104,B00CQ8JYLK,B00CIZZ6EK,is more sleek and black,is more shiny black material
+dress,val,dress_val_01105,B004LQ0GZ8,B00AKB3PCY,is blue and less revealing,is zebra striped and shorter
+dress,val,dress_val_01106,B007PMBZ00,B0076R8AVQ,has no straps and is white,More revealing and brighter
+dress,val,dress_val_01107,B00H2FUGOQ,B00E5X7NRQ,has shorter sleeves with white buttons and is red,is a lighter red with shorter sleeves
+dress,val,dress_val_01108,B005HEJCDK,B0066U2DH6,is more adult like,is pink and longer
+dress,val,dress_val_01109,B003AKZMXM,B009CNGPHS,is tighter with longer sleeves,is more striaght
+dress,val,dress_val_01111,B00DYFK9N6,B00DDHA7YQ,is more multi colored,Longer and more colors
+dress,val,dress_val_01112,B00GP5TL6I,B00AEBAJU6,is flullier,is sleeveless and two toned
+dress,val,dress_val_01113,B00AYXA3U0,B007520NYO,Is a sheath with black and white flowers.,has a black and white pattren
+dress,val,dress_val_01114,B00AAOY6W4,B0066U2D7G,is white and is short,is white with a shorter hem
+dress,val,dress_val_01115,B00CLF4QKC,B00EKY4UEY,has balloon sleeves and is black,has shorter sleeves
+dress,val,dress_val_01116,B00BY3GCD6,B00BY3GFWE,is more modest and lacier,sheer top and wavy skirt bottom
+dress,val,dress_val_01117,B008R9FAD8,B006MHQUOU,is tighter and multi-colored,is striped and has sleeves and is fitted
+dress,val,dress_val_01118,B008D5GUJY,B00BJGVXNW,all black and longer,is black and long
+dress,val,dress_val_01119,B0036DOZMC,B00COB4356,is more casual and lighter color,is lighter in color with shorter sleeves
+dress,val,dress_val_01120,B0059BGIG0,B008XKC00W,Is white and more eveing,is white
+dress,val,dress_val_01121,B00B923WCQ,B00BWA8H0C,has two straps and is more green than blue,is more conservative and darker in color
+dress,val,dress_val_01122,B0076R5V0E,B004VBELY0,is longer with stripes,is purple striped and is much longer
+dress,val,dress_val_01123,B0091WZCE2,B00B72LAS6,is red with no sleeves and flat shoes,is red
+dress,val,dress_val_01124,B008583T7A,B00CY2BD1M,is yellow and orange,is in peach reds and a little longer
+dress,val,dress_val_01125,B004RJ8IHW,B005GT2DUK,has vest like sleeves, tighter fitted and dark blue
+dress,val,dress_val_01126,B005QVUUR6,B004X9MA66,is white with red bow at waist and more patterned,is printed and bow tie waist
+dress,val,dress_val_01127,B006P044VU,B006YKWT18,is plain in design, revealing the leg and is in purple only.
+dress,val,dress_val_01128,B007TUPWAC,B005GT74NQ,has a floral pattern,is black and grey and has a belt.
+dress,val,dress_val_01129,B00BAHT21U,B00F4MZB7G,has more graphics and is darker,is more sparkly
+dress,val,dress_val_01130,B007PENSBC,B0047MEZNK,is longer and purple,is longer with zebra stripes
+dress,val,dress_val_01131,B0030EHJCU,B00A4AN1K2,is longer and black,is solid black
+dress,val,dress_val_01132,B00BFGBJ3K,B006TD8IUQ,is a darker,is solid black
+dress,val,dress_val_01133,B00D993JHA,B008HW2UT2,has one shoulder and is a different pattern,Is more colorful
+dress,val,dress_val_01134,B00CY8S8P0,B005F6MYA8,has boxed designs with strings,is darker and more patterned
+dress,val,dress_val_01135,B00CGY6RJ6,B00833D9TU,Is lighter with a floral pattern.,is more see through
+dress,val,dress_val_01136,B00FN82BN8,B00EKVI27I,is plain,has no sleeves and is a bit red
+dress,val,dress_val_01137,B008FG57UE,B008BM1A0I,is looser and off the shoulders, longer
+dress,val,dress_val_01138,B009G8FXPY,B005F0NOYO,is lighter and has shorter sleeves,is white and less tight
+dress,val,dress_val_01139,B00BJ9IUN0,B00B5KKYFK,is a lime green,is more green and has bigger straps
+dress,val,dress_val_01140,B007ORZ1PG,B0092QK9AY,is patterned and sleeveless,is dotted with straps
+dress,val,dress_val_01141,B00CE4GUC2,B00ABSUHMC,has sleeves and no pattern,It is less plain with short sleeves
+dress,val,dress_val_01143,B00A9TA2XM,B008BRLWA6,is brown toned with abstract print,is printed and rounded neckline
+dress,val,dress_val_01144,B004PYESUA,B004P67ZYE,is darker,is floral and dark
+dress,val,dress_val_01145,B00CBBZOW0,B00CDJZR1S,is meant for fatter people,is more colorful
+dress,val,dress_val_01146,B004MMF00W,B009PKQ6FY,is more red and longer,is darker in color and longer in length
+dress,val,dress_val_01147,B00BXB7LRA,B009311JG6,has not pattern or no straps,is slightly darker color
+dress,val,dress_val_01148,B00CI08M00,B00CII5IT0,is longer and brighter,not an A line
+dress,val,dress_val_01149,B00AFOMEMI,B00AFODS96,is lighter with a polka dot patter,is lighter in color with spots
+dress,val,dress_val_01150,B005VZ8MWC,B0088OXE9Y,is more revealing and sexy,has a pattern
+dress,val,dress_val_01151,B00ANK6ND0,B00AO1VG9Y,is lighter and has longer sleeves, off the shoulder and less fitted
+dress,val,dress_val_01153,B00DJ7YYD0,B00BEXOQB6,is blacker and more pink flowers,is very similar
+dress,val,dress_val_01154,B00B59UOBU,B008TYS0C4,contains different shades of purple instead of one color,is tie dyed and pinkish colors
+dress,val,dress_val_01155,B00D9BZR4Q,B00D3A3HRC,Darker and more cleavage,darker with shinky pieces
+dress,val,dress_val_01156,B00ASIFVDU,B008PRJ394,is black and white with no straps,is a dress
+dress,val,dress_val_01157,B0081TB10A,B00COL2E4S, is strapless and is more flowing,is lighter and shorter
+dress,val,dress_val_01158,B009HPIG00,B008YQM98I,has less ruffles,is strapless and more fitted bottom
+dress,val,dress_val_01159,B00B5MK7N2,B009FX8ODI,has a flared skirt and is white.,is much lighter in color
+dress,val,dress_val_01160,B00A846WGO,B00AHHR22A,is less shiney,is sleeveless
+dress,val,dress_val_01161,B00C6PP86S,B0062FN2EI,is blue colored,is blue and not so low-cut.
+dress,val,dress_val_01162,B00DCC9ZJK,B00EA3WE9S,is gray colored,is gray.
+dress,val,dress_val_01163,B00EHYXCA0,B00968D8ZG,is the same dress but is maroon,is red
+dress,val,dress_val_01164,B00CRNS11I,B005LURFWK,is much shorter and sportier,is white and sporty
+dress,val,dress_val_01165,B00DQBBAAE,B000QSGNOI, and is a darker blue, fitted
+dress,val,dress_val_01166,B00CBWGQVM,B009B7MLZU,sleeveless and small dark print,has pattern and no sleeves
+dress,val,dress_val_01167,B0088Y0CLW,B006PBGK9I,has shorter sleeves and is lighter,is a darker deeper red with long sleeves.
+dress,val,dress_val_01168,B00BP84R3C,B00EPFMQWQ,has purple designs with black stripes, shiny and sleeveless
+dress,val,dress_val_01169,B007OX0MXG,B00DNVUBK2,is slightly shorter and hugs the body more,has a v neck and is tighter
+dress,val,dress_val_01170,B007JS1Y7Y,B00A76ZQQU,is light blue with some patterns on top,is lighter
+dress,val,dress_val_01171,B00C93VT5G,B00DBA0LLE,is sexier and darker,has stripes
+dress,val,dress_val_01172,B008BWOCGC,B00FRGH3S4,black with lace on bottom,is more plus size and less frivolous
+dress,val,dress_val_01173,B003YKZ42W,B007959ZSW,is dark green colored and two straps, more fitting and less frilly with round neck.
+dress,val,dress_val_01174,B005HQ42E2,B0083M20HI,more revealing at the cleavage and is dark in color,is brown with leopard print
+dress,val,dress_val_01175,B0095JQTLQ,B006362580,has no buttons,is blue with no buttons
+dress,val,dress_val_01176,B002VLDSRS,B004IZRBDW,does not have a floral pattern on it,is orange and has large striped accent
+dress,val,dress_val_01177,B007WA29BY,B00AFOM43W,is beige and has thicker straps,is a nude color
+dress,val,dress_val_01178,B005PHRKTW,B005PHZN7I,is mini red satin dress with one sleeved and strap,red one shoulder butterfly sleeve straight skirt design
+dress,val,dress_val_01179,B00ARMNY1I,B008XOXVBU,is more pink with straps,is orange with straps
+dress,val,dress_val_01180,B004Q9T840,B004V7KUQ2,is darker and has longer sleeves, but a different pattern
+dress,val,dress_val_01181,B00ENEC7K0,B00DR3TRJ2,not revealing royal blue knee length dress,Is more conservative
+dress,val,dress_val_01182,B00DEP9CUW,B00C12LOZU,Bright and colorful,is white with floral patterns
+dress,val,dress_val_01183,B006WARFS2,B008CUM27O, a-line,has no sleeves but is longer
+dress,val,dress_val_01184,B00CGY6RKU,B00CGY7236,has long sleeves and v neck with belted waist,the dress is black with longer sleeves
+dress,val,dress_val_01185,B008VFX1IE,B00F4GWI0U,is bright pink and ayered,is red with seperated sleeves
+dress,val,dress_val_01187,B004QL3YBG,B0037PVUW2,is darker and shorter,the dress is black and shorter
+dress,val,dress_val_01188,B004BDP1BA,B007RLR0GC,Is a short patterned dress.,is more patterned
+dress,val,dress_val_01189,B007WAFUJW,B007WAE0SO,has longer sleeves and is brown,More girly and less dark
+dress,val,dress_val_01190,B00CBBZOW0,B00CHICR3G,Is longer and more vibrantly colored,Is more colorful and longer
+dress,val,dress_val_01191,B00B2JJ15S,B00BSNJOS2,is a solid color and has shorter sleeves,is blue with no sleeves
+dress,val,dress_val_01192,B009HPIG00,B0097IXSGO,has no straps with black floral print,Has a pattern
+dress,val,dress_val_01193,B00BJGVXNW,B00AD11LB8,is shorter,is sea through
+dress,val,dress_val_01194,B00A3PEX7S,B000FCY9XM, strapless and longer in length,Is less colorful
+dress,val,dress_val_01195,B007WPHD92,B007WPHQJ4,is a long sleeve long black dress,is longer and more formal
+dress,val,dress_val_01196,B0091QI6KA,B006QSDAJS,has shorter sleeves and is purple,is less fitted at top
+dress,val,dress_val_01199,B003ILEHQG,B003ZLIWEW,is purple and sleeveless,is sleeveless and lighter in color
+dress,val,dress_val_01200,B00GS6TTU2,B00E6X3Y1O, black,is shorter and has less sleeves
+dress,val,dress_val_01201,B007P048TC,B007SV9A5A,has bolder stripes and is longer,is a long dress
+dress,val,dress_val_01202,B002Z7FONO,B002HCNMTU,is maroon with sheer sleeves,It is longer and has sleeves
+dress,val,dress_val_01203,B00C17P8W0,B004MMF00W,is shorter and has a belt,has floral pattern and more revealling
+dress,val,dress_val_01204,B0027RAAUE,B0009VT6MI,has a button around its cleavage,is black and more sexy
+dress,val,dress_val_01207,B00DU6GMRG,B00E7NYRRS,has a more modest neckline and defined waist,is a blueish green with a high neckline
+dress,val,dress_val_01208,B00ENEI9FW,B00CR02CF2,is longer and floral,more colorful
+dress,val,dress_val_01209,B004MMF00W,B0084DQY14,Is a short red sleeveless dress,red and tighter skirt
+dress,val,dress_val_01210,B00FXAC5SM,B00GP5TL6I,Is darker and has longer sleeves,has longer sleeves and is dark colored
+dress,val,dress_val_01211,B007KZHNY4,B005DWYYFC,is more revealing,is shiny and purple and is strapless
+dress,val,dress_val_01212,B008BYUH9Q,B005G8BDX4,is longer and has sleeves,Is floral without the red.
+dress,val,dress_val_01213,B00BJFXUBG,B007U3P8PC,A more colorful darker dress without straps,more colorful with thin straps
+dress,val,dress_val_01215,B007B6WEA0,B007B98014,is black and shorter,is black with thin straps
+dress,val,dress_val_01216,B005QVUUR6,B00CF3TCRW,Is more long-sleeve and fashionable,has long draping sleeves and open white only design.
+dress,val,dress_val_01217,B007EGKM5G,B007HSQM28,has a ribbon,has a silver top and a white belt
+dress,val,dress_val_01218,B00CFEVLBQ,B007HWN10K,has a higher neckline and shorter skirt,shoulder straps and more orange
+dress,val,dress_val_01219,B005FOPRRW,B00DP6SWJW,is more casual and looser,is pink and longer and flowy
+dress,val,dress_val_01220,B007XD6AMO,B0080E5BJS,is a two piece,White top with brown/black dots dress.
+dress,val,dress_val_01221,B004U88SW0,B0075N3XX6,has shorter sleeves,is see through and shorter
+dress,val,dress_val_01222,B007FWGBRW,B00B3VB34W,is a black with white dots dress below knee length,is black and white with longer sleeves
+dress,val,dress_val_01223,B00CJQI0I2,B00BLCXBA2,is two piece and beige at bottom.,is shorter and more revealing
+dress,val,dress_val_01224,B00CI1ELFO,B00EPSQ458,is blue with no sleeves and a v neck,is blue and more revealing
+dress,val,dress_val_01225,B00E00GL86,B007FF4S10,is shorter and darker,is one length a bit above the knee and only has one strap
+dress,val,dress_val_01226,B007VP2C7Q,B007VP2AIC,is longer with crossing straps, tiered hemline
+dress,val,dress_val_01227,B00AOWQJZ4,B007P7CNYM,the black dress looks more fashionable,is white with a fuller bottom
+dress,val,dress_val_01228,B007KZHNY4,B0055TBJL0, has longer sleeves and more wintery,is sleeveless
+dress,val,dress_val_01229,B004GBESAC,B0080646GU,is lighter,Has a pattern and less frills
+dress,val,dress_val_01230,B008B2OOQK,B0067PIC3E,is one shouldered,is a muted pink off the shoulder with a ruffled skirt
+dress,val,dress_val_01231,B002TYZGJ0,B0085F4XEG,is of the same color with short sleeves and a u neck shape,is longer and more flowing
+dress,val,dress_val_01232,B005HP3HL2,B004XID1GA,is white and strapless,is white and gray colored
+dress,val,dress_val_01233,B00GDSPIYQ,B00DKII46G,has no sleeves and a red belt,is slimmer and one color
+dress,val,dress_val_01234,B00ED49C12,B00CTSFCE0,is orange colored and sleeveless,is solid orange and has a halter top
+dress,val,dress_val_01235,B00CF5GD3Q,B00DBDCQ7I,has white and black stripes and is longer,is longer and has blue and white stripes
+dress,val,dress_val_01236,B00CTT41D2,B00CHQCC42,Is shorter and more purple,is strapless and purple
+dress,val,dress_val_01237,B00BY6HLDI,B008ZYZ3EG,is pink and ruffled,is pink and more revealing
+dress,val,dress_val_01238,B00EYSAIPG,B00EKZYLS8,is all black with a rouched front,is black and less revealing
+dress,val,dress_val_01239,B00FRS3RDM,B004M6S636, with spaghetti straps, is shorter and colorful
+dress,val,dress_val_01240,B00CSQ15KS,B0056BKBN4,is plain black with short sleeves,is black and more sexy
+dress,val,dress_val_01241,B009B8RMZI,B004RNZA9M,no strap floral maxi dress,long with color
+dress,val,dress_val_01242,B00CQAJI7S,B00B79JENC,is shorter skirt with brighter colors,is colorful with sleeves
+dress,val,dress_val_01243,B0084YMBQK,B00622HIMS,is longer and has more stripes,is longer in length and less dressy
+dress,val,dress_val_01244,B008S0HK3Y,B007FG0AAM,is a darker red,is a darker pink
+dress,val,dress_val_01245,B004RDQ97O,B0057WYVU6,is a short white dress, with one shoulder and is more fitted
+dress,val,dress_val_01246,B008E6CKVY,B003A84EOM,has one sholder straps, with long sleeves
+dress,val,dress_val_01247,B00B1G5SPY,B009Z3QZ6Q,is shorter and is red,shows more skin
+dress,val,dress_val_01248,B005DNSQVY,B00COPGWRO,Is more whimsical and casual,is more patterned and multi-colored
+dress,val,dress_val_01249,B00E5YA82M,B00CPWOPJ8,is black and shorter,is shorter with a silver belt
+dress,val,dress_val_01250,B00BB92J9E,B007GB2BZI,is solid black and has a v-neck,has a deep v neckline and is solid black
+dress,val,dress_val_01251,B007M8PCAQ,B000X4TNTM,is quaint and simple.,is grey and has shorter knee
+dress,val,dress_val_01252,B008BYUH9Q,B005UA9538,is flowery with thicker straps,is more leaves and hawaiian
+dress,val,dress_val_01253,B00DJ7YYD0,B00AW80GO0,is solid black in color,is shorter
+dress,val,dress_val_01254,B007WA38BY,B008SOEUGK,is more playful,is more colorful
+dress,val,dress_val_01255,B00B0ANWFO,B00B0AO1GI,is white with longer sleeves and plain pattern,is lighter and open
+dress,val,dress_val_01256,B007NKVTOQ,B0077H5AJU,is white with orange and yellow pattern,is white and sexy
+dress,val,dress_val_01257,B007GP6PME,B007GP6PMO,The blue dress looks more mature party wear,is more blue with sleeves
+dress,val,dress_val_01258,B00E808KYQ,B007S7AX6Y,has floral print with straps,is sleeveless and has lighter colored
+dress,val,dress_val_01259,B002W77AY8,B00575HZZG, longer and more colourful, purple patterned and longer
+dress,val,dress_val_01260,B00E0ORPVY,B008OW6IYI,is shorter and has pink and black strips,has more black and is shorter
+dress,val,dress_val_01261,B004AY7K1Y,B004S35CWG,pin and striped.,has no sleeves and more stripes
+dress,val,dress_val_01262,B00CSQ15KS,B003L5BZSC,has longer sleeves and even ruffles,is grey with long sleeves
+dress,val,dress_val_01263,B00B59UOBU,B004TM36ME,A shorter length,is more yellow
+dress,val,dress_val_01264,B006WQZGXC,B00ET5HWBM,has no neck strap,is a hot pink and form fitting
+dress,val,dress_val_01265,B007RB7IJG,B004WI3TPY, with fringe,is longer and smaller stripes
+dress,val,dress_val_01266,B00A0I6GSC,B00CLF3JPA,has no sleeves and tight black dress,is black and striped
+dress,val,dress_val_01267,B00139HWLC,B001NMKQRG,is white and puffy gown type,is white and longer
+dress,val,dress_val_01268,B005DRAVT0,B004MDL5IC,Is more bright and longer,Has not sleeves and is a lighter color
+dress,val,dress_val_01269,B00BNVAH6M,B0043W9Z1Q,is grey and white striped,has grey and white stripes and less revealing
+dress,val,dress_val_01270,B0076OCNJE,B00C4Q2RPO,is blue and white,has less revealing and is blue color
+dress,val,dress_val_01271,B00E3HGLU4,B000MWSM6A,is black,is shorter and no sleeves
+dress,val,dress_val_01272,B00CRNS11I,B00CD8JH9M, green with short sleeves,is shorter
+dress,val,dress_val_01273,B00C1BSDBO,B00ELLYWL2,More vintage and girly,Less black and longer sleeves
+dress,val,dress_val_01275,B00CF3TCRW,B00DDYWTP4,is more revealing and colorful,has floral reds and blacks instead of white.
+dress,val,dress_val_01276,B00D3SCKPE,B00D6BYMK4,is shorter and darker,is shorter and is a darker color.
+dress,val,dress_val_01277,B008BM17HY,B007FFZT6I,is more black and revealing,is more revealing and darker in color
+dress,val,dress_val_01278,B00EPC5D10,B00BP84R3C,is more solid and less colorful,is darker and longer
+dress,val,dress_val_01279,B009B7MLZU,B00E62JLB2,is solid colored and gold,Is lighter in color with a crew neckline.
+dress,val,dress_val_01280,B00EVODFJE,B008BG6R0W,A low cut lacy dress.,zip front orange print strapless fitted sheath
+dress,val,dress_val_01281,B005AQCKBQ,B008VQ6NNI,has a v cut neckline,has a v neckline
+dress,val,dress_val_01282,B003JH7YJ6,B005VZ8MWC,is more sexier,sweetheart neckline
+dress,val,dress_val_01283,B00CPCMP0Y,B00AEW46F4,has an open neck and shoulder and fitted,is lighter and more revealing
+dress,val,dress_val_01285,B00A784UKG,B004RKVGDY,is gray with a floral design,is see through
+dress,val,dress_val_01286,B00CY0CF0M,B008MJWKAE,Is longer and more whimsical,is a darker color
+dress,val,dress_val_01287,B009HK2P2A,B005X4RALA,has no sleeves and shiny red,na
+dress,val,dress_val_01288,B00DV2P9ZA,B004FN1TTO,is black with large white flowers and short,Is black with print and shorter in length
+dress,val,dress_val_01289,B00AO9RH30,B00AEYZ35E,Has a patterned top and solid skirt.,red lace
+dress,val,dress_val_01290,B00CTT41D2,B00CG70Y60,is shinier and more golden,shinier metallic gold
+dress,val,dress_val_01292,B00C45XM6S,B0071KR3QG,is pink and black with thin straps,Is floral with halter neck and empire waist.
+dress,val,dress_val_01293,B00DR3TPIA,B00DU5DJ8W,is striped all around,Black and White stripe.  Long sleeves
+dress,val,dress_val_01294,B0087PLHB6,B00AAPBVBW,is longer and more formal,is much longer
+dress,val,dress_val_01296,B00B2JJ15S,B007ZDHJ3G,Is more evening and more pink,is pink with straps
+dress,val,dress_val_01297,B00AGC26WM,B008G0ERA0,is darker and has longer sleeves,is multicolored with sleeves
+dress,val,dress_val_01298,B007JS1Y7Y,B002Y2X7NE,is more black,is solid colored and shorter sleeves
+dress,val,dress_val_01300,B009Q25IYG,B00DUFCJCY,is a halter top and two solid colors, yellow and green striped
+dress,val,dress_val_01302,B001JDGNS0,B003BKX12K,is tighter fitting and less revealing neckline,is longer and more form fitting
+dress,val,dress_val_01303,B00DW475WC,B00B7Q9ZDO,is sleeveless and tighter,has a paisley print and is form fitted
+dress,val,dress_val_01304,B00BH9R3US,B00E1CASRI,is more red,has a waist strap and comes in solid red.
+dress,val,dress_val_01305,B00E6RBFFC,B007WA38BY,is longer and white with thin straps,is white and longer
+dress,val,dress_val_01306,B009LEFR4A,B004988IIU,is longer and a halter toped,has a black lining around the sides and top.
+dress,val,dress_val_01307,B00C1BSDBO,B00C2LP2A8,is more standard blue thin strapped, no belt and is a solid pink color
+dress,val,dress_val_01308,B004VM5W1K,B00DJ7YYD0,has short sleeves and is darker,is darker with short sleeves
+dress,val,dress_val_01309,B0089XW7OC,B007R1YUI8,is dark purple,is more blue with short sleeves
+dress,val,dress_val_01310,B007OVUV9S,B00DI6AZAI,A vintage black and white strapless dress,is white and black with a bow and is strapless
+dress,val,dress_val_01312,B000PUGW8O,B0046Q2FCK,is solid white in color,is white and more flared and has sleeves
+dress,val,dress_val_01313,B00466ICP4,B0051N2MOI,is more revealing,has no sleeves and flower pattern
+dress,val,dress_val_01314,B008MB4OI8,B00A7DR1M0,is purple in color and has silk like appearance,is pink and sleeveless
+dress,val,dress_val_01315,B00CY8S5WG,B0060JCWO2,is shorter,is pale pink with spagetti straps and is shorter
+dress,val,dress_val_01316,B004H4WHVA,B0014IKPTS,is black and pink patterned,has a floral pattern and no sleeves.
+dress,val,dress_val_01317,B004LGXB0K,B00297BG7I,Is more colorful and sexier,is red and shorter
+dress,val,dress_val_01318,B002G5GHCM,B002QB70BI,has sleeves and is darker,is solid black in color
+dress,val,dress_val_01319,B0052B66GY,B009LJJZS4,is a blue dress that is short,is printed and pastel
+dress,val,dress_val_01320,B003WT11KY,B007JTP2SA,is looser with an animal print,has shorter sleeves and a solid grey panel
+dress,val,dress_val_01321,B00CGY6RJ6,B009JY6AIE,is a light blue color,less billowy but bigger bow
+dress,val,dress_val_01322,B0023D5Q4W,B004EWG5WW,cream with straps and u neck shape,is sleeveless and beige
+dress,val,dress_val_01323,B00BL9DCM2,B005S9W2FE,has longer sleeves and is red,has longer sleeves and red colored
+dress,val,dress_val_01324,B004FPYVO2,B005X4RMW2,is more striped and multicolored,is darker and striped
+dress,val,dress_val_01325,B004DVT2SI,B000AY2892,this back dress look too adult,is darker and slimmer sleeves
+dress,val,dress_val_01326,B00A4FQ4PG,B00A7049XW,is red and shows more bust,is red and more shiny
+dress,val,dress_val_01327,B008596V88,B00CLDVNSC,black and white short dress,has a grey bottom and red top. A little longer.
+dress,val,dress_val_01328,B001TA2J9K,B0050JZTKW,is red and shorter,is less ethnic
+dress,val,dress_val_01329,B00DUFRTQA,B0080ICEQC,one shoulder and shorter dark colored,is black with only one strap
+dress,val,dress_val_01330,B0073MVVPQ,B00BG5TRZ2,is not as embellished and is lighter,white and less decorative
+dress,val,dress_val_01331,B007EGKM5G,B00D8JB44G,is shinier with a black belt,is sleeveless
+dress,val,dress_val_01332,B003AI6LNY,B00BYRKJIQ,has less sleeves with floral print,is spaghetti strap and short front and longer in the back
+dress,val,dress_val_01334,B00DEP9CUW,B006G3YVBE,is shorter knee length,has no sleeves and more colors
+dress,val,dress_val_01335,B00C01N5K4,B0071NHF5W,is all polka dots,is polka dotted and fuller
+dress,val,dress_val_01337,B00AWKKHOC,B0087YZ0S8,is black and has puffy sleeves, with short sleeves and more fitted
+dress,val,dress_val_01338,B0080ICEQC,B0050SCUXC,is shorter and has longer sleeves,is short sleeved and printed
+dress,val,dress_val_01339,B005QYW7PG,B0076R807A,More blue and stripped,maxi dress in pink pattern with no bow
+dress,val,dress_val_01340,B00DR3TRJ2,B00DU6GJJC,Is green and more revealing,has a green color and no sleeves
+dress,val,dress_val_01342,B005NXMDTU,B007F7PAOC,shiny short black dress,is shinier
+dress,val,dress_val_01343,B002OEYH3Q,B007FDOMTK,has shorter front longer back and longer sleeves, more baby-doll styled
+dress,val,dress_val_01344,B005KMQPS4,B0060Q8032,is black with v neck below knee lenght,is black with short sleeves
+dress,val,dress_val_01345,B008HQKK1S,B00AZE7306,Has a white low cut top and blue skirt.,is more revealing with two colors and shorter in length
+dress,val,dress_val_01346,B0046Q4K6E,B00316G2DE,less revealing,is a solid cream color
+dress,val,dress_val_01347,B009P83GT0,B008PG0SOO,lacy with burgandy at top with a high low hem,is purple and blue
+dress,val,dress_val_01348,B00BPBCKQK,B003TAJUM2,Is shorter and more simple.,is classier looking
+dress,val,dress_val_01349,B004BDP1BA,B0065W6F5Q,Is a tan dress with a ruched side,is a tan coloring.
+dress,val,dress_val_01350,B0016LHFE6,B00CF2VVJK,has more buttons,is shorter with buttons down the front
+dress,val,dress_val_01351,B00BTUULCC,B00CMLUHF8,is pink and purple striped floor lenght,has strip0es and longer
+dress,val,dress_val_01353,B005VTKJWO,B00AWMNYG8,is black in color,shows more neck
+dress,val,dress_val_01354,B0060VUQ0C,B00AQUBNWI,has no straps with black and white strips and florals,has more stripes and color
+dress,val,dress_val_01355,B005GYSR64,B00BV46E9K,long pink maxi dress with no sleeves,is longer and sleeveless
+dress,val,dress_val_01356,B0094QXCKQ,B00CLDNZ1K,is lighter and has shorter sleeves,is lighter colored and has a cutout in the back
+dress,val,dress_val_01357,B007NG77PU,B006M40UZ8,has no ruffles and has sleeves, mesh striped solid blue color
+dress,val,dress_val_01358,B007UDBI3S,B007LTUAUS,has black lace and a red skirt,has a black top and red bottom
+dress,val,dress_val_01359,B008OVCJ0Q,B004TA9PVW,has a low neck and has many rhinestones, gray and longer sleeved
+dress,val,dress_val_01360,B009NW4TW6,B0076RQLLW,is more revaeling and darker,has a floral pattern
+dress,val,dress_val_01361,B004AM5K4K,B004AM5KA4,is dark colored v-necked dress and sleeveless,is black and blue
+dress,val,dress_val_01362,B00A16KWZ6,B00AYXA5D0,is blue and has a belt,is blue with shorter sleeves
+dress,val,dress_val_01363,B007XD6AMO,B0094DYEJC,is solid black,has thinner straps and is more black
+dress,val,dress_val_01364,B00C2BIUXO,B00DEO5N8I,has more sleeve and is red with tie belt,is red and has longer sleeves
+dress,val,dress_val_01365,B005278U3U,B0019IIQYY,has longer sleeves and longer length,has a similar colored belt
+dress,val,dress_val_01366,B00EDS3BRO,B007457CVE,is more sexy and shorter,is darker and strappy
+dress,val,dress_val_01367,B003BKNUVC,B006X6XGT2,is shorter and red,is red and sexy
+dress,val,dress_val_01368,B00AG3Y2JG,B00DEP9CUW,is black,is longer and all black
+dress,val,dress_val_01369,B00CRNS11I,B008F48P7S,is shorter and darker in color,is shorter and is blue
+dress,val,dress_val_01371,B00BUVAI5K,B00AODCC9U,is light yellow with a bow on the belt,flowing and white
+dress,val,dress_val_01372,B007IWO80Q,B008BWOCGC,has a lower neckline,is white and does not have stripes
+dress,val,dress_val_01373,B00405RUW2,B008500HGE,is more revealing and tight,is more revealing
+dress,val,dress_val_01374,B00CLGVWLM,B00D61Z5Y6,pink dress with half sleeves,is pink with no stripes
+dress,val,dress_val_01375,B00C7SQQJW,B001J2HRRW,Purple and more revealing,maroon with deeper neck
+dress,val,dress_val_01376,B003BKNUVC,B001JDGNS0,is solid black,is solid black and v necked
+dress,val,dress_val_01377,B00AT8CQIM,B009XNN37W,has more color contrast,is black and white with longer sleeves
+dress,val,dress_val_01378,B0094QXCKQ,B008VJ0Q2Y,Is longer with colorful stripes.,has no sleeves and more color
+dress,val,dress_val_01379,B002YX0KZ6,B005CMMWYI,has a skater design,has more dress volume
+dress,val,dress_val_01380,B00EPFMQWQ,B00FZVANC4,is golden with less sleeves,More see through and double layered with Teal As the base color.
+dress,val,dress_val_01381,B008FPXR3Y,B00AESNPGY,has sleeves,has different coloring and fuller shoulders.
+dress,val,dress_val_01382,B005KOYZWU,B00BJFXX54,Is brighter with an asymmetrical hem,is yellow and has straps
+dress,val,dress_val_01383,B009DI5YSS,B004BH166A,has no sleeves and is longer,light color
+dress,val,dress_val_01384,B008E7IA0I,B00FRS3RDM,has longer sleeves and a different pattern,Is shorter
+dress,val,dress_val_01385,B008TKM790,B00APER4ZK, is brighter,is shorter and one colored
+dress,val,dress_val_01386,B004E9SNTS,B0076R5V0E,has a different pattern and is shorter,has no sleeves and is multicolored
+dress,val,dress_val_01387,B00AKLK08G,B00AFDH25I,is light brown,is one-toned
+dress,val,dress_val_01388,B0073M5RKG,B00BBU6R46,Is lighter with a keyhole cut out,is white
+dress,val,dress_val_01389,B00CE4GUC2,B00CF1RK6Y,is yellow,is yellow and shorter
+dress,val,dress_val_01390,B00DFN4MSU,B00806NEIQ,is shorter,is shorter and darker
+dress,val,dress_val_01391,B007GSGKOO,B00CY914W8,is a solid body con dress,is pink and thin
+dress,val,dress_val_01393,B00297BG7I,B0063BBIEM,is purple and more revealing,It has more purple and it is more plain
+dress,val,dress_val_01394,B005278U3U,B00A9TA2XM,is green with a v neck,is green
+dress,val,dress_val_01395,B003XCNN3I,B004HSN6W0,Is darker with longer length.,is darker in color and longer
+dress,val,dress_val_01396,B00CJHLQ3W,B00ANT6K0M,is two colors and less print,is black with grey stripe
+dress,val,dress_val_01397,B0032FOQUU,B006YNDYF0,is blue and straight,is longer
+dress,val,dress_val_01398,B00D3V29MA,B009S3GIV0,is more elgant,is two-toned black and white
+dress,val,dress_val_01399,B0091SFTVC,B00E21AEUY,is a brown and white print dress, longer ruffle hemmed
+dress,val,dress_val_01400,B000BL6VJM,B007OZSTY8,is shorter and sexier with no sleeves,The dress is longer and less summery.
+dress,val,dress_val_01401,B00AIBYV1K,B008UEW5RO,has a white outline, ruffle bottom
+dress,val,dress_val_01403,B003ILG26E,B0083UY0LY,Is less fitted and more ruffled,is pink and wider shouldered
+dress,val,dress_val_01404,B00525WBU0,B002ZLOQGQ,a coral pink strapless dress,is pink with floral pattern
+dress,val,dress_val_01405,B005NXMDTU,B008GQ3BVK,shorter and pink with a bow on it,Pink cold shoulder dress.
+dress,val,dress_val_01406,B00CBWGQVM,B0091SH4H4,is black with short sleeves,is less revealing and darker.
+dress,val,dress_val_01407,B00D4E8ZW4,B009XJMTSA,Is a dark blue cold shoulder dress.,is off one shoulder and blue
+dress,val,dress_val_01408,B00ELLYWL2,B00CCPYPYI,is all blue with lacy bottom,has shorter sleeves and a festive print
+dress,val,dress_val_01409,B007Z24BC4,B00COYGYPU,is longer with black and white prints,has a print with sections of black and white only without reds.
+dress,val,dress_val_01410,B00F4MZ144,B00F4MX4SE,is solid gray and lighter color,is lighter in color
+dress,val,dress_val_01411,B003WT11KY,B008GRR6II,is white and much more plain,is lighter in color
+dress,val,dress_val_01412,B00C97ISFG,B00A8VHMRK,is black,is all black and two pieces
+dress,val,dress_val_01413,B00CN46SMU,B00BTUULCC,is off-white and one length,is lacy and lighter in color
+dress,val,dress_val_01414,B008MZS5Y8,B008H78T6K,is a bit longer and black,is less revealing and black
+dress,val,dress_val_01415,B009MIRC6Q,B009G8FXPY,is more transparent,is more laced on the top
+dress,val,dress_val_01416,B00CP80N3O,B00EYNTEYW,is leopard print with a pink bow,is multi-colored and less sexy
+dress,val,dress_val_01417,B00466F2W0,B0098BW31Q,is solid black with ruffles,is darker colored with no sequins
+dress,val,dress_val_01418,B00530FEEY,B0017LUFJM,has spaghetti straps,is short.
+dress,val,dress_val_01419,B008DH1ZEM,B00CX0GGUI,is more modern and less frilly,is red with black patterns
+dress,val,dress_val_01420,B00CQSPPLS,B009815VKG,is white,is white and more open
+dress,val,dress_val_01421,B00ANSYKPA,B00DHP4U0Q,is shinier and has shorter sleeves,is a tannish brass color and reveals a lot of breast around the straps.
+dress,val,dress_val_01422,B000BL6VJM,B00DC01APO,is short and blue in color with shorter sleeves,is blue and knee length
+dress,val,dress_val_01423,B00C7Z4VGU,B00CJHLBFK,High Low Dress Royal Blue Sheer Sleeves,is brighter in color
+dress,val,dress_val_01424,B00CTT51MC,B00CTT4N7G,is longer and black,is much longer
+dress,val,dress_val_01425,B0069IWITS,B00428MWP2,is pink and black with straps,has no sleeves and more art
+dress,val,dress_val_01426,B003ILEHQG,B00GATDMUK,dress body con dress,has a cover over it and color is off
+dress,val,dress_val_01427,B00DSME58U,B00BJZA08M,a mint colored dress with straps,is light blue
+dress,val,dress_val_01428,B00BJSECVA,B008D6LE3A,has sleeves and is black,has sleeves and is red and black floral print
+dress,val,dress_val_01430,B007FG0AAM,B00A7Z5MKQ,is lighter,is white with slightly higher neckline
+dress,val,dress_val_01431,B00EFE9MII,B00AXL6E3I,Is darker and not sleeveless,More black and less satin
+dress,val,dress_val_01432,B005RYO18G,B006ZWEMWE,is lighter grey toned,is lighter in color
+dress,val,dress_val_01433,B007FO27IW,B008LRQUW6,Is a patterned short dress,short sleeves with pattern
+dress,val,dress_val_01434,B006361ONM,B00EDSJG2I,is more form fitted with stripes,is less formal and striped
+dress,val,dress_val_01435,B00BTUXSYA,B00CN46SMU,Is striped with asymmetrical hemline.,has stripes
+dress,val,dress_val_01436,B008TYS0C4,B005O0PARY,is shorter and ligther,is more pink and is shorter
+dress,val,dress_val_01437,B00A3PEX7S,B0033PRQ2Y,is shorter and shiner with no straps,is red and tight
+dress,val,dress_val_01438,B007FO27IW,B002ZCXTA4,is longer and more black,is more elegant and longer in length
+dress,val,dress_val_01440,B00D4B6OI4,B004XYPAL8,has more sleeves and is tighter,Is more fitted with longer sleeves and scoop neck
+dress,val,dress_val_01441,B00D993JHA,B000EC58G0,Is more masculine and white,is underwear
+dress,val,dress_val_01442,B005OOUCLE,B000YXD4R4,Is maroon with a ruffled top.,is a dark red cowlneck and long sleeves
+dress,val,dress_val_01443,B007IWOBBC,B0081V3WPU,is a darker color and has a halter neckline,is black with spaghetti straps
+dress,val,dress_val_01444,B000BL6VJM,B00AIWGKY0,is sleeveless and shorter,is strapless and above the knee
+dress,val,dress_val_01445,B007FDYS62,B004VM5W1K,has thicker sleeves,is more random
+dress,val,dress_val_01446,B00D9E1SSW,B00E1SPJR6,is longer with solid black and thicker straps,is black with lace bottom
+dress,val,dress_val_01447,B00EJYPULM,B006PAT5EQ,has a more loose fit and long sleeves,has long sleeves
+dress,val,dress_val_01448,B00B5VXRTO,B009DMGQM2,is white and black with cap sleeves,is black and white
+dress,val,dress_val_01449,B005JDB3UO,B00A787OEA,is a darker shade,It is darker and more plain
+dress,val,dress_val_01450,B002Z7FWB8,B009LIFAV6,is black with short sleeves,is much shorter
+dress,val,dress_val_01451,B004TM36ME,B009UJ5M7S,yellow long boots,is a pair of deep yellow suede knee boots.
+dress,val,dress_val_01452,B00CFYDMM2,B00DONTLP0,is pink in color,has shorter sleeves and is pink
+dress,val,dress_val_01454,B007FHE5IY,B007FHD0FI,is lighter,is turquoise and black
+dress,val,dress_val_01456,B00BI5R31U,B008R4XZ0I,is dark blue with no patterns,is form fitting and short and is blue
+dress,val,dress_val_01458,B007FWGBRW,B00E1MEKLI,is shorter and more sexy,is more red and shorter.
+dress,val,dress_val_01459,B00GDSPIYQ,B004ISKT38,has no straps,ruffled and no sleeves
+dress,val,dress_val_01460,B007UYY43I,B00BI5R31U,long sleeved green printed dress,is longer darker and less revealing
+dress,val,dress_val_01461,B00DEP9CUW,B004PEB1KU,is shorter and more casual,thinner material and shorter skirt
+dress,val,dress_val_01462,B00CL0VWTA,B00C1BSDBO,is black with white dots on it and sleeveless,has polkadots
+dress,val,dress_val_01463,B00CW6HT7W,B00ENCGGZY,has two sleeves and a belt,has two strapts
+dress,val,dress_val_01464,B005KMQQFQ,B00DBS04F4,is teal and longer,is mint green
+dress,val,dress_val_01465,B006UT2TPY,B00BYD7DDO,is less shiny and has sleeves,is not sleek and rubberized. Instead it is made of fabric.
+dress,val,dress_val_01466,B007OX0MXG,B006YZLWSE,has one sleeve and is pink,is much lighter in color
+dress,val,dress_val_01467,B006DYG6PA,B009DMEAL6,is less striped with longer sleeves,is one-toned and longer
+dress,val,dress_val_01468,B008GQ3H50,B00CFD6ZBI, looser and has longer sleeves,has much shorter sleeves
+dress,val,dress_val_01469,B004LVNVDC,B001HK23KM,is solid black,is not as tight
+dress,val,dress_val_01470,B00EEERGP0,B00DMEFORK,is red and has a laced bottom,Less black and more plain
+dress,val,dress_val_01471,B007WAETMG,B00AFOMEMI,is black and short length,shorter and darker
+dress,val,dress_val_01472,B007959ZSW,B007ECAZPM,is strapless in a lighter color,is more revealing
+dress,val,dress_val_01474,B006361YUA,B00CJF48D4,is light pink shade with small sleeves,is pink and grey in color
+dress,val,dress_val_01476,B00A7049XW,B005WY5LAS,is more sexy and redder,is more of a red color
+dress,val,dress_val_01477,B007HCAEKU,B00726HLP2,is shorter with sheer prints,is more revealing and shorter
+dress,val,dress_val_01478,B00ALGUAOO,B00ALGUEXG,is black and orange with no sleeves,strapless
+dress,val,dress_val_01479,B00DWPDCGY,B00DR3TPIA,is short sleeved and black with pink outline,is less revealing and more has shorter sleeves
+dress,val,dress_val_01480,B009PXRLIW,B00C7P935E,has narrower straps and is less dressy,is lighter colored
+dress,val,dress_val_01481,B00AOWQJZ4,B00G73FUGI,is a long black lace dress,It is more tight and has sleeves
+dress,val,dress_val_01482,B00DR3TPIA,B00EQ1PPEK, and v-necked,is red and square neck line
+dress,val,dress_val_01483,B008DH1ZEM,B006MWV676, longer,is black with straps
+dress,val,dress_val_01484,B008H86H1I,B0041AF33Y,is darker in colour with no sleeves,is shorter and dark
+dress,val,dress_val_01485,B006361YUA,B00CMU5O7K,has no straps and striped,is more black and white striped
+dress,val,dress_val_01486,B003725DKU,B00B71U376,is pastel green with mesh over spaghetti strap top,is sleeveless and green and white in color
+dress,val,dress_val_01487,B008W46FMS,B00FE0G1OU,is off the shoulder with long sleeves,has sleeves and shoulderless
+dress,val,dress_val_01488,B007ZDYK2E,B00BG4M4BM, shorter skirt,na
+dress,val,dress_val_01489,B00BKUTYWO,B00B1OKIRO,is white without straps and is high low,is white and strapless
+dress,val,dress_val_01490,B0099DCINQ,B00AHOYKVO,is shorter with thin straps and white with red,is shorter
+dress,val,dress_val_01491,B00766RTT6,B00F0W6US4,is black and longer, leopard print designs and black belt stripe
+dress,val,dress_val_01492,B00CY90TWE,B0091CXMOE,is shorter and lighter colored,is white and shorter in length
+dress,val,dress_val_01493,B00AD11LB8,B00AD11VKO,is a line and lighter with design,is square in the neck and blue
+dress,val,dress_val_01494,B0090NZVZC,B0065U35CY,is more revealing orange,is more complex in red
+dress,val,dress_val_01495,B004RDQ97O,B009F90MHS,is a half sleeved dress,has a peach and black skirt
+dress,val,dress_val_01496,B0093K54X6,B003WT19PQ,is black and one shouldered,is black with one strap
+dress,val,dress_val_01497,B009DMCMNO,B0098BVPIS,one shoulder dark blue short dress,blue with only one shoulder
+dress,val,dress_val_01498,B00BBXX6LU,B00756WDYI,longer and more revealing,is longer and has no sleeves
+dress,val,dress_val_01499,B008VJ0Q2Y,B008BDRDPI,has a falling neck,is shorter and different color
+dress,val,dress_val_01501,B005JDB3UO,B008GX3852,is longer and less revealing,is full length
+dress,val,dress_val_01502,B00C01N5K4,B00AN8LRX8, with vneck and tight fit,has no sleeves and is yellow white colored
+dress,val,dress_val_01503,B00AXX83YE,B0047SD9WC,has floral prints,is printed and shiny
+dress,val,dress_val_01504,B00D75WT4U,B00APLSSLC,a lot longer with no straps,is less black
+dress,val,dress_val_01505,B008JI0MX0,B0046ECPGI,is pinker and shorter,Is strapless in a bright color.
+dress,val,dress_val_01507,B007ADFRHQ,B00D68DXCA,is a long multi colored summer dress,is multi colored and longer
+dress,val,dress_val_01508,B00DDX15TG,B00CHSE4V4,is mostly black,is black instead of green.
+dress,val,dress_val_01509,B009HIH1S0,B001UHFV7O,Is black,has longer sleeves
+dress,val,dress_val_01510,B007RB7IJG,B009PYP9WQ,has a belt and chevron pattern,is more revealing and has a belt
+dress,val,dress_val_01511,B008006CXG,B00575VZM0,has a v neck and is red,red and more revealing
+dress,val,dress_val_01512,B0092PKPKE,B0092PKYNM,has longer sleeves,Has longer sleeves
+dress,val,dress_val_01513,B00DSI8WYW,B00BYI7ZQO,is sexier and blue.,is blue and black pattern with long black sleeves
+dress,val,dress_val_01514,B005YB2S5K,B007WSD2CQ,has red and beige strips,It is one piece and has a shorter sleeve
+dress,val,dress_val_01515,B008G0ERA0,B005XKDZ5Y,is longer and lighter,has long sleeves and brighter blue
+dress,val,dress_val_01516,B0060MFHH8,B00F4MYMJO,is short sleeves,Is a sleeveless sheath dress in red with black accents.
+dress,val,dress_val_01518,B00AA6F0GI,B006VA06KW, blue and less print,is blue and strapless
+dress,val,dress_val_01519,B00BYHHYCA,B00CEJW206,is a darker shade of pink,is darker
+dress,val,dress_val_01520,B006361YUA,B00CQNXR7W,has an orange tiger on it,has a tiger design
+dress,val,dress_val_01521,B005278U3U,B004GGSFK6,has floral pattern and more casual,is printer and has thin straps
+dress,val,dress_val_01522,B00B4GJODI,B009NCHDG0, lacy,is coral with white color and shorter
+dress,val,dress_val_01523,B004EPXWK2,B009NJQCO2,is black with white stripes,is black and red
+dress,val,dress_val_01524,B0064J5JPC,B00DGTZ7XM,is monochromatic,has quarter length sleeves and skirt to the knee
+dress,val,dress_val_01525,B004Q9T840,B005P7BK84,is red with ruffles on collar,is red with a higher nexk
+dress,val,dress_val_01526,B0087PLHB6,B00CP5NEFG,more red,is red and has 2 straps.
+dress,val,dress_val_01527,B00C1RFQA4,B00CIAHQVG,white with a bird pattern and a belt,is belted and printed
+dress,val,dress_val_01528,B006GF739E,B007RJP2SM,is longer and has a bright blue pattern,Is longer and a brighter geometric pattern
+dress,val,dress_val_01529,B008F48SKC,B00CJHOUFI,is flowing and zigzagged.,has off shoulder and is pink chevron color
+dress,val,dress_val_01530,B006J7DBTK,B00DSSHIX8,is black and long and has multiple slits,has shorter sleeves and a gold belt
+dress,val,dress_val_01531,B009HMQOP2,B004AVK514,Has a light purple color,is in pink without a v neck.
+dress,val,dress_val_01532,B005VTJH4K,B006TALRY8, with a floral pattern,red with deeper v neck
+dress,val,dress_val_01533,B004U8YYZU,B005QYW7PG,is shorter and orange.,is a shorter dress and orange color
+dress,val,dress_val_01534,B00B3Y6GNM,B004EPXD9M,is longer and blue floral,blue and white with longer skirt
+dress,val,dress_val_01535,B00EPC5D10,B005278ZUI,has one shorter sleeve and a defined waist,has a lighter print and spaghetti strap on one side
+dress,val,dress_val_01536,B00BG4M4BM,B0091QVR0G,is solid black with sleeves, longer sleeves
+dress,val,dress_val_01537,B005644KAG,B00BUC1QUA,has lace at the top part,has no racerback straps
+dress,val,dress_val_01538,B0030EHJCU,B00BY3GO0C,short white dress,is more white with no sleeves
+dress,val,dress_val_01539,B0073HKUWG,B007TC5ICW,Has blue and white tie dyed pattern.,is floor-length and patterned
+dress,val,dress_val_01540,B0036ME5BE,B002WV0S6G,is darker and longer,is more red with a longer skirt
+dress,val,dress_val_01541,B0059817JQ,B00D8ICJNM,Looser and colorful,has more colors in it
+dress,val,dress_val_01542,B00C2D4XA6,B00C2DDJXI,has longer sleeves and is darker,is red and has longer sleeve
+dress,val,dress_val_01543,B00DSSIGXO,B00BDGMRGA,shorter sleeve and shorter skirt, pink
+dress,val,dress_val_01544,B00EXMSRW4,B0071MSFCU,is solid black,is black
+dress,val,dress_val_01545,B00CAMJMRS,B00DMZFD7K,is solid red with silver design on neck,brighter red with jewled neckline
+dress,val,dress_val_01547,B005SGZXTY,B007R9JNPU,Is darker and strapless.,is black and long
+dress,val,dress_val_01548,B009E73G1U,B0084Y2V6A,is red white gray and black,is black and striped
+dress,val,dress_val_01549,B00BEJ34Q8,B00AWKKMWE,is clack in color with white boxes at the tits,the dress is black and white and shorter
+dress,val,dress_val_01550,B007B2HS78,B009DI5YSS,Is dark blue with a low necklne.,is brighter in color
+dress,val,dress_val_01551,B006YNDYF0,B004748I22,has long sleeves and is black,is black with long sleeves
+dress,val,dress_val_01553,B0063BBIEM,B006D8SSOS,is more revealing and darker,is darker
+dress,val,dress_val_01554,B00FFDZT8K,B007WAFYU2,has longer sleeves and less revealing,is silver with sleeves
+dress,val,dress_val_01555,B00BJGW386,B00DW475WC,is more casual,More western style with fit and flare
+dress,val,dress_val_01556,B00B8QSAY8,B0088AAXUG,is more revealing,is black with a shiny look
+dress,val,dress_val_01557,B008Z1TX2M,B00C11R13U,white and more rounded,Is more flowing and white
+dress,val,dress_val_01558,B005WQCHPI,B00BM279C2,is solid black and shorter,is black and more fitted.
+dress,val,dress_val_01559,B006VRT354,B006UCQXRG,is v necked and green,is more frilly and has more green
+dress,val,dress_val_01560,B009AUQVS6,B00ATPE8CW,Is brighter and more revealing,is pink with puffy sleeves and more flowy
+dress,val,dress_val_01561,B0083QFE0Y,B00AO3SNGQ,Is a lighter color,is in a lighter yellow color.
+dress,val,dress_val_01562,B00BUVAI5K,B006PDVQQI,is peach with white collar,pink and more flowing
+dress,val,dress_val_01563,B0017LUFJM,B00530FEEY, longer,Has frilly sleeves and longer
+dress,val,dress_val_01564,B0033UVILO,B007C4CF7I,Has a bright floral pattern.,is less shiney
+dress,val,dress_val_01565,B00DP6RHIO,B008PG3FP8,is black and white striped and is sleeveless,is striped and has thin straps
+dress,val,dress_val_01566,B007678MDM,B009YKCYZ6,is solid black with no sleeves,is sleeveless and black
+dress,val,dress_val_01567,B007XD4IMS,B007WA29BY,Is light blue with halter straps.,is strapless and longer
+dress,val,dress_val_01568,B006WBA2JK,B008BYUH9Q,has plant prints on dres,is a printed dress and shorter in length
+dress,val,dress_val_01569,B004DTTRA8,B0048OYGF4,Is more intimate and cami,has no pink in it
+dress,val,dress_val_01570,B001NIYDSS,B00ANC7QIY,Is a black ruffle dress with lime green piping,strapless with green line
+dress,val,dress_val_01571,B008PG0SOO,B006WARFS2,more pink and strapless,is pink with no straps
+dress,val,dress_val_01572,B00AKB3VPA,B008E4O6TU,has longer sleeves and light blue,is purple with no sleeves
+dress,val,dress_val_01573,B007M8PCAQ,B0062GQFX2,Shorter and more exotic,is shorter and is a shinier material
+dress,val,dress_val_01574,B0088Y02XA,B00A2X398A,has a patterened bottom,has white and green and a patterned bottom
+dress,val,dress_val_01575,B005KOYZWU,B00BY045C4,is brighter and less revealing,The desired product is a completely different style than the provided product.
+dress,val,dress_val_01576,B0074W1CWC,B002B55PES,Is a short purple and black dress with a bow,Dark Color
+dress,val,dress_val_01577,B0066CUZ6A,B0078JAST4,Is more western,is more revealing and short
+dress,val,dress_val_01578,B007WAFYU2,B009SBBLNM,is sleeveless,is black and more revealing
+dress,val,dress_val_01579,B008P3DTZC,B0061IQ32E,is black and sexy,Is darker and less patterned.
+dress,val,dress_val_01580,B006ZO54SI,B008LE9FLM,is white and frilly,is white and has crochet
+dress,val,dress_val_01581,B008PC5DGG,B004I3UFKK,is red with a collar,is pink with a belt and V neck
+dress,val,dress_val_01582,B00CZC6JIS,B007J6W358,is a greenish dress with neck strap,is lighter colored
+dress,val,dress_val_01583,B004Q9T840,B00A2X6J78,is a long maxi dress,is more formal and less revealing
+dress,val,dress_val_01584,B005VZ8MWC,B005VZ8RFO,Black and sexier,a darker colored dress with no straps.
+dress,val,dress_val_01585,B0084Y6UQC,B0076OEBY4,has no straps,has more green
+dress,val,dress_val_01586,B008PRJ394,B006OR8A6E,more blue and white,is v necked nd darker
+dress,val,dress_val_01587,B00D83ENMC,B00FM7EAQQ, short,is long sleeved and black and more white
+dress,val,dress_val_01588,B007SYWE00,B004AZLVJK,has straps on both shoulders,is more flowing and darker
+dress,val,dress_val_01589,B00ED49C12,B008B6QCH0,has spaghetti straps with halter top,is longer and a haler
+dress,val,dress_val_01590,B009OCNXE0,B006CR20VW,is longer,is long and has a blue and white pattern
+dress,val,dress_val_01591,B003YYRKSE,B00BJ8J4NQ,is flowy and has thin straps,is longer and lighter colored
+dress,val,dress_val_01592,B0038KR31I,B009T74R2C,has more polka dots and is darker, shinier and pleather
+dress,val,dress_val_01593,B00AFV75CU,B00DSME58U,is sexier and less revealing,is darker colored black
+dress,val,dress_val_01594,B009IE33SU,B0091F39QC,Is black and has gold spots.,Is more patterned
+dress,val,dress_val_01595,B008HSGOKC,B0060C8RXE,is a more solid color and shorter,is much shorter
+dress,val,dress_val_01597,B0084DJO1Q,B007V0B9UC,is black with floral pattern on top,is muticolored and has no sleeves
+dress,val,dress_val_01598,B00E9QQU46,B0097IWC3Y,has thin straps,is more elegant and more frilly
+dress,val,dress_val_01599,B00BJ75S8C,B00C12KACS,more shirt-dress with longer sleeves,is lighter purple and pink
+dress,val,dress_val_01600,B00AJ1P6XQ,B00AEW4384,is darker,is gray and one short sleeve
+dress,val,dress_val_01601,B003VXVGRY,B005KILV0A,higher neck line more colored blocked,has longer sleeves and darker colors
+dress,val,dress_val_01602,B00BBXX6LU,B002VLJSQI,is a sleeveless white and blue dress,is strapless and blue
+dress,val,dress_val_01603,B008MNM7Y4,B00ECTI3SG,is longer and orange in color,is longer and has a higher split
+dress,val,dress_val_01604,B009K7C2CS,B0015SKXG2,Is more casual and has long-sleeves,is pink and casual
+dress,val,dress_val_01605,B00715FFX4,B007UNTT6G,is solid red and shorter,has shorter sleeves and more revealing
+dress,val,dress_val_01607,B00DZUQHSQ,B00DZURB9K,This dress is a lighter color and has a pattern,is longer and lighter in color
+dress,val,dress_val_01608,B0058BPMPO,B009HMQOP2,blue and short,is blue
+dress,val,dress_val_01609,B00G1ZZDL4,B004LGXB0K,Is more subdued,is white instead of pink.
+dress,val,dress_val_01610,B003BT62A4,B006WM4LYG,is not strapless and is more colorful,is more yellow and stripy
+dress,val,dress_val_01611,B00CGY6RJ6,B004XGY21K,is red and not flowy,is more form fitting
+dress,val,dress_val_01612,B00CI08M00,B00BUVJTSC,has an orange and purple floral print,is orange
+dress,val,dress_val_01613,B00GP5TL6I,B00FBRGJKM,has a v shaped neck with no sleeves,is sleeveless and less form fitting
+dress,val,dress_val_01614,B002TXI512,B00DRF4NGW,is darker and has longer sleeves,is more flowing and blue
+dress,val,dress_val_01615,B007ZOGQIO,B008A54HPG,pink and black 3/4 sleeved dress, one shouldered and is much longer
+dress,val,dress_val_01616,B004HSN6W0,B008E7IBDO,is v neck and black and white print,It is more monochromatic and less flowery
+dress,val,dress_val_01617,B008YF4VAS,B008HH26XM,Is shorter with a striped skirt.,the skirt has more white
+dress,val,dress_val_01618,B00G6TRZE8,B00CO7ZRNM,more revealing and shorter,is more shiny
+dress,val,dress_val_01619,B009NW4TW6,B00A3UT8GE,Is darker,is black with no patterns
+dress,val,dress_val_01620,B0055TBPNC,B00BWKXOS2,Is more colorful and complex,is 3/4 sleeves and bold printed
+dress,val,dress_val_01621,B0029YQQYE,B004KB5HQW,is darker with a tighter fitted skirt,fitted
+dress,val,dress_val_01622,B008QW7GOW,B005MGDYK0,Is lighter and more fitted,is a lighter color
+dress,val,dress_val_01623,B00CHH5C2K,B00B29NXUC,is red,is maroon and has a belt
+dress,val,dress_val_01624,B005I63HRY,B00E4SYADC,is shorter is chevron print,has a striped print and shorter skirt
+dress,val,dress_val_01625,B00AD11FFU,B004W88GB6,is shorter and has a pattern,has a completely floral print and is a mini
+dress,val,dress_val_01626,B003TLO3R8,B008BOX1DA,is an off shoulder floral dress,has a blue coloring to the floral aspect and one strap.
+dress,val,dress_val_01627,B003VTQA1K,B00BOPQZ86,is purple and silver and has a bow on the belt,light color
+dress,val,dress_val_01628,B006Q6E4FO,B00B4KJV4G,has a different pattern and a different neckline,is a little longer and more filled.
+dress,val,dress_val_01629,B0063TUIB8,B00ATEZA6Q,printed beige and black dress with white belt,has black design in the print.
+dress,val,dress_val_01630,B00CTT41D2,B00E8157H8,is a short skirt with brown,is lighter and fluffier
+dress,val,dress_val_01632,B00F20KR4M,B00FH7C5RC,has a plain black top and  complete sleeves,is a solid color top and floral bottom half
+dress,val,dress_val_01633,B00FABRB4M,B006JVH5UC,is strapless and black,is black and short
+dress,val,dress_val_01634,B00508YRGU,B004PKZWNG,lighter color and print,has buttons
+dress,val,dress_val_01635,B00E5YA82M,B00740T5PK,is looser and more elegant,has slightly thinner straps
+dress,val,dress_val_01637,B006TALF54,B006UAPPP4,is darker color and sleeveless,Is more colorful and has shorter sleeves
+dress,val,dress_val_01638,B00DG7SOTS,B00DAUCYC4,is a lighter color and is sleeveless,is shorter
+dress,val,dress_val_01639,B00CFYDMM2,B00CZ6XXF6,is pink in color,has shorter sleeves and is pink
+dress,val,dress_val_01640,B004P67ZYE,B005IFCASW,is more white,is white and dull
+dress,val,dress_val_01642,B008OW8EXQ,B0055OGJLU,This dress has straps on the front.,has a sheer outer layer
+dress,val,dress_val_01643,B0083QFSRS,B0083QEJL4,has a solid color,is black with short sleeves
+dress,val,dress_val_01644,B0067M3VO2,B00767PZZ0,Is shorter with ruffles.,the dress is tan and has sleeves
+dress,val,dress_val_01645,B00A13GLG8,B005E79D16,is purple,is purple and more form fitting
+dress,val,dress_val_01647,B00BLLQCIQ,B00CW94CSS,is flirter and has no sleeves,is slightly shorter with smaller straps
+dress,val,dress_val_01648,B005GLSA0A,B008E7IA12,is similar with short sleeves,has sleeves
+dress,val,dress_val_01649,B0097BCW4U,B008B8461W,Is solid white,Sleeveless white dress
+dress,val,dress_val_01650,B008EPZKJE,B007UA3ZYQ,Is a shorter length with thicker straps,is pink
+dress,val,dress_val_01651,B004MMF00W,B002JZIO02,Is darker and sleeveless.,is black and more revealing
+dress,val,dress_val_01652,B00297BG7I,B00A0AAD20, darker,has fuller skirt and strapless
+dress,val,dress_val_01653,B0082825YQ,B007CU5A7E, that flows more at the bottom,is darker and wider
+dress,val,dress_val_01654,B007Y0UKN6,B008EQ6AM4,is looser and brighter in color,is lighter purple and is longer
+dress,val,dress_val_01655,B00CC6WGQ6,B005ES247K,Is solid black, has dolmen sleeves and is off shouldered
+dress,val,dress_val_01656,B007H3JLBM,B007W3ZR2E,3/4 sleeved velvet blue green dress,has sleeves and is a much shorter style
+dress,val,dress_val_01657,B007ZOGQIO,B0071MJI0S,is striped and has shorter sleeves,Is lighter color and shorter with V-neck.
+dress,val,dress_val_01658,B008BHSSMG,B009W328K6,is black and white in color,is more revealing
+dress,val,dress_val_01659,B0075AV660,B00ED0XSF2,Has a paisley print and long sleeves.,is longer and has longer sleeves
+dress,val,dress_val_01660,B007FPDWDU,B007RM21BU,is a short bright colored floral dress,is shorter and more vibrant colored
+dress,val,dress_val_01661,B009HK2P2A,B002TUT4UG,has colorful prints,N/A other product isnt fashion produce
+dress,val,dress_val_01662,B00DVPOZNY,B00BR20TRY,has no sleeves and is whiter,has no sleeves and is white
+dress,val,dress_val_01663,B002HCNMTU,B002G5TF3A, and less revealing,is much lighter
+dress,val,dress_val_01664,B008FY9HPW,B008OW8EXQ,has polka dots,is tan and longer
+dress,val,dress_val_01665,B008ODSF7U,B005LJDKHA,Has a flared skirt and low cut top.,is black with short sleeves
+dress,val,dress_val_01666,B00763VJ6S,B0051BZ6HK,is more pink and concealing,Has sleeves and is pink rather than blue.
+dress,val,dress_val_01667,B006QSEC4K,B007P0Q796,Is a bright colored shirt dress.,is more orange and red
+dress,val,dress_val_01668,B000PUGW8O,B00EKDGVL0,is more elegant,is black and white and less shiny
+dress,val,dress_val_01669,B009M56HNS,B002VECPU6,has a deeper neckline with more stripes,has longer sleeves and more revealing
+dress,val,dress_val_01671,B0075BQQ82,B009MB17B4,has shorter sleeves,is sleeveless and more pink
+dress,val,dress_val_01672,B002RHPBO4,B0082825YQ,is dark pink,is hot pink
+dress,val,dress_val_01673,B00D61ZCGW,B008W46FMS,is a shorter solid black and buttons up,Light & Dark color
+dress,val,dress_val_01674,B00BM8Q3NW,B00A4A8PRQ,is more formal and is one color,is darker in color
+dress,val,dress_val_01675,B009X6E9E0,B0051E7IYQ,is longer and tighter,red and longer
+dress,val,dress_val_01676,B008VQWBRK,B00H2FUGOQ,Has simple pattern and looks formal,has a bow and shorter sleeves
+dress,val,dress_val_01677,B00C6PP86S,B008VIRN62,is about the same design but with a u neck,is light in color and less revealing
+dress,val,dress_val_01678,B007314UDM,B007WPHLTE,is shiny and metallic,The dress is more revealing and short
+dress,val,dress_val_01679,B005MN4RLS,B00F4MY4OW,is gray with a lace top and sleeves,is silver with lace
+dress,val,dress_val_01680,B00C7Z4VGU,B00BISLTIK,is white and has fabric around the neck,is lighter in color
+dress,val,dress_val_01681,B00FFDZT8K,B0018PWU7C,this black long dress looks more slim fit,longer
+dress,val,dress_val_01682,B00CJGAPIU,B00AHOYUPA,has an asymetrical hem and is pink,is more pink
+dress,val,dress_val_01683,B0093K54X6,B007BV3XGE,is a orange halter,has no sleeves and is flowing
+dress,val,dress_val_01684,B006WM4LYG,B006W8T1UO,is longer and shinier,is longer
+dress,val,dress_val_01685,B00EEAOUCQ,B00CRH9V0Y,More colorful and cute,Less white and more pleated
+dress,val,dress_val_01686,B00AXX83YE,B00CL0USIG,has no pleats and has buttons., black and see through
+dress,val,dress_val_01687,B006WWY8YE,B00D67853S,Is less colorful and more formal,is black and white and more flowing
+dress,val,dress_val_01688,B007ZDYK2E,B00BFPGDHI, shorter skirt,na
+dress,val,dress_val_01689,B00BL9DCM2,B006MPVW4U,is dark blue colored and more tighter,tighter skirt and thicker straps
+dress,val,dress_val_01690,B0080E6RN2,B00EU8NZ8W,has a pink flowing bottom,has a patterned
+dress,val,dress_val_01692,B005VU87VI,B008X711D2,is solid black without strips,is solid black and less fitted
+dress,val,dress_val_01693,B00EYDNSHG,B008ZE09GI,is solid pink with black belt,is pink and has short skeevs
+dress,val,dress_val_01694,B00BTMWMYU,B00DD7B30S,has a longer hemline,is an off shoulder cut and is longer
+dress,val,dress_val_01695,B00E3HDPMQ,B00E3HGLU4,The product has sleeves,is purple with long lace sleeves and v-neck
+dress,val,dress_val_01696,B004OP7MI0,B00H1Z5KKC,has long sleeve and shiny pink color,is pink and longer sleeves
+dress,val,dress_val_01697,B006PA7Q4M,B00BWKXQI0,is printed and sleeveless,is sleeveless
+dress,val,dress_val_01698,B007SOULGY,B0007WIZYE,is a lighter color and has more sleeves,is more brightly colored
+dress,val,dress_val_01699,B004NAU396,B00B3P7MVG,has no sleeves and has black and white designs,has a lacy pattern and no sleeves
+dress,val,dress_val_01700,B00BEM2JB6,B00B903O7G,more revealing with an open neck with no sleeves,has no sleeves and two striped patterns
+dress,val,dress_val_01701,B008BM17HY,B00BL9EE4C,Is more formal and more revealing,is strapless and pink
+dress,val,dress_val_01702,B002AQSPL8,B007HI6KPM,is a black dress with short sleeves,is shorter and tighter
+dress,val,dress_val_01703,B00DDX15TG,B00EKQSAES,is a flowery dress with spagetti straps and more colourful, white and black
+dress,val,dress_val_01704,B00FXAC5SM,B00AODC7BS, with lace interwoven,is less form fitting and one color
+dress,val,dress_val_01705,B00ANR3NSQ,B008BA7MPW,Is darker and more patterned,is more brown and less revealing
+dress,val,dress_val_01706,B0058BPLPK,B0058BPMPO,3/4 sleeve gold and black dress,has shorter sleeves and is tighter.
+dress,val,dress_val_01707,B0058BPMPO,B0091S4XXC,red and shorter sleeves,Has shorter sleeves with portrait neckline.
+dress,val,dress_val_01708,B0051UT6AY,B001G8HWQA,is less casual with wider bottom,has lots of red and no flowers
+dress,val,dress_val_01709,B0071GD9D6,B00378LCPE,is lighter and has a different pattern,the dress is white and less revealing
+dress,val,dress_val_01710,B007OZSTY8,B005JD4SRO,is a black and white stripped one piece,Has longer sleeves
+dress,val,dress_val_01711,B00FTA0HUE,B00CY0CF0M,is more see through, has flowers and thin straps
+dress,val,dress_val_01712,B008S0HK3Y,B00BTJXG66,Is a green a line.,has more green
+dress,val,dress_val_01713,B004O6LVY0,B002YX0KZ6,The dress in black in color.,is strapless and black
+dress,val,dress_val_01714,B00AZE6UV4,B0095T312Q,has no straps,is more revealing and has a curvy design
+dress,val,dress_val_01715,B00DEP9CUW,B00FABRB4M,is red,is shorter and more red
+dress,val,dress_val_01716,B00BXX6PM0,B00C97JLZ2,little black dress,is black and has sleeves
+dress,val,dress_val_01717,B003DIWQNA,B004VJ217Q,is wide strapped black dress with white leaf pattern,has less color
+dress,val,dress_val_01718,B007WSD2CQ,B00CM3595Y,is more tighter,Is more fitted and black
+dress,val,dress_val_01719,B00CWSNY24,B00B9U19BY,is long sleeves,is black with long sleeves
+dress,val,dress_val_01720,B0080646GU,B00AYLAFOG,is less geometric and more muted,Is blue
+dress,val,dress_val_01721,B00BUIF4YS,B00428MW7A,is lighter and has more contrast,is more of a white color
+dress,val,dress_val_01722,B005JDB3UO,B0095JQQZK,is looser and a darker color,is solid black and fitted waistline
+dress,val,dress_val_01723,B005EYTFS0,B00AFDIN42,is a pastel color with tank top,the dress has straps and is pink
+dress,val,dress_val_01724,B009QW3VSQ,B00CTIEB2O,is a peplum shorter dress,has no sleeves and more revealing
+dress,val,dress_val_01725,B0072QWT2M,B00AOWQJZ4,is black colored and strapless, and lighter colored
+dress,val,dress_val_01726,B008KPIBWQ,B0072NLS9U,is tight and has thin straps,is much darker in color
+dress,val,dress_val_01727,B00BL9DCM2,B008LRERE4,is purple and has half sleeves,has sleeves
+dress,val,dress_val_01728,B00ED49C12,B009ZGNP5W,Has a black top and a floral skirt.,short sleeves and pattern
+dress,val,dress_val_01729,B005VZ8RFO,B003JH7Y46,is lighter,is printed and longer
+dress,val,dress_val_01730,B005KMQQFQ,B003KQ9LWE,is white and black colored and shorter length,sexy
+dress,val,dress_val_01731,B0061RGQEU,B007NKVTOQ,Is more white and flowing,it white and looser
+dress,val,dress_val_01732,B007JLP1DE,B00BEU0S8E,is black with capped sleeves,is solid black
+dress,val,dress_val_01733,B00ANOMIQ2,B009TM8ML4,is a different color and more concealing,is more orange with vertical stripes
+dress,val,dress_val_01734,B00B5859Z2,B00C2MGB6G,Is a denim shirt dress.,is short sleeved and buttons up
+dress,val,dress_val_01736,B005GQPE4K,B004YHIH28,longer sleeved and shorter,is shorter and more evening.
+dress,val,dress_val_01739,B00C12LOZU,B00EW6JZ4A,has see through lace,The desired product is more fancy than the provided product
+dress,val,dress_val_01740,B00A17JXDC,B0063ASXFA,is off the shoulder,hangs off the shoulders and is more gray
+dress,val,dress_val_01741,B00BPYWKO4,B00C1RQBBM,Is darker in color.,is black and has buttons.
+dress,val,dress_val_01742,B00CXAP5HS,B00CLZMWUI,has straps,is solid white and has straps
+dress,val,dress_val_01744,B007HCAEKU,B007IWOH1Q,is lighter and shorter,is shorter
+dress,val,dress_val_01745,B0055TBPNC,B005DWYMPO,is darker colored and has a looser fit,has longer sleeves and is darker in colour
+dress,val,dress_val_01746,B00DEPBDBI,B006N02HTS,is made of brown leather and is shoes,is a pair of boots
+dress,val,dress_val_01747,B0071MSFCU,B00AFDIUWM,is brighter,is pink and thinner strapped
+dress,val,dress_val_01748,B00FXAC5SM,B00AJ1P6XQ,is black and white,is not as tight
+dress,val,dress_val_01749,B00EPC65FS,B0051UT6AY,short grey dress with floral prints,the dress is more revealing and has a flower pattern
+dress,val,dress_val_01750,B005VCC2MQ,B00EPA3DFA,has no straps and is a romper,has no sleeves
+dress,val,dress_val_01751,B00D9SL7JI,B00CTT41D2,is striped and has brighter colors,is colorful with shorter sleeves
+dress,val,dress_val_01752,B0026IAOWI,B006UAJT60,is strapless,is belted and strapless
+dress,val,dress_val_01753,B00FFDZT8K,B0079F8A8I,more sleeves with flared skirt and white belt,is black with sleeves
+dress,val,dress_val_01754,B008BHSFOW,B005JR0XW4,is brighter and one shoulder uncovered,is blue and more vintage
+dress,val,dress_val_01755,B0016CHUWW,B00762YDYO,is a black shirt with a pink and white logo,The desired product is only black and have an animation design.
+dress,val,dress_val_01756,B006J7DBTK,B00B79JOJG,has a cutout in the mid section,is longer and blue
+dress,val,dress_val_01757,B007EGKM5G,B00AEDCDZ8,a long sleeve blue miracle dress,has a lot more blues.
+dress,val,dress_val_01758,B004PZHXZG,B007PENSBC,patterned multi color dress,has pink and blues decorating the dress.
+dress,val,dress_val_01759,B00BISLTIK,B00AKGFCY8, sleeveless and a darker color,has a geometric print with longer sleeves
+dress,val,dress_val_01760,B005NXMDTU,B008GQ3H50,is black with long sleeves,is darker with long sleeves
+dress,val,dress_val_01761,B005JDB3UO,B00CSNDFDG,is black and gold with designs,is a lighter pattern with a similar neckline.
+dress,val,dress_val_01762,B008H78T6K,B0087AYQ7I,is shorter and brighter,has more red and patterns
+dress,val,dress_val_01763,B003ILRVZU,B00ATFWZ04,is blue and shiny,is also a tight fitting dress
+dress,val,dress_val_01764,B00ALGUAOO,B005MUYI2Y,burgundy floral above knee tank dress with thicker straps,Has a scoop neck and darker colors
+dress,val,dress_val_01765,B004RKVGDY,B00BL9CN0E,is more colorful and has shorter sleeves,floral pattern and crimped in middle
+dress,val,dress_val_01766,B007TUECJ4,B007XCGZNY,is a darker color,is more darker
+dress,val,dress_val_01767,B008PG0SOO,B007ZYW246, with medical symbols on the skirt and stockings,is less solid color
+dress,val,dress_val_01768,B00DDQX05A,B00BTHR98E,is much more of a dress,is a printed dress and not pants
+dress,val,dress_val_01769,B007C3MKYC,B00DJVPZYS,Has a solid blue top and flowered skirt,is longer
+dress,val,dress_val_01770,B009KM5FUE,B007ZFHT1Q,Is more blue and structured,has a belt and is more blue in colour
+dress,val,dress_val_01771,B0087YZVNC,B0091GR3HC,is solid blue,is blue and little longer
+dress,val,dress_val_01772,B0098BW31Q,B007CL8W1O,has sheer shoulder straps,is black and has lace
+dress,val,dress_val_01773,B008VJ0Q2Y,B00D6Y5VWY,is brighter color with less sleeves, grey and onger
+dress,val,dress_val_01774,B007KHTV24,B00BOEMLWQ,is shorter and has squares,Is shorter and more chic
+dress,val,dress_val_01775,B00A7Z5MKQ,B00B4Z2I28,has longer sleeves, black and white blocks
+dress,val,dress_val_01776,B0071KR3QG,B002DIBXH6,is a solid pink shade,is solid pink and haltered
+dress,val,dress_val_01777,B005KILV0A,B00CFMMG8K,longer in length and exposing more cleavage,bohemian colorful strapless dress.
+dress,val,dress_val_01778,B009NXZXDO,B00CKV707I,is more modest and a solid color,is made of denim
+dress,val,dress_val_01779,B006J42TFU,B005F32V6I,Is a short sleeveless dress with a black skirt,is black and white and shorter
+dress,val,dress_val_01780,B00BSMLF1M,B004EHON6W,has a u neck design,Is black and not shiny.
+dress,val,dress_val_01781,B005WQCHPI,B005WNQOQ4,is sleeveless,is shorter and black and white
+dress,val,dress_val_01782,B009NQUQBA,B00FN7SME6,black with a pattern throughout and is more casual,It is less corporate and has more yellow
+dress,val,dress_val_01783,B000BL6VJM,B00D5UJAOY,is shorter and more revealing,the dress is purple and shorter
+dress,val,dress_val_01784,B007PENSBC,B004YKU3F4,is more revealing with a v shaped cleavage,is warmer in color
+dress,val,dress_val_01785,B005DN88YY,B007EY9NEE,is eggshell white,is 3/4 sleeves and off white
+dress,val,dress_val_01786,B008YF4VAS,B008S1W49I,is more revealing,It is more red and tight
+dress,val,dress_val_01787,B007C3MKYC,B00A52LQXI,is less shiny and light in color, belted
+dress,val,dress_val_01788,B002HCNMTU,B0076IKR66,is a short larger dress,is knee length and silver with a jacket
+dress,val,dress_val_01789,B009P5A9FW,B00B0ANWFO,is a blue print dress,has a lighter color
+dress,val,dress_val_01791,B0043W9Z1Q,B00DR0LRRK,has no sleeves and has chevrons,has more black in it
+dress,val,dress_val_01792,B00B2JJ15S,B008E65YXU,is longer with no sleeves,is longer and has frills
+dress,val,dress_val_01793,B008XKC00W,B00ATFWVKI,Is more charcoal and fun,Is darker in color
+dress,val,dress_val_01794,B0084YK2UW,B00BQVAVRY,a long black flowy dress,is solid black and sleeveless
+dress,val,dress_val_01795,B0076R807A,B004U8YYZU,is a lighter blue and longer,has brown striping and a longer hem
+dress,val,dress_val_01796,B00A0I87AM,B00B8V4P9C,is black colored and longer in length, fitted purple
+dress,val,dress_val_01797,B00DM03I72,B008YQVT6Q,has no straps and is much shorter,is shorter and more frilly
+dress,val,dress_val_01798,B005RYO18G,B0052KMSYY,sexier and slim fit,has horizontal striping
+dress,val,dress_val_01799,B008986NRY,B00BMTI2S0,is shorter and less sexy,is shorter and striped
+dress,val,dress_val_01800,B006W8T474,B002AQSPL8,is lighter and shorter,has a floral pattern
+dress,val,dress_val_01801,B00BQVAVRY,B007U3Q6U8,is lighter and has longer sleeves,is more sexy with lighter colored pattern
+dress,val,dress_val_01802,B00AYWXQ9Q,B004TOUSQY,Is long with a lace pattern.,na
+dress,val,dress_val_01803,B007314UDM,B0072QWT2M,Has a empire waist and lighter fabric,is more colorful
+dress,val,dress_val_01804,B00AOJVGYQ,B00967OFKE,is more revealing,is black with straps
+dress,val,dress_val_01805,B00APFQNP6,B007ZWR7RK,floor length and datk,is black and longer
+dress,val,dress_val_01806,B007HWN10K,B00CFIKMZ8,is black and more patterned,is more sexual
+dress,val,dress_val_01807,B00AHOY8H0,B006VRT354,A coral and black asymmetrical sleeveless dress,The dress is longer and is multi colored
+dress,val,dress_val_01808,B00BHPLQSC,B0073Y4HDW,is shorter and less formal,is longer and less revealing
+dress,val,dress_val_01809,B0084YK2UW,B006WAQ3TE, simple,is shorter
+dress,val,dress_val_01810,B00EPFMQWQ,B00B8RAZE0,has no sleeves and is blue,has shorter sleeves
+dress,val,dress_val_01811,B005FW6A4S,B0025T0WUW,has no sleeves and is lighter,is pinker and more flowing
+dress,val,dress_val_01812,B007904PDM,B007RKKZPG,The product has spaghetti straps,is less flowy
+dress,val,dress_val_01813,B00A3PEX7S,B002FOCY5I,is grey with thinner straps,is darker green with pink flowers
+dress,val,dress_val_01815,B00ALSQQKY,B006GZN7TO,has a half sleeve. It contains less lace,is striped in black and a little white.
+dress,val,dress_val_01817,B009IFOBF8,B008R8BFFG,is tighter,is a darker color
+dress,val,dress_val_01818,B001DXL1WY,B00AMDI86S,is shorter has a closed chest,is more brightly colored
+dress,val,dress_val_01819,B0070IN282,B004OP7MI0,is pink,Is pink and longer
+dress,val,dress_val_01820,B00DQHXEO8,B0083Z1PAI,Is more plain and has more coverage,is darker and longer sleeves
+dress,val,dress_val_01821,B00AYR2L4M,B006JXMU0U,is a red party dress,is red with no sleeves or straps
+dress,val,dress_val_01822,B007NCIGQ8,B008RMIF5A,Has a solid bottom and patterned top.,long sleeved
+dress,val,dress_val_01823,B004RDQ97O,B004YVOPX4,has no sleeves and is looser, floaty and transparent
+dress,val,dress_val_01824,B007GMNK7U,B00749VA8Q,is longer and darker,no sleeves and
+dress,val,dress_val_01825,B0054N0S6E,B0077KMLT4,Is more comfortable and less bright,has key hole sleeves and a lighter print
+dress,val,dress_val_01826,B002SNAIWC,B0036MEL0O,in orange and more sleeve,has longer sleeves and is tighter
+dress,val,dress_val_01827,B007L3WP5W,B007L3W3FE,has a black belt and printed,is pattered and has a belt
+dress,val,dress_val_01829,B00A8CDCD2,B006VNCKJE,white and less revealing between the legs,the dress is white and black and more revealing
+dress,val,dress_val_01830,B000AY2892,B008BBCXB4,is more casual and bubbly,is looser fitted and more colorful
+dress,val,dress_val_01832,B008N05A40,B003AKZMXM,is pink and less frilly.,is one solid color and is sleeveless
+dress,val,dress_val_01833,B00ATEZA6Q,B0091EGPXW, brighter color., shorter and printed
+dress,val,dress_val_01834,B00BPRK674,B0074578MW,is a blue long dress,is a blue striped maxi dress
+dress,val,dress_val_01835,B009NXZXDO,B00B7QRPHC,Has a white sleeveless top and black skirt.,More monochromatic and two piece
+dress,val,dress_val_01836,B00DG7SOTS,B005ZWBSMM,has less sleeves and is longer,longer and black
+dress,val,dress_val_01838,B00E00GL86,B00CB73QNI,is longer and darker,darker and longer
+dress,val,dress_val_01839,B00CN46SMU,B00387EZGM,is strapless,has the colors red
+dress,val,dress_val_01840,B0094QXCKQ,B003WE9TNA,is longer and has no sleeves,has shorter sleeves
+dress,val,dress_val_01841,B005QYY8F8,B0043RSVPM,is a longer dress,is longer and  has a pattern
+dress,val,dress_val_01842,B00B7Q9ZDO,B00DERHT5A,is black with no straps,is black and strapless
+dress,val,dress_val_01844,B00CY0CF0M,B00EAYWKNC,is a strapless maroon dress,is red and has a belt
+dress,val,dress_val_01845,B00997L4QE,B00EUGDI5O,is a white dress and is shorter,is lighter in color
+dress,val,dress_val_01846,B008AM8NEA,B00EQSG6M8,is darker and more revealing,is grey with red and black lines
+dress,val,dress_val_01847,B008BM1A0I,B00DII4VBU,is a long black strapless dress,is black and longer
+dress,val,dress_val_01848,B004TM36ME,B0058FOPLC,zebra print dress with spaghetti strap,is lighter in color
+dress,val,dress_val_01849,B00ARAY3OC,B00C3LJ93S,a dark pink,is pink with white dots
+dress,val,dress_val_01850,B004HD4V1K,B00405RUWC,is more black,black and sheer at top
+dress,val,dress_val_01851,B00ELLYWL2,B007VL6D9S,is a short dress,shorter skirt with floral pattern
+dress,val,dress_val_01852,B00A7HGI8Y,B00D8YT7LS, and halter straps,longer with orange
+dress,val,dress_val_01853,B00746EJBY,B006PDUYHU,two-toned and more relaxed fit,is white with black bottom
+dress,val,dress_val_01854,B008G0E9UI,B009414WQO,solid dark blue dress,is a solid dark blue
+dress,val,dress_val_01855,B008VPX9BS,B007ZPXMXA,is longer and sleeveless,longer and cuter
+dress,val,dress_val_01856,B007XD6SPI,B008VIR88U,is purple colored and thicker straps,is hot pink with a bow around the waist
+dress,val,dress_val_01857,B00CQLOKM0,B00DWGK5FO,has small straps,More plain and more revealing
+dress,val,dress_val_01858,B008MA8UJI,B008GS77UO,is magenta and has a frill,has longer sleeves and brighter colored
+dress,val,dress_val_01860,B00AEDCDZ8,B00CBBZOW0, black and more plain,is more neutral coloring and short sleeves
+dress,val,dress_val_01861,B008P5453U,B008AEEHA2,is white and less modest,is whiter
+dress,val,dress_val_01862,B00ASPCIF2,B0040JGTJS,the black color looks more attractive and more bold,is less revealing
+dress,val,dress_val_01863,B001PLDUT6,B0043M5PCY,is more patterned and has fewer sleeves,is colorful and more revealing
+dress,val,dress_val_01864,B006W5VWJU,B007G4ZTTK, tighter and less revealing,white and plain
+dress,val,dress_val_01865,B008R8BGT6,B008SLY504,is a blue belted dress and longer,is denim fabric with buttons
+dress,val,dress_val_01866,B004QF0KN2,B004QVWTHQ,has more open neck and lacy,is yellow and has a smoother neckline
+dress,val,dress_val_01867,B008AEDVTU,B00CII3SOM,is a solid black,is more black and shorter
+dress,val,dress_val_01868,B00CTT51MC,B00CYSO06G, and halter straps,is longer and has a darker print
+dress,val,dress_val_01869,B00AEMHDIG,B008FD9MG2,is darker and has a u shaped neck,Is black and has no sleeves
+dress,val,dress_val_01870,B005KILV0A,B0055KXHNM,is solid black with thin straps,has spagetti straps and is more plain
+dress,val,dress_val_01871,B00F4M41J0,B00CJQI0I2,has longer sleeves and more lace,had lace arms
+dress,val,dress_val_01872,B004HX2DYW,B004HX0CP4,is identical,same product
+dress,val,dress_val_01873,B009COQRZW,B00E6RBFFC,is a straight black dress,is more fitted with peep shoulders
+dress,val,dress_val_01874,B008K3SX7G,B0055TBPNC,is shinier and has more sleeves,is much lighter in color
+dress,val,dress_val_01875,B0097IXSGO,B00CEO4ETI,is solid white with a v-neck,is plain white colored
+dress,val,dress_val_01876,B00BBXX6LU,B009157FFI,is darker, has a collar and sleeves
+dress,val,dress_val_01877,B00CH50182,B00EAK3D8C,turtle neck 3/4 sleeve body con dress,is tan with longer sleeves
+dress,val,dress_val_01878,B00F150ZXQ,B008CPNZ5W,short grey short with ruffles,is more skimpy and has straps
+dress,val,dress_val_01881,B005917FDA,B003K170GI,is less sexy,is less revealing and more floral
+dress,val,dress_val_01882,B009C6OMMK,B009C6OLCQ,light pink dress looks more fashionable and party wear,does not show the neck
+dress,val,dress_val_01883,B005VTJH4K,B0058XPHQG,Is more sexy,is black with three quarter length sleeves
+dress,val,dress_val_01884,B008YIG3DI,B0088A1FWG,Is more western,is a bit longer and more summery
+dress,val,dress_val_01885,B00DBDCQ7I,B00DSSIGXO,has different sleeves and is black and white,has wider stripes and no straps
+dress,val,dress_val_01887,B006WY8INO,B00AOBCAXA,its floral print no sleeves,covers the chest and flowy
+dress,val,dress_val_01888,B008W46FMS,B00AO9RH30,has longer sleeves and floral print,is black with long sleeves
+dress,val,dress_val_01889,B0099DCINQ,B007WATTEE,this cream dress looks more bold,Is more fitted and plain
+dress,val,dress_val_01890,B007ZDYK2E,B007RBZ3GQ,less mature and too simple,has longer sleeves and a belted waist
+dress,val,dress_val_01891,B006ZR3WK2,B006W20H0I,is white with a low neck,has a fuller skirt
+dress,val,dress_val_01892,B008HRLQ60,B00AEJR8E8,has more coverage and is more fun,is red and has a graphic design
+dress,val,dress_val_01893,B00GP5TL6I,B00EKVHEWM,has black and white stripes,is striped and longer
+dress,val,dress_val_01895,B00CLZMWUI,B00A7FRP10,Has a vintage pattern and an asymmetrical hemline.,is blue and long
+dress,val,dress_val_01896,B0046XRKNM,B006MQRRAW,is silver and shiny,Light & Dark color
+dress,val,dress_val_01897,B0097IWC3Y,B00C9796UC,is whiter and has a smoother bodice,is more fitted and bright.
+dress,val,dress_val_01898,B0070SSWKK,B007REBDNK,white and silver and asymmetrical,is less colorful and has one strap
+dress,val,dress_val_01899,B00CFUEHAW,B009W66L92,Is a brighter color and has no sleeves.,has a red and black pattern
+dress,val,dress_val_01902,B0084Y2V6A,B00BSMLF1M,Is a short black a line dress.,has less color and is shorter
+dress,val,dress_val_01903,B008OZV6II,B006BFNE3I,has a more modest bodice and more lace,is black with thicker sleeves
+dress,val,dress_val_01904,B00DB20MFM,B0073Y4KA2,Sleeveless and black and white,has straps and is more shiny
+dress,val,dress_val_01905,B006C4GIS6,B0076ZZ0DE,is strapless and teal colored,is lighter and more intimate
+dress,val,dress_val_01906,B009CC9GUC,B0081TB10A,is gray scale and a style,is darker in color and a little more dressy
+dress,val,dress_val_01907,B007WPHQJ4,B006UCQYMA,is more colorful and less classy,Shorter and more colorful
+dress,val,dress_val_01908,B008UH8MY6,B004KKXNOQ,is shorter with more ruffles,has a shorter skirt and is more orange
+dress,val,dress_val_01909,B008KPIBWQ,B008Z1TX2M,has long sleeves,is black and long-sleeve
+dress,val,dress_val_01910,B007IGI8D0,B004T7XD4U,has straps and is brown,is in brown only.
+dress,val,dress_val_01911,B005OOUCLE,B007U6KS0Y,high low printed dress with thin straps,has red floral print
+dress,val,dress_val_01912,B001TA2J9K,B000YLE1XM,green and shorter,Is more metallic and shorter
+dress,val,dress_val_01913,B001DXL1WY,B008006CXG,has a more modest neck and different pattern,is shorterm lighter and has a higher neckline
+dress,val,dress_val_01914,B007WA3E8Q,B00925CYOY,is white,is white and more revealing
+dress,val,dress_val_01915,B008YF4VAS,B00AFV75CU,is solid red,is red and has off shoulder
+dress,val,dress_val_01916,B0061RGQEU,B007OX0MXG,is lighter solid red,is brighter red
+dress,val,dress_val_01917,B004CHGS2G,B00CMVCTZ4,is a scarf,a scarf and not a long dress
+dress,val,dress_val_01918,B0090JSF7W,B00A0IE1X4,has polka dots and a belt,has a polka dot print and is belted at the waist
+dress,val,dress_val_01919,B007RM21BU,B0099N7EA8,Is a short green tee shirt dress.,a light green mini dress with a belt
+dress,val,dress_val_01920,B0043D2HME,B00CAAADZU,has longer hemline and exposed back,backless
+dress,val,dress_val_01921,B007F7PAOC,B007F7OJ8K,is long and floral,Is longer and more floral.
+dress,val,dress_val_01922,B008D5A9W8,B00B22FA14,has shorter sleeves and is all black,is black and has shorter sleeves
+dress,val,dress_val_01925,B007SX36PI,B002YX04ZW,is black with longer sleeves,is black and shorter with longer sleeves
+dress,val,dress_val_01926,B00AT9JFQC,B00AWM5REK,has longer sleeves,has less puffy bottom
+dress,val,dress_val_01927,B0068Z9QUQ,B009TYL08E,is more solid and sexier,The Desired product is less loud than the provided product
+dress,val,dress_val_01930,B00DB20MFM,B00AWAZPS0,is cream in color,is cream
+dress,val,dress_val_01931,B0017RAI9S,B004NG9V2U,is longer and darker in color,is longer and darker colored
+dress,val,dress_val_01932,B00CM7JH80,B001M072KS,has a sweetheart neckline and defined bust,is black and more revealing
+dress,val,dress_val_01933,B006GHAY4S,B008S4C8JG,is dark blue with one long sleeve,is in solid blue with one long draping sleeve.
+dress,val,dress_val_01934,B001TA2J9K,B0009T8KS6,Red color looks more feminime,is red orange
+dress,val,dress_val_01935,B00EDSJG2I,B004O3CSF4,has thinner straps and dark blue,is dark blue with spaghetti shoulder straps
+dress,val,dress_val_01936,B00DUL8IWS,B00B8PYBII,is longer with a collar,Has a white collar and is slightly longer
+dress,val,dress_val_01937,B004BDP1BA,B00AO1VEBO,Maggy London Dress,just words
+dress,val,dress_val_01938,B009AO2IP2,B00BKV2MH2,has a pattern and is sleeveless, has spaghetti straps and is ombre colored
+dress,val,dress_val_01939,B008MGCDCM,B004PYESUA,has no sleeves and is solid,doesn't have a black skirt and some draping fabric is included.
+dress,val,dress_val_01940,B00C2G1HCA,B00CH5GHJE,is of the same design with black,thicker lines with pink and yellow
+dress,val,dress_val_01941,B00A16VH28,B007423G7Q,is a solid pale pink color,is a different color and sleeveless
+dress,val,dress_val_01942,B006ZO5GC2,B00CIE7XWO,is longer,is long and grey with no patterns on it
+dress,val,dress_val_01943,B0058FOPLC,B00766RTT6,ruffled light blue and white dress,has more blues and is more full and longer.
+dress,val,dress_val_01944,B007IGI7UO,B007IGI8D0,less sexy,has short sleeves and even hemline
+dress,val,dress_val_01945,B00CL0VWTA,B008SF8A56,Is more vintage and more patterned, flowing
+dress,val,dress_val_01946,B00BM82UCK,B0097B5ABC,is thigh high and blue,Is blue and denim
+dress,val,dress_val_01947,B00CZ6G09C,B008ICQU24,has longer sleeves and is brown,is darker with longer sleeves
+dress,val,dress_val_01948,B005WQCHPI,B008IGT1TY,is shorter and sexier,is a short off shoulder multicolor dress
+dress,val,dress_val_01949,B007L3W3FE,B0082BI7WC,Is more revealing and sexier,Purple and white leopard print short-sleeved neck
+dress,val,dress_val_01950,B006TALF54,B004CR6DEY,is black with no sleeves, gold
+dress,val,dress_val_01951,B0080ICEQC,B0050SAMUK,has a lighter color and is longer,is strapless and yellow riffles
+dress,val,dress_val_01952,B00CIZZ6EK,B007YBDKZK,is long and blue, two-piece
+dress,val,dress_val_01953,B008ZAD996,B00D8GZNH8,It has a v-neck and a tighter fit.,is less dark and more revealing
+dress,val,dress_val_01954,B0073Y4KA2,B00BHPLQSC,Is a short cream colored dress,is less formal and white
+dress,val,dress_val_01955,B005F6NAWE,B008OY314G,is shorter and has more cat,Is pink with a cat motif
+dress,val,dress_val_01956,B00FN4A7QA,B008CBA3RE,Has a ruffled hem and straps., printed
+dress,val,dress_val_01957,B006YOU8HG,B005C8DASY,Has pockets and a button up neck,is longe sleeves and is gray colored
+dress,val,dress_val_01958,B003N17E7U,B006GV3N56,has thin straps with ruffles and is black,is more revealing
+dress,val,dress_val_01959,B0036SHD1W,B00FGBX5HI,is longer in length and has longer sleeves,Is longer and patterned
+dress,val,dress_val_01960,B006M49D42,B00A2IKF6O,is darker with flowers and short sleeves,is black with red and yellow flowers
+dress,val,dress_val_01961,B00AA6F0GI,B006VA5H1K,is purple and sleeveless,is purple with a big bow
+dress,val,dress_val_01962,B006LQCT6K,B00AYWQV4I,More hugging and more purple,is solid purple
+dress,val,dress_val_01963,B00DVG348U,B009S3H54Y,looks more fashionable and party wear,is cream and brown with animal print
+dress,val,dress_val_01964,B00A8CDCD2,B008CV6AN0,is longer with solid maroon and silver belt,is plain red and is more formal
+dress,val,dress_val_01965,B007VZ35MM,B00C2CTQPE,is long and one shoulder,is longer and purple
+dress,val,dress_val_01966,B002Z7FONO,B00BPIUJCA,is longer with longer sleeves and is shiny black,Longer and more formal
+dress,val,dress_val_01967,B007RB7IJG,B0070QMT24,Is a short black sleeveless dress,is much plainer and more simple and all black.
+dress,val,dress_val_01968,B00BXS8A3M,B0098JSNPS,A blue and green chevron short dress,is multi-colored and is sleeveless
+dress,val,dress_val_01969,B009DMFX6M,B005TRZ9W8,yellow and white short dress,is more colorful
+dress,val,dress_val_01970,B0016CFU3I,B0072CEQ5Y,Is sleeveless with a short skirt and black color,is black and v necked
+dress,val,dress_val_01971,B004HSN6W0,B004HSQXPM,is shorter and lighter in color,is shorter and is more flowing
+dress,val,dress_val_01972,B00BM279C2,B00CFGYOE0,is shorter and has longer sleeves,has longer sleeves and blue color
+dress,val,dress_val_01973,B007W9ZSEA,B00EEAOUCQ,is white in color and longer,is white and floor length
+dress,val,dress_val_01974,B0051UT6AY,B007XD55T8,has sleeves and a white collar,it lighter and has sleeves
+dress,val,dress_val_01975,B008AYJC2K,B003AI6LNY,has longer sleeve with belt,is yellow with a belt
+dress,val,dress_val_01976,B005SSNE0C,B00EFYI5U4,is blue high platoo shoes,shoes are more blue
+dress,val,dress_val_01977,B00ASIFVDU,B0079G1GL0,is more floral and has less text, and a solid color
+dress,val,dress_val_01978,B0046XRKNM,B004O6LVY0,is blue,has one sleeve and is more purple
+dress,val,dress_val_01979,B003AQB1CM,B0035WTC0O,Black and white and doesn't have a belt/strap,has a black and white design and is slightly longer
+dress,val,dress_val_01980,B00BQX3Z0M,B00CIQD2MW,perfect,is identical
+dress,val,dress_val_01981,B009D5TCY8,B00C2BIUXO,is draped and blue.,has floral and is blue color
+dress,val,dress_val_01982,B00DZ02CJY,B00AMRNYLS,has straps and is black and white polka dots,is black with white polka dots
+dress,val,dress_val_01983,B0060RMLPO,B00E0EOUF8,is black with white polka dots,is polka dotten blue and white with white linings.
+dress,val,dress_val_01984,B005GQPE4K,B007E778LQ,more revealing and v-neck,is lighter in color
+dress,val,dress_val_01986,B00ANC7JCW,B009HIH1S0,is light blue and strapless,is blue
+dress,val,dress_val_01988,B004OHYU4M,B00AIHGCMU,is red with rhinestones,is red and flouncy
+dress,val,dress_val_01990,B00D1A2XZQ,B00C7BSFX4,shorter and black,is black and a mini dress
+dress,val,dress_val_01991,B00DZUQHSQ,B00BYFESVM,is pink with spaghetti straps and is layered.uh,is a more pink coloring
+dress,val,dress_val_01993,B00C12LOZU,B007REFDFO,is a tube dress,shorter and strapless
+dress,val,dress_val_01994,B00DEPBDBI,B00B92B2JG,is a long solid black dress with half sleeves.,has grey with a center black top that is revealed.
+dress,val,dress_val_01995,B007XTIENG,B009LM5RLA, one should mini dress.,is green and has one strap
+dress,val,dress_val_01996,B00715FFX4,B00518957K,is mostly white,is lighter colored
+dress,val,dress_val_01998,B00F9KUL8W,B00AW7ZRM2,Is solid black and pleated,is maroon and has long sleeves
+dress,val,dress_val_01999,B00B2UEOEK,B00CEM8AHC,is long an black with small designs,is longer with a lower cut neckline
+dress,val,dress_val_02001,B003XCNN3I,B0081TBB1O,has blue and oranges throughout and is longer,has some orange
+dress,val,dress_val_02002,B00CE2GUYM,B004ZY06UQ,is blue wide strapped dress with flaired bottom,is a darker color with wide straps
+dress,val,dress_val_02004,B00A787OEA,B005KMQPS4, fit and flair,is red with long sleeves
+dress,val,dress_val_02005,B00CFEVLBQ,B0043D2HME,is black with a high neck line,is black and dressy
+dress,val,dress_val_02006,B00F4M41J0,B00DAN7QBK,Has a white top and a blue skirt,has a white top and blue bottom under the breasts.
+dress,val,dress_val_02007,B00ANT6K0M,B00CPCMP0Y,is black and less tight,has straps
+dress,val,dress_val_02008,B00E0OSMS4,B00CL14N3Q,longed sleeved and dark colored,is black and has much longer sleeves
+dress,val,dress_val_02010,B0094QX5SK,B00G9WJ09A,Is a gold lace up tunic.,is yelloe and has ties at  waist
+dress,val,dress_val_02011,B004MW4Y9A,B004S4ZD1K,is longer and darker,is striped and without a belt
+dress,val,dress_val_02012,B00DO9M2VE,B00AAD6KOM,has longer sleeves and is black,is longer sleeved and polka-dotted
+dress,val,dress_val_02013,B003ZJ6GCO,B007O056R6,is more patterned with images,is a print and shorter with a squared neckline
+dress,val,dress_val_02014,B00CL0UK0C,B00F4MZ144,has longer sleeves and black in color,is darker and has longer sleeves
+dress,val,dress_val_02015,B005WQCHPI,B007JFW33Q,is perfect,looks the exact same
+dress,val,dress_val_02016,B00BY3GO0C,B0030EHJ66,Brighter and more playful looking,is red with a floral print

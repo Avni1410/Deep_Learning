@@ -1,0 +1,53 @@
+{
+    "dress": {
+        "train": {
+            "total_queries": 5985,
+            "usable_queries": 5443,
+            "excluded_queries": 542
+        },
+        "val": {
+            "total_queries": 2017,
+            "usable_queries": 1861,
+            "excluded_queries": 156
+        },
+        "test": {
+            "total_queries": 2024,
+            "usable_queries": 1908,
+            "excluded_queries": 116
+        }
+    },
+    "shirt": {
+        "train": {
+            "total_queries": 5988,
+            "usable_queries": 5653,
+            "excluded_queries": 335
+        },
+        "val": {
+            "total_queries": 2038,
+            "usable_queries": 1941,
+            "excluded_queries": 97
+        },
+        "test": {
+            "total_queries": 2038,
+            "usable_queries": 1972,
+            "excluded_queries": 66
+        }
+    },
+    "toptee": {
+        "train": {
+            "total_queries": 6027,
+            "usable_queries": 5760,
+            "excluded_queries": 267
+        },
+        "val": {
+            "total_queries": 1961,
+            "usable_queries": 1867,
+            "excluded_queries": 94
+        },
+        "test": {
+            "total_queries": 2056,
+            "usable_queries": 2016,
+            "excluded_queries": 40
+        }
+    }
+}
