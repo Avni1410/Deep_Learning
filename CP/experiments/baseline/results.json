@@ -1,0 +1,76 @@
+[
+  {
+    "model": "openai/clip-vit-base-patch16",
+    "composition": "q = normalize(r + mean(t1, t2))",
+    "dataset": "FashionIQ",
+    "split": "val",
+    "variant": "mean",
+    "categories": [
+      "dress"
+    ],
+    "num_queries": 10,
+    "gallery_sizes": {
+      "dress": 1861
+    },
+    "metrics": {
+      "dress": {
+        "R@1": 0.0,
+        "R@5": 0.0,
+        "R@10": 0.1,
+        "R@50": 0.4
+      },
+      "overall": {
+        "R@1": 0.0,
+        "R@5": 0.0,
+        "R@10": 0.1,
+        "R@50": 0.4
+      }
+    },
+    "timestamp": "2026-09-29T04:39:22.492838Z"
+  },
+  {
+    "model": "openai/clip-vit-base-patch16",
+    "composition": "q = normalize(r + mean(t1, t2))",
+    "dataset": "FashionIQ",
+    "split": "val",
+    "variant": "mean",
+    "categories": [
+      "dress",
+      "shirt",
+      "toptee"
+    ],
+    "num_queries": 5669,
+    "gallery_sizes": {
+      "dress": 1861,
+      "shirt": 1941,
+      "toptee": 1867
+    },
+    "metrics": {
+      "dress": {
+        "R@1": 0.02525523911875336,
+        "R@5": 0.11875335840945728,
+        "R@10": 0.1708758731864589,
+        "R@50": 0.34712520150456744
+      },
+      "shirt": {
+        "R@1": 0.05203503348789284,
+        "R@5": 0.16640906749098403,
+        "R@10": 0.21792890262751158,
+        "R@50": 0.3905203503348789
+      },
+      "toptee": {
+        "R@1": 0.04231387252276379,
+        "R@5": 0.16550615961435458,
+        "R@10": 0.2340653454740225,
+        "R@50": 0.4161756829137654
+      },
+      "overall": {
+        "R@1": 0.040042335508908095,
+        "R@5": 0.1504674545775269,
+        "R@10": 0.20779678955724112,
+        "R@50": 0.38472393720232845
+      }
+    },
+    "timestamp": "2026-09-29T05:13:24.150287Z"
+  }
+]
