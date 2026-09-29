@@ -53,3 +53,5 @@ experiments/outputs/
 tmp/
 temp/
 *.tmp
+
+experiments/baseline/*_ranked.json
