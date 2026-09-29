@@ -55,3 +55,6 @@ temp/
 *.tmp
 
 experiments/baseline/*_ranked.json
+
+experiments/phase4/*/checkpoints/*.pt
+experiments/phase4/results/*.json
