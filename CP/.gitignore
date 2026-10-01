@@ -58,3 +58,31 @@ experiments/baseline/*_ranked.json
 
 experiments/phase4/*/checkpoints/*.pt
 experiments/phase4/results/*.json
+
+# Phase 5/6 large/generated artifacts
+experiments/phase5/**/checkpoints/
+experiments/phase6/**/checkpoints/
+
+# Phase 6 generated visual inspection artifacts
+experiments/phase6/visual_inspection/*.html
+
+# Phase 6 generated ranked retrieval outputs
+experiments/phase6/comparison_phase4/results/
+experiments/phase6/comparison_phase6/results/
+
+# Large experiment files
+*.zip
+*.tar
+*.tar.gz
+
+# Phase 6 temporary visual inspection assets
+experiments/phase6/visual_inspection_upload/
+
+# Generated training/evaluation logs
+experiments/phase5/**/train_log.csv
+experiments/phase6/**/train_log.csv
+
+# Generated ranked retrieval outputs
+experiments/phase5/results/*_ranked.json
+experiments/phase6/comparison_phase4/results/
+experiments/phase6/comparison_phase6/results/

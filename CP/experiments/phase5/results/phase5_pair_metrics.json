@@ -1,0 +1,89 @@
+[
+  {
+    "model": "openai/clip-vit-base-patch16",
+    "composition": "q = normalize(r + t_phase5_pair)",
+    "dataset": "FashionIQ",
+    "split": "val",
+    "variant": "phase5_pair",
+    "categories": [
+      "dress"
+    ],
+    "num_queries": 1861,
+    "gallery_sizes": {
+      "dress": 1861
+    },
+    "metrics": {
+      "dress": {
+        "R@1": 0.028479312197743148,
+        "R@5": 0.09081139172487909,
+        "R@10": 0.16066630843632457,
+        "R@50": 0.3987103707684041
+      },
+      "overall": {
+        "R@1": 0.028479312197743148,
+        "R@5": 0.09081139172487909,
+        "R@10": 0.16066630843632457,
+        "R@50": 0.3987103707684041
+      }
+    },
+    "timestamp": "2026-09-30T17:28:20.841233Z"
+  },
+  {
+    "model": "openai/clip-vit-base-patch16",
+    "composition": "q = normalize(r + t_phase5_pair)",
+    "dataset": "FashionIQ",
+    "split": "val",
+    "variant": "phase5_pair",
+    "categories": [
+      "shirt"
+    ],
+    "num_queries": 1941,
+    "gallery_sizes": {
+      "shirt": 1941
+    },
+    "metrics": {
+      "shirt": {
+        "R@1": 0.03297269448737764,
+        "R@5": 0.1056156620298815,
+        "R@10": 0.17104585265327152,
+        "R@50": 0.4198866563626996
+      },
+      "overall": {
+        "R@1": 0.03297269448737764,
+        "R@5": 0.1056156620298815,
+        "R@10": 0.17104585265327152,
+        "R@50": 0.4198866563626996
+      }
+    },
+    "timestamp": "2026-09-30T17:36:40.450995Z"
+  },
+  {
+    "model": "openai/clip-vit-base-patch16",
+    "composition": "q = normalize(r + t_phase5_pair)",
+    "dataset": "FashionIQ",
+    "split": "val",
+    "variant": "phase5_pair",
+    "categories": [
+      "toptee"
+    ],
+    "num_queries": 1867,
+    "gallery_sizes": {
+      "toptee": 1867
+    },
+    "metrics": {
+      "toptee": {
+        "R@1": 0.03427959292983396,
+        "R@5": 0.13069094804499196,
+        "R@10": 0.19657204070701662,
+        "R@50": 0.4611676486341725
+      },
+      "overall": {
+        "R@1": 0.03427959292983396,
+        "R@5": 0.13069094804499196,
+        "R@10": 0.19657204070701662,
+        "R@50": 0.4611676486341725
+      }
+    },
+    "timestamp": "2026-09-30T17:40:00.292754Z"
+  }
+]
