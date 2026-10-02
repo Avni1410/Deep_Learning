@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+
+{% block title %}
+Describe Your Search
+{% endblock %}
+
+{% block content %}
+
+<section class="caption-page">
+
+    <div class="caption-container">
+
+        <div class="caption-heading">
+            <h1>Describe the changes</h1>
+
+            <p>
+                Tell the system how you want the retrieved product
+                to differ from the reference image.
+            </p>
+        </div>
+
+
+        <div class="caption-layout">
+
+            <!-- Reference image -->
+
+            <div class="caption-card reference-preview">
+
+                <h2>Reference product</h2>
+
+                <img src="{{ url_for('get_image',
+                                    image_name=reference_name,
+                                    dim=450) }}" alt="Reference product" class="reference-preview-image">
+
+            </div>
+
+
+            <!-- Caption input -->
+
+            <div class="caption-card">
+
+                <h2>Modification description</h2>
+
+                <p class="card-description">
+                    Describe attributes such as colour, material,
+                    pattern, shape, or style.
+                </p>
+
+
+                <form method="POST" action="{{ url_for('custom_caption',
+                                         dataset=dataset,
+                                         reference_name=reference_name) }}">
+                    <div class="top-k-control">
+
+                        <label for="top_k">
+                            Number of results
+                        </label>
+
+                        <select id="top_k" name="top_k">
+                            <option value="4">4</option>
+                            <option value="8" selected>8</option>
+                            <option value="12">12</option>
+                            <option value="20">20</option>
+                        </select>
+
+                    </div>
+                    <textarea name="custom_caption" class="caption-input" rows="7"
+                        placeholder="Example: change the colour to black and make the style more formal."
+                        required></textarea>
+
+
+                    <div class="caption-actions">
+
+                        <button type="submit" class="search-button">
+                            Search products
+                        </button>
+
+                    </div>
+
+                </form>
+
+
+                {% if relative_captions %}
+
+                <div class="suggested-section">
+
+                    <h3>Suggested modifications</h3>
+
+                    <div class="suggested-list">
+
+                        {% for caption in relative_captions %}
+
+                        <form method="POST" action="{{ url_for('custom_caption',
+                                                 dataset=dataset,
+                                                 reference_name=reference_name) }}">
+
+                            <input type="hidden" name="custom_caption" value="{{ caption }}">
+
+                            <button type="submit" class="suggested-caption">
+                                {{ caption }}
+                            </button>
+
+                        </form>
+
+                        {% endfor %}
+
+                    </div>
+
+                </div>
+
+                {% endif %}
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+{% endblock %}

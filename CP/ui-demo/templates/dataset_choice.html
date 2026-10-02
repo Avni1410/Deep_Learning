@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}
+Attribute-Aware Product Retrieval
+{% endblock %}
+
+{% block content %}
+
+<section class="landing">
+
+    <div class="landing-inner">
+
+        <div class="landing-header">
+            <h1>Attribute-Aware Product Retrieval</h1>
+
+            <p>
+                Search a product catalogue using a reference image
+                and natural-language modifications.
+            </p>
+        </div>
+
+        <div class="search-panel">
+
+            <h2>Start a retrieval search</h2>
+
+            <p class="panel-description">
+                Upload a product image and describe how you want
+                the retrieved product to differ.
+            </p>
+
+            <a href="{{ url_for('reference', dataset='fashionIQ') }}"
+               class="start-button">
+                Start Search
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+{% endblock %}

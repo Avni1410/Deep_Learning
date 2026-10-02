@@ -1,0 +1,8 @@
+data/
+fashionIQ_dataset/
+uploaded_files/
+__pycache__/
+*.pyc
+static/src/
+static/img/
+static/favicon.ico

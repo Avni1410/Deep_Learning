@@ -1,0 +1,140 @@
+{% extends "base.html" %}
+
+{% block title %}
+Product Retrieval
+{% endblock %}
+
+{% block content %}
+
+<section class="retrieval-page">
+
+    <div class="retrieval-container">
+
+        <div class="retrieval-heading">
+
+            <h1>Product Retrieval</h1>
+
+            <p>
+                Choose a reference product and describe how you want it to change.
+            </p>
+
+        </div>
+
+
+        <!-- ================================
+             Upload Reference Image
+             ================================ -->
+
+        <div class="retrieval-card upload-card">
+
+            <h2>Upload a reference image</h2>
+
+            <p class="card-description">
+                Upload your own product image to use as the starting point.
+            </p>
+
+
+          <form method="POST"
+      action="{{ url_for('file_upload', dataset='fashionIQ') }}"
+      enctype="multipart/form-data">
+
+    <div class="upload-category">
+
+        <label for="fiq-category">
+            Product category
+        </label>
+
+        <select id="fiq-category"
+                name="fiq-category"
+                required>
+
+            <option value="dress">Dress</option>
+            <option value="shirt">Shirt</option>
+            <option value="toptee">Toptee</option>
+
+        </select>
+
+    </div>
+
+
+    <label class="upload-area">
+
+        <input type="file"
+               name="file"
+               accept="image/*"
+               onchange="this.form.submit()"
+               required>
+
+        <span class="upload-title">
+            Choose an image
+        </span>
+
+        <span class="upload-description">
+            JPG or PNG
+        </span>
+
+    </label>
+
+</form>  
+        </div>
+
+
+        <!-- Divider -->
+
+        <div class="section-divider">
+
+            <span>OR</span>
+
+        </div>
+
+
+        <!-- ================================
+             Existing FashionIQ Images
+             ================================ -->
+
+        <div class="retrieval-card">
+
+            <h2>Choose from FashionIQ</h2>
+
+            <p class="card-description">
+                Select an existing catalogue image as your reference.
+            </p>
+
+
+            {% if names %}
+
+            <div class="reference-grid">
+
+                {% for name in names %}
+
+                <a href="{{ url_for('relative_caption',
+                                     dataset=dataset,
+                                     reference_name=name) }}"
+                   class="reference-item">
+
+                    <img src="{{ url_for('get_image',
+                                         image_name=name,
+                                         dim=220) }}"
+                         alt="Product image">
+
+                </a>
+
+                {% endfor %}
+
+            </div>
+
+            {% else %}
+
+            <div class="empty-state">
+                No reference images available.
+            </div>
+
+            {% endif %}
+
+        </div>
+
+    </div>
+
+</section>
+
+{% endblock %}

@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+
+{% block title %}
+Retrieval Results
+{% endblock %}
+
+{% block content %}
+
+<section class="results-page">
+
+    <div class="results-container">
+
+        <!-- Page heading -->
+        <div class="results-heading">
+            <h1>Retrieval Results</h1>
+
+            <p>
+                Products retrieved from the catalogue based on your reference image
+                and modification description.
+            </p>
+        </div>
+
+
+        <!-- Query information -->
+        <div class="query-card">
+
+            <div class="query-reference">
+
+                <h2>Reference product</h2>
+
+                <img
+                    src="{{ url_for('get_image',
+                                    image_name=reference_name,
+                                    dim=260) }}"
+                    alt="Reference product"
+                    class="query-reference-image">
+
+            </div>
+
+
+            <div class="query-details">
+
+                <h2>Modification description</h2>
+
+                <div class="caption-display">
+                    {{ caption }}
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- Results -->
+        <div class="results-section">
+
+            <div class="results-section-header">
+
+                <div>
+                    <h2>Retrieved products</h2>
+
+                    <p>
+                        Ranked according to similarity to the composed query.
+                    </p>
+                </div>
+
+                <div class="result-count">
+                    {{ names|length }} results
+                </div>
+
+            </div>
+
+
+            {% if names is not none and names|length > 0 %}
+
+            <div class="results-grid">
+
+                {% for name in names %}
+
+                <div class="result-item">
+
+                    <div class="result-rank">
+                        #{{ loop.index }}
+                    </div>
+
+                    <img
+                        src="{{ url_for('get_image',
+                                        image_name=name,
+                                        dim=320) }}"
+                        alt="Retrieved product"
+                        class="result-image">
+
+                </div>
+
+                {% endfor %}
+
+            </div>
+
+            {% else %}
+
+            <div class="empty-results">
+                No retrieval results were found.
+            </div>
+
+            {% endif %}
+
+        </div>
+
+    </div>
+
+</section>
+
+{% endblock %}
