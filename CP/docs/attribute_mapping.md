@@ -439,7 +439,6 @@ and ablation results.
 ---
 
 ## 15. Phase 1 Boundary
-
 Phase 1 is considered complete when:
 
 - FashionIQ is prepared and validated;

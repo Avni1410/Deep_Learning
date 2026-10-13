@@ -1,0 +1,123 @@
+UI DEMO — RUN INSTRUCTIONS
+============================
+
+Project:
+Attribute-Aware Product Retrieval
+FashionIQ-based composed image retrieval research prototype
+
+IMPORTANT:
+- The UI demo uses the Conda environment: clip4cir
+- The main CP project uses the Conda environment: cir
+- For running this UI demo, use clip4cir, NOT cir.
+
+PROJECT LOCATION
+----------------
+C:\Users\selot\OneDrive\Documents\5SEM-CP\DL\Deep_Learning\CP\ui-demo
+
+
+1. ACTIVATE THE UI ENVIRONMENT
+------------------------------
+Open PowerShell and run:
+
+conda activate clip4cir
+
+
+2. GO TO THE UI DEMO FOLDER
+---------------------------
+cd "C:\Users\selot\OneDrive\Documents\5SEM-CP\DL\Deep_Learning\CP\ui-demo"
+
+
+3. START THE UI
+---------------
+Run:
+
+python app.py
+
+The Flask application should start on:
+
+http://127.0.0.1:5000
+
+
+4. OPEN THE UI
+--------------
+Open a browser and go to:
+
+http://127.0.0.1:5000
+
+
+5. USING THE DEMO
+-----------------
+The interface allows you to:
+
+1. Start a product retrieval search.
+2. Select a FashionIQ product category:
+   - Dress
+   - Shirt
+   - Toptee
+3. Select/upload a reference product image.
+4. Enter a natural-language modification description.
+5. Select the number of retrieved products:
+   - 4
+   - 8
+   - 12
+   - 20
+6. Run the retrieval search.
+7. View the ranked retrieved products.
+
+
+6. STOP THE UI
+--------------
+In the PowerShell window running Flask, press:
+
+Ctrl + C
+
+
+7. IMPORTANT ENVIRONMENT DISTINCTION
+------------------------------------
+UI DEMO:
+    Conda environment = clip4cir
+    Folder = CP\ui-demo
+    Command = python app.py
+
+MAIN CP PROJECT:
+    Conda environment = cir
+    Folder = CP
+    Used for the main research pipeline, experiments, evaluation,
+    and other project components.
+
+Do not use the cir environment to run the UI demo unless the
+environment has been deliberately configured with the UI dependencies.
+
+
+8. IF "NO MODULE NAMED CLIP" APPEARS
+------------------------------------
+Make sure the correct environment is active:
+
+conda activate clip4cir
+
+Then verify:
+
+python -c "import torch, clip; print('Torch:', torch.__version__); print('CLIP imported successfully')"
+
+After that, run:
+
+python app.py
+
+
+9. IF PORT 5000 IS ALREADY IN USE
+---------------------------------
+Stop the previous Flask process or close the PowerShell window
+running the previous demo, then run:
+
+python app.py
+
+
+10. DATA NOTE
+-------------
+The UI demo depends on the locally configured FashionIQ dataset
+and precomputed retrieval feature files.
+
+These files are intentionally not committed to GitHub.
+
+Therefore, cloning the repository alone does not recreate the
+complete local demo dataset/environment automatically.
